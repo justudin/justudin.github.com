@@ -18,10 +18,9 @@ tags:
 ---
 Hello readers, hari ini saya ingin curhat tentang suasana rs alias rumah sehat panembahan senopati yang letaknya ada di bantul, yk. Postingan ini saya buat karena daripada nganggur nunggu antrian lebih baik dimanfaatkan untuk latihan nulis, hehe.
 
-<!--more-->
 
 Ok langsung saja ini photo suasana antrian pagi ini di rs tsb. 
 
 [<img src="https://justudin.com/files/uploads/2013/02/20130227-080601.jpg" alt="20130227-080601.jpg" class="alignnone size-full" />](https://justudin.com/files/uploads/2013/02/20130227-080601.jpg)
 
-Baru menginjak pukul 8. Antrian sudah mencapai urutan ke 50an. Ini menandakan bahwa masyarakat banyak yang mengalami sakit. Semoga segera pada diberi kesembuhan. Aamiin. Oke sekian dulu, semoga ada manfaatnya.
+Baru menginjak pukul 8. Antrian sudah mencapai urutan ke 50an. Ini menandakan bahwa masyarakat banyak yang mengalami sakit. Semoga segera pada diberi kesembuhan. Aamiin. 
