@@ -72,6 +72,6 @@ again, then purge the package using this command:
 
 <pre class="brush: bash; title: ; notranslate" title="">sudo apt-get -y purge linux-image-X.XX.X-XX-generic </pre>
 
-4. If you get another `<strong>No space left on device</strong>, `then you should remove one or more initrd.img  (**refer to step 2-3**) and try again.
+4. If you get another `No space left on device, `then you should remove one or more initrd.img  (**refer to step 2-3**) and try again.
 
 Good luck!
