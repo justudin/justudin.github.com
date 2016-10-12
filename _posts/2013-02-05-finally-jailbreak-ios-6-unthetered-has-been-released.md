@@ -6,6 +6,9 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=93
 permalink: /finally-jailbreak-ios-6-unthetered-has-been-released/
+publicize_twitter_user:
+  - udinjust4u
+  - udinjust4u
 categories:
   - Umum
 tags:

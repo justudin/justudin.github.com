@@ -62,9 +62,9 @@ dan jalakan dengan mengetikkan
 </div>
 
 <div>
-  <a href="files/2013/01/screenshot-11.png"><img alt="" src="files/2013/01/screenshot-11.png?w=300" width="400" height="125" border="0" /></a>
+  <a href="https://justudin.com/files/uploads/2013/01/screenshot-11.png"><img alt="" src="https://justudin.com/files/uploads/2013/01/screenshot-11.png?w=300" width="400" height="125" border="0" /></a>
 </div>
 
 Oke, Sekian..
   
-semoga bermanfaat..
+Semoga bermanfaat..

@@ -6,6 +6,12 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=140
 permalink: /codeigniter-solve-multiple-connection-databases/
+publicize_twitter_user:
+  - udinjust4u
+  - udinjust4u
+tagazine-media:
+  - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:8:"31399586";s:7:"blog_id";s:8:"32019069";s:9:"mod_stamp";s:19:"2013-03-24 12:32:51";}'
+  - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:8:"31399586";s:7:"blog_id";s:8:"32019069";s:9:"mod_stamp";s:19:"2013-03-24 12:32:51";}'
 categories:
   - Web Programming
 tags:
@@ -41,4 +47,4 @@ So all is good as well as i fixed it.
   
 Thank you for visiting and reading my notes. I hope its usefull for me and you.
 
-See you next time, bye bye :p
+See you next time, bye bye

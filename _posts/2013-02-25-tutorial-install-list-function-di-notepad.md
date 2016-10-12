@@ -6,6 +6,12 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=116
 permalink: /tutorial-install-list-function-di-notepad/
+publicize_twitter_user:
+  - udinjust4u
+  - udinjust4u
+publicize_reach:
+  - 'a:3:{s:7:"twitter";a:1:{i:2756442;i:50;}s:2:"fb";a:1:{i:2756459;i:364;}s:2:"wp";a:1:{i:0;i:6;}}'
+  - 'a:3:{s:7:"twitter";a:1:{i:2756442;i:50;}s:2:"fb";a:1:{i:2756459;i:364;}s:2:"wp";a:1:{i:0;i:6;}}'
 categories:
   - Tutorial
 tags:
@@ -17,14 +23,14 @@ tags:
 ---
 Hello readers, sudah lama tidak posting lagi neh.. akhirnya bisa menyempatkan untuk menuliskan tutorial sederhana tentang list function, apa itu silahkan lihat SS berikut : <!--more--><figure id="attachment_117" style="width: 625px" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-117" alt="Penampakan list function pada tab sebelah kanan" src="files/uploads/2013/02/list-function.png?w=625" width="625" height="340" srcset="files/uploads/2013/02/list-function-300x163.png 300w, files/uploads/2013/02/list-function-768x418.png 768w, files/uploads/2013/02/list-function-1024x558.png 1024w, files/uploads/2013/02/list-function-1200x654.png 1200w, files/uploads/2013/02/list-function.png 1366w" sizes="(max-width: 625px) 100vw, 625px" />](files/uploads/2013/02/list-function.png)<figcaption class="wp-caption-text">Penampakan list function pada tab sebelah kanan</figcaption></figure> 
+[<img class="size-large wp-image-117" alt="Penampakan list function pada tab sebelah kanan" src="https://justudin.com/files/uploads/2013/02/list-function.png?w=625" width="625" height="340" srcset="https://justudin.com/files/uploads/2013/02/list-function-300x163.png 300w, https://justudin.com/files/uploads/2013/02/list-function-768x418.png 768w, https://justudin.com/files/uploads/2013/02/list-function-1024x558.png 1024w, https://justudin.com/files/uploads/2013/02/list-function-1200x654.png 1200w, https://justudin.com/files/uploads/2013/02/list-function.png 1366w" sizes="(max-width: 625px) 100vw, 625px" />](https://justudin.com/files/uploads/2013/02/list-function.png)<figcaption class="wp-caption-text">Penampakan list function pada tab sebelah kanan</figcaption></figure> 
 
 <p style="text-align:left;">
   Jadi intinya bisa nge-list function2 yang ada dalam file yang sedang kita buka, hal ini menurut saya mempermudah untuk pindah2 function karena kita tidak perlu melakukan scrolling ataupun ctrl+f alias mencarinya dengan bantuan find. Oke langsung saja untuk instalasinya cukup mudah. Ikuti langkah2 berikut :
 </p>
 
 <p style="text-align:left;">
-  1. Download Plugin Function List -> <a href="http://sourceforge.net/projects/npp-plugins/files/Function%20List/FunctionList%20Plugin%20v2.1/FunctionList_2_1_UNI_dll.zip/download">here</a>
+  1. Download Plugin Function List -> <a href="http://sourceforge.net/projects/npp-plugins/files/Function%20List/FunctionList%20Plugin%20v2.1/FunctionList_2_1_UNI_dll.zip/download">http://sourceforge.net/projects/npp-plugins/files/Function%20List/FunctionList%20Plugin%20v2.1/FunctionList_2_1_UNI_dll.zip/download</a>
 </p>
 
 <p style="text-align:left;">
@@ -43,4 +49,4 @@ Hello readers, sudah lama tidak posting lagi neh.. akhirnya bisa menyempatkan un
 
 3. Setelah itu buka **Notepad++ **dan **Function List** plug-in menu sudah tampil di menu **Plugins** –> **Function List.**
 
-****Sekian dulu, semoga ada manfaatnya. 
+****Sekian dulu, semoga ada manfaatnya.

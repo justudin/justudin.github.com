@@ -6,6 +6,18 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=208
 permalink: /life-is-experiences/
+publicize_facebook_url:
+  - https://facebook.com/100001042857820_680218165356272
+  - https://facebook.com/100001042857820_680218165356272
+publicize_twitter_user:
+  - udinjust4u
+  - udinjust4u
+publicize_twitter_url:
+  - http://t.co/V2jPRivGBz
+  - http://t.co/V2jPRivGBz
+publicize_linkedin_url:
+  - 'http://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5798999287828316160&type=U&a=E_aA'
+  - 'http://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5798999287828316160&type=U&a=E_aA'
 categories:
   - Curhatan
 tags:
@@ -22,7 +34,7 @@ hehe ya pengalaman adalah guru yang paling berharga, namun saya sarankan setelah
 
 Jadi gini ceritanya, baru saja saya ingin meng-_update _data yang ada di dalam database _oracle. _Data yang ingin saya ganti adalah data yang sebelumnya saya masukan untuk ujicoba (sample). Namun karena entah kenapa baru ngalamun atau galau eh ngetik sintaknya kurang lengkap udah saya run aja querynya.  Jadi kayak gini deh hasile.
 
-[<img class="size-full wp-image-210 alignleft" alt="update sembrono" src="files/uploads/2013/10/update-sembrono.png" width="359" height="51" srcset="files/uploads/2013/10/update-sembrono-300x43.png 300w, files/uploads/2013/10/update-sembrono.png 359w" sizes="(max-width: 359px) 100vw, 359px" />](files/uploads/2013/10/update-sembrono.png)
+[<img class="size-full wp-image-210 alignleft" alt="update sembrono" src="https://justudin.com/files/uploads/2013/10/update-sembrono.png" width="359" height="51" srcset="https://justudin.com/files/uploads/2013/10/update-sembrono-300x43.png 300w, https://justudin.com/files/uploads/2013/10/update-sembrono.png 359w" sizes="(max-width: 359px) 100vw, 359px" />](https://justudin.com/files/uploads/2013/10/update-sembrono.png)
 
 &nbsp;
 
@@ -30,7 +42,7 @@ Jadi gini ceritanya, baru saja saya ingin meng-_update _data yang ada di dalam 
 
 **Bayangkan** ya data **6689 **berubah semua wis_nim nya jadi &#8216;**096500xx**&#8216;. OMG, what the h*ll I&#8217;m doing! This is not fake data, this is for real.
 
-[<img alt="ss hasil update nglantur" src="files/uploads/2013/10/ss-hasil-update-nglantur.png" width="509" height="448" />](files/uploads/2013/10/ss-hasil-update-nglantur.png)
+[<img alt="ss hasil update nglantur" src="https://justudin.com/files/uploads/2013/10/ss-hasil-update-nglantur.png" width="509" height="448" />](https://justudin.com/files/uploads/2013/10/ss-hasil-update-nglantur.png)
 
 &nbsp;
 

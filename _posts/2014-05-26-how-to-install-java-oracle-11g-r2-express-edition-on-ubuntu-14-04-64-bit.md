@@ -6,6 +6,24 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=238
 permalink: /how-to-install-java-oracle-11g-r2-express-edition-on-ubuntu-14-04-64-bit/
+publicize_facebook_url:
+  - https://facebook.com/799335173444570
+  - https://facebook.com/799335173444570
+geo_public:
+  - 0
+  - 0
+publicize_google_plus_url:
+  - https://plus.google.com/110821351225026605436/posts/4XJJPc4Wr3m
+  - https://plus.google.com/110821351225026605436/posts/4XJJPc4Wr3m
+publicize_twitter_user:
+  - udinjust4u
+  - udinjust4u
+publicize_twitter_url:
+  - http://t.co/ZkFYh9SUHp
+  - http://t.co/ZkFYh9SUHp
+publicize_linkedin_url:
+  - 'http://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5876652393139032064&type=U&a=kh72'
+  - 'http://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5876652393139032064&type=U&a=kh72'
 categories:
   - Tutorial
 tags:
@@ -33,7 +51,7 @@ $ sudo apt-get install oracle-java7-installer
 
 The screen in figure 1 will appear in the terminal, hit enter to proceed. After this, the screen in figure 2 will be shown. Navigate to <Yes> using the left arrow on your keyboard and hit enter. Oracle JDK 7 will be installed.<figure id="attachment_239" style="width: 665px" class="wp-caption aligncenter">
 
-<img class="wp-image-239 size-full" src="files/uploads/2014/05/oracle-java.png" alt="Figure 1: Binary Code license" width="665" height="395" srcset="files/uploads/2014/05/oracle-java-768x457.png 768w, files/uploads/2014/05/oracle-java.png 810w" sizes="(max-width: 665px) 100vw, 665px" /><figcaption class="wp-caption-text">Figure 1: Binary Code license</figcaption></figure> <figure id="attachment_240" style="width: 665px" class="wp-caption aligncenter"><img class="size-full wp-image-240" src="files/uploads/2014/05/jdk-agreement.png" alt="Figure 2: JDK License Agreement" width="665" height="398" srcset="files/uploads/2014/05/jdk-agreement-300x180.png 300w, files/uploads/2014/05/jdk-agreement-768x460.png 768w, files/uploads/2014/05/jdk-agreement.png 810w" sizes="(max-width: 665px) 100vw, 665px" /><figcaption class="wp-caption-text">Figure 2: JDK License Agreement</figcaption></figure> 
+<img class="wp-image-239 size-full" src="https://justudin.com/files/uploads/2014/05/oracle-java.png" alt="Figure 1: Binary Code license" width="665" height="395" srcset="https://justudin.com/files/uploads/2014/05/oracle-java-768x457.png 768w, https://justudin.com/files/uploads/2014/05/oracle-java.png 810w" sizes="(max-width: 665px) 100vw, 665px" /><figcaption class="wp-caption-text">Figure 1: Binary Code license</figcaption></figure> <figure id="attachment_240" style="width: 665px" class="wp-caption aligncenter"><img class="size-full wp-image-240" src="https://justudin.com/files/uploads/2014/05/jdk-agreement.png" alt="Figure 2: JDK License Agreement" width="665" height="398" srcset="https://justudin.com/files/uploads/2014/05/jdk-agreement-300x180.png 300w, https://justudin.com/files/uploads/2014/05/jdk-agreement-768x460.png 768w, https://justudin.com/files/uploads/2014/05/jdk-agreement.png 810w" sizes="(max-width: 665px) 100vw, 665px" /><figcaption class="wp-caption-text">Figure 2: JDK License Agreement</figcaption></figure> 
 
 The next next step is to set the JAVA_HOME environment variable. To do this, open the /etc/bash.bashrc file by executing the following statement.
 
@@ -68,7 +86,7 @@ For the installation of Oracle 11g R2 Express Edition (XE), a couple of addition
 <pre class="brush: bash; title: ; notranslate" title="">$ sudo apt-get install alien libaio1 unixodbc
 </pre>
 
-The next step is to download the Oracle 11g R2 Express Edition from the Oracle website. Make sure you select the Linux x64 version from Oracle's website. After the download is completed, open the terminal and navigate to the download directory. In my case this can be done by executing the following statement.
+The next step is to download the Oracle 11g R2 Express Edition from the Oracle website. Make sure you select the Linux x64 version from http://www.oracle.com/technetwork/products/express-edition/downloads/index.html. After the download is completed, open the terminal and navigate to the download directory. In my case this can be done by executing the following statement.
 
 The next step step is to unzip the downloaded file. To do this, execute the following command.
 

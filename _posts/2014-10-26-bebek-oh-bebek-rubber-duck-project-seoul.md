@@ -6,6 +6,43 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=273
 permalink: /bebek-oh-bebek-rubber-duck-project-seoul/
+geo_latitude:
+  - 37.5592451
+  - 37.5592451
+geo_longitude:
+  - 126.99884700000007
+  - 126.99884700000007
+geo_address:
+  - 192-5 Pildong 3(sam)-ga, Jung-gu, Seoul, South Korea
+  - 192-5 Pildong 3(sam)-ga, Jung-gu, Seoul, South Korea
+geo_public:
+  - 
+  - 
+publicize_facebook_url:
+  - https://facebook.com/
+  - https://facebook.com/
+  - https://facebook.com/
+  - https://facebook.com/
+publicize_google_plus_url:
+  - https://plus.google.com/110821351225026605436/posts/FPvrGXijGDk
+  - https://plus.google.com/110821351225026605436/posts/FPvrGXijGDk
+publicize_twitter_user:
+  - udinjust4u
+  - udinjust4u
+publicize_twitter_url:
+  - http://t.co/akc1pkhtDW
+  - http://t.co/akc1pkhtDW
+publicize_linkedin_url:
+  - 'https://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5931996976387219456&type=U&a=bhV_'
+  - 'https://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5931996976387219456&type=U&a=bhV_'
+publicize_tumblr_url:
+  - http://justudin.tumblr.com.tumblr.com/post/100968257793
+  - http://justudin.tumblr.com.tumblr.com/post/100968257793
+publicize_path_id:
+  - 
+  - 
+  - 
+  - 
 categories:
   - Curhatan
   - Jalan jalan
@@ -30,16 +67,3 @@ _You know live here is freedom, you can do anything, nobody care! _aduh keceplo
 Akhirnya setelah ngalor-ngidul kami putuskan untuk pulang \*karena saya sudah laper banget\*. Dan malam itu sahabat saya ini nginep di tempat saya, dan kami lanjutkan ngobrol nya ke banyak hal \*biasa anak muda\* yang tidak bisa saya share semua disini. Jadi intinya, solusinya bagi jomblowan kita2 ini adalah menikah. Doakan ya semoga Allah lancarkan semua niat2 baik ini. Wallahu a&#8217;lam nikahnya pas masih kuliah disini atau setelah selesai hehe. Kita lihat saja nanti hanya waktu yang bisa menjawab hehehe. Sekarang fokus aja nyari2 kesibukan selain nge-lab karena kenapa malam itu kita ngobrol tentang masalah &#8220;menikah&#8221; karena kehidupan di-lab itu sudah membuat kita stress, butuh hiburan, refresing, maka jalan yang paling baik adalah menikah biar ada temannya kalau mau jalan2, bisa jadi tempat curhat kalau ada masalah, bisa jadi teman untuk berbagi suka cita hidup di negeri dongeng , _&#8220;Oh indahnya hidup ini&#8221; _😀 hehehe.
 
 Oiya ini saya bagi gambar foto bebek yang mendadak jadi artis, bagi teman-teman yang ada kesempatan datang ke Seoul, bisa datang lihat bebek gede ini di Jamsil station \*bagi yang penasaran aja\* hehehe. Acara ini berlangsung dari tanggal 14 Oktober sampai 14 November bertempat di Seokchon Lake.
-
-<div id='gallery-1' class='gallery galleryid-273 gallery-columns-2 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <img width="150" height="150" src="files/uploads/2014/10/20141025_190505-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_190505" />
-  </div></figure>
-  <figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <img width="150" height="150" src="files/uploads/2014/10/20141025_190615-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_190615" />
-  </div></figure><figure class='gallery-item'> 
-</div>

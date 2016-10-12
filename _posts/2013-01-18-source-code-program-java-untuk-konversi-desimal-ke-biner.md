@@ -64,7 +64,7 @@ System.out.println();
   </p>
   
   <div>
-    <a href="files/uploads/2013/01/screenshot-1.png"><img alt="" src="files/uploads/2013/01/screenshot-1.png?w=300" width="400" height="125" border="0" /></a>
+    <a href="https://justudin.com/files/uploads/2013/01/screenshot-1.png"><img alt="" src="https://justudin.com/files/uploads/2013/01/screenshot-1.png?w=300" width="400" height="125" border="0" /></a>
   </div>
   
   <p>

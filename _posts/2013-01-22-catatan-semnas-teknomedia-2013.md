@@ -17,8 +17,7 @@ tags:
   - stmik
   - teknomedia
 ---
-Hello every body. Meet me again, yeah today i just wanna share you about my story @semnas teknomedia 2013. hehe tanpa basa basi yuks monggo disimak bareng-bareng.. semoga ada manfaatnya. &#8220;Like share and get more&#8221; :)
-
+Hello every body. Meet me again, yeah today i just wanna share you about my story @semnas teknomedia 2013. hehe tanpa basa basi yuks monggo disimak bareng-bareng.. semoga ada manfaatnya. &#8220;Like share and get more&#8221; 
 The Story Begin..
 
 Tepat tanggal 19 Januari 2013, saya beserta teman saya mas iqbal menghadiri acara semnas teknomedia 2013 di stmik amikom jogjakarta. Acara tersebut dihadiri petinggi2 IT di indonesia. Oh iya acara ini berskala nasional sehingga pesertanya dari sabang sampai merauke, beraneka ragam suku dan budaya. hehe.. Acara ini berlangsung mundur alias ngaret sekitar 1jam-an. dan acara dimulai pukul 10an.
@@ -43,15 +42,15 @@ Intinya dari pemaparan beliau adalah:
 
 3. The art of execution -> lakukan eksekusi or take action! **&#8220;Ideas alone are nothing! Create something worth executing!&#8221;**
 
-4. Technology Value -> ciptakan ekosistem yang mendukung
+4. Technology Value -> ciptakan ekosistem yang mendukung <img src="http://test.justudin.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 Lanjut ke pembicara kedua yaitu dari pihak micros*ft indonesia. Beliau hanya memaparkan tentang cloud computing, dll. saya gak begitu minat soalnya cuma sejenis promosi produk hhehe..
 
 Ok lanjut saja ke keynote speaker ke 3 yaitu dari Ketua amikom, prof m.suyanto..
 
-tapi sebelumnya  saya nampang dulu ya ni catatan otentik kalo saya berada di acara tersebut hehe <figure id="attachment_52" style="width: 600px" class="wp-caption aligncenter">
+tapi sebelumnya  saya nampang dulu ya ni catatan otentik kalo saya berada di acara tersebut  <img src="http://test.justudin.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />hehe<figure id="attachment_52" style="width: 600px" class="wp-caption aligncenter">
 
-[<img class=" wp-image-52  " alt="semnas" src="files/uploads/2013/01/semnas.png" width="600" height="400" />](files/uploads/2013/01/semnas.png)<figcaption class="wp-caption-text">Narsis di depan Banner Semnas Teknomedia 2013</figcaption></figure> 
+[<img class=" wp-image-52  " alt="semnas" src="https://justudin.com/files/uploads/2013/01/semnas.png" width="600" height="400" />](https://justudin.com/files/uploads/2013/01/semnas.png)<figcaption class="wp-caption-text">Narsis di depan Banner Semnas Teknomedia 2013</figcaption></figure> 
 
 Oke sudah sesi narsisnya kita kembali ke topik bahasan kita hehe..
 

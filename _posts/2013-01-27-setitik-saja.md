@@ -36,7 +36,7 @@ akhirnya setitik sajalah
 
 setitik kebaikan dari hati yang tulus
 
-mejadikan hidup ini indah :)
+mejadikan hidup ini indah
 
  
 
