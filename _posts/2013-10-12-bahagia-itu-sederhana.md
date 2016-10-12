@@ -34,9 +34,8 @@ Mungkin anda ada yang berpikiran kok bisa sederhana? bahagia kan harus didapatka
 ya, anda benar! Kebahagian memang perlu pengorbanan, berkorban untuk terus bersyukur atas apa yang sudah didapatkan.
 
 berkorban untuk terus merasa bahagia. Ya, bahagia itu masalah perasaan. it&#8217;s up to you to be happy or not! 
-<figure style="width: 400px" class="wp-caption aligncenter">
 
-<img alt="" src="https://justudin.com/files/uploads/2013/10/a3c07-bahagia-itu-sederhana.jpg" width="400" height="222" />
+<img alt="" src="https://justudin.com/files/uploads/2013/10/a3c07-bahagia-itu-sederhana.jpg" width="400" height="222"></img>
 <em>sumber gambar : gue-aul.blogspot.com</em>
 
 Yang paling penting adalah kebahagian di dunia ini hanyalah kebahagian yang semu, dan sesaat. Ada kebahagiaan yang lain yang lebih kekal abadi,yaitu di akhirat kelak. Sehingga janganlah kita hanya mengejar kebahagian di dunia, namun melupakan kebahagian yang lebih kekal abadi. Happiness is simple, ya kita balik lagi ke judul coretan ini. Se-sederhana apakah bahagia itu? Mari kita telaah bersama.
