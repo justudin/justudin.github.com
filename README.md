@@ -1,4 +1,5 @@
-justudin.github.com
-===================
+# justudin.github.io
 
-Justudin - Open Research and Project Repository
+Justudin's website [http://justudin.com](http://justudin.com)
+
+The theme for this website has been modified based on Beautiful Jekyll's theme.
