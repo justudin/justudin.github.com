@@ -23,8 +23,6 @@ tags:
 
 Okay, kali ini saya cuma pengen share cara install xampp ( webserver ) for mac os alias untuk para pengguna apel krowak,hehehehe :D, okay..langsung saja ya? ğŸ
 
-<!--more-->
-
 <div>
   Yang harus disiapin :
 </div>
@@ -132,9 +130,6 @@ Okay, kali ini saya cuma pengen share cara install xampp ( webserver ) for mac o
 
 <div>
   <a href="http://www.apachefriends.org/images/904.jpg"><img alt="" src="http://www.apachefriends.org/images/904.jpg" border="0" /></a>
-</div>
-
-<div>
 </div>
 
 <div>
