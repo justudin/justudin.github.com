@@ -53,6 +53,7 @@ tags:
   - Rubber Duck Project
   - Seokchon Lake
   - seoul
+bigimg: /files/uploads/2014/10/20141025_192712-1024x768.jpg
 ---
 Ya bebek oh bebek, baru sekali ini saya melihat bebek yang jadi artis mendadak. Entah mengapa orang-orang disini \*saya juga\* moto2 in bebek kayak gini. Mungkin kurang hiburan ya? Iya *salah satu sahabat saya juga bilang gitu &#8211; <a href="http://rischan.wordpress.com/" target="_blank">rischan</a>*.
 
