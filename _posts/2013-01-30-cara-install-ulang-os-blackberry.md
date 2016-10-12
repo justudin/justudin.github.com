@@ -23,7 +23,7 @@ Hallo semua, hari ini saya akan share sedikit pengalaman kemaren BB temen crash 
 
 <!--more-->
 
-[<img class="aligncenter" alt="Re-install OS BB" src="http://test.justudin.com/wp-content/uploads/2013/01/img_00041.jpg" width="500" height="666" />](http://test.justudin.com/wp-content/uploads/2013/01/img_00041.jpg)
+[<img class="aligncenter" alt="Re-install OS BB" src="files/uploads/2013/01/img_00041.jpg" width="500" height="666" />](files/uploads/2013/01/img_00041.jpg)
 
 1. Download BlackBerry Desktop Manager Terbaru <http://us.blackberry.com/software/desktop.html>
 
@@ -41,16 +41,8 @@ Hallo semua, hari ini saya akan share sedikit pengalaman kemaren BB temen crash 
 
 untuk penampakannya seperti berikut :
 
-[<img class="aligncenter size-large wp-image-85" alt="IMG_0005[1]" src="http://test.justudin.com/wp-content/uploads/2013/01/img_00051.jpg?w=468" width="468" height="625" />](http://test.justudin.com/wp-content/uploads/2013/01/img_00051.jpg)
+[<img class="aligncenter size-large wp-image-85" alt="IMG_0005[1]" src="files/uploads/2013/01/img_00051.jpg?w=468" width="468" height="625" />](files/uploads/2013/01/img_00051.jpg)
 
 <p style="text-align:left;">
   Sekian dulu, semoga bermanfaat. See you at another posting. bye bye 😉
-</p>
-
-<p style="text-align:left;">
-  ./Regards
-</p>
-
-<p style="text-align:left;">
-  justudin
 </p>

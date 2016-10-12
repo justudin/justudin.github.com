@@ -16,7 +16,7 @@ tags:
   - way out
   - will
 ---
-Yeah i like this title! <img src="http://test.justudin.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Yeah i like this title! :)
 
 did you know why? because i&#8217;m so happy when i say this word &#8220;There is a will there is a way&#8221;.
 
@@ -27,7 +27,3 @@ so be confident, just trust in your self. Go and take a risk!
 Alloh Subhanahu wata&#8217;ala not gave you something that you cant finish it!
 
 So keep Move ON!
-
-./Regards
-
-justudin

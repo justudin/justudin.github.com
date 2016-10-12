@@ -6,30 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=307
 permalink: /tembang-istighfar-kiai-kanjeng/
-geo_public:
-  - 0
-  - 0
-publicize_facebook_url:
-  - https://facebook.com/894331173944969
-  - https://facebook.com/894331173944969
-publicize_google_plus_url:
-  - https://plus.google.com/110821351225026605436/posts/AmZTxoAykFL
-  - https://plus.google.com/110821351225026605436/posts/AmZTxoAykFL
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
-publicize_twitter_url:
-  - http://t.co/W0GElAMSkr
-  - http://t.co/W0GElAMSkr
-publicize_linkedin_url:
-  - 'https://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5932360244989546496&type=U&a=uhuE'
-  - 'https://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5932360244989546496&type=U&a=uhuE'
-publicize_tumblr_url:
-  - http://justudin.tumblr.com.tumblr.com/post/101063363218
-  - http://justudin.tumblr.com.tumblr.com/post/101063363218
-publicize_path_id:
-  - 
-  - 
 categories:
   - Agama
   - Umum
@@ -37,9 +13,7 @@ tags:
   - kiai kanjeng
   - tembang istighfar
 ---
-Mari kita simak dan hayati lantunan tembang istighfar oleh Kiai Kanjeng berikut, semoga kita bisa mendapatkan hikmah dan kebaikan dari semua ini, aamiin.<!--more-->
-
-
+Mari kita simak dan hayati lantunan tembang istighfar oleh Kiai Kanjeng berikut, semoga kita bisa mendapatkan hikmah dan kebaikan dari semua ini, aamiin.
 
 &nbsp;
 
@@ -56,5 +30,3 @@ Mari kita simak dan hayati lantunan tembang istighfar oleh Kiai Kanjeng berikut,
 > Saya yakin, sebagaimana suburnya tanah dan tanaman-tanaman di negeri ini, Allah juga memberi rahmat berupa kesuburan dan kecerdasan di akal kita, dan kesuburan cinta di dalam hati kita. Akan tetapi masalahnya.. kita bukan nggak punya ilmu untuk menyelesaikan masalah. Kita bukan tidak punya metode untuk mengurangi bentrokan-bentrokan. Kita bukan tidak punya solusi untuk mengakhiri kerusuhan-kerusuhan dan pembunuhan-pembunuhan.
 > 
 > Masalahnya adalah: kita mau atau tidak? Kita bersedia atau tidak? Untuk mengubah diri kita agar supaya tidak terus-menerus di atas udara negeri ini terLantunkan secara batiniah tembang-tembang kematian, kematian, ….
-
-&nbsp;

@@ -6,43 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=273
 permalink: /bebek-oh-bebek-rubber-duck-project-seoul/
-geo_latitude:
-  - 37.5592451
-  - 37.5592451
-geo_longitude:
-  - 126.99884700000007
-  - 126.99884700000007
-geo_address:
-  - 192-5 Pildong 3(sam)-ga, Jung-gu, Seoul, South Korea
-  - 192-5 Pildong 3(sam)-ga, Jung-gu, Seoul, South Korea
-geo_public:
-  - 
-  - 
-publicize_facebook_url:
-  - https://facebook.com/
-  - https://facebook.com/
-  - https://facebook.com/
-  - https://facebook.com/
-publicize_google_plus_url:
-  - https://plus.google.com/110821351225026605436/posts/FPvrGXijGDk
-  - https://plus.google.com/110821351225026605436/posts/FPvrGXijGDk
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
-publicize_twitter_url:
-  - http://t.co/akc1pkhtDW
-  - http://t.co/akc1pkhtDW
-publicize_linkedin_url:
-  - 'https://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5931996976387219456&type=U&a=bhV_'
-  - 'https://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5931996976387219456&type=U&a=bhV_'
-publicize_tumblr_url:
-  - http://justudin.tumblr.com.tumblr.com/post/100968257793
-  - http://justudin.tumblr.com.tumblr.com/post/100968257793
-publicize_path_id:
-  - 
-  - 
-  - 
-  - 
 categories:
   - Curhatan
   - Jalan jalan
@@ -72,106 +35,11 @@ Oiya ini saya bagi gambar foto bebek yang mendadak jadi artis, bagi teman-teman 
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_190505/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_190505-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_190505" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_190615/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_190615-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_190615" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_190631/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_190631-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_190631" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_190454/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_190454-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Bebek dari Jauh" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191043/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191043-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191043" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191058/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191058-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191058" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191106/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191106-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191106" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191112/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191112-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191112" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191206/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191206-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191206" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191316/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191316-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191316" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191340/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191340-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191340" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191348/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191348-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191348" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191419/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191419-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191419" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191512/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191512-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191512" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191518/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191518-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191518" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191605/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191605-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191605" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191613/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191613-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191613" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191829/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191829-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191829" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191852/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191852-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191852" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_191857/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_191857-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_191857" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_192015/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_192015-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_192015" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_192249/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_192249-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_192249" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_192409/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_192409-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_192409" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_192423/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_192423-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_192423" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_192712/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_192712-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_192712" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://test.justudin.com/bebek-oh-bebek-rubber-duck-project-seoul/20141025_193037/'><img width="150" height="150" src="http://test.justudin.com/wp-content/uploads/2014/10/20141025_193037-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_193037" /></a>
+    <img width="150" height="150" src="files/uploads/2014/10/20141025_190505-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_190505" />
   </div></figure>
+  <figure class='gallery-item'> 
+  
+  <div class='gallery-icon portrait'>
+    <img width="150" height="150" src="files/uploads/2014/10/20141025_190615-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="20141025_190615" />
+  </div></figure><figure class='gallery-item'> 
 </div>

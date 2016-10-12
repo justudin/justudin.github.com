@@ -6,30 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=311
 permalink: /solved-error-no-space-left-on-device/
-geo_public:
-  - 0
-  - 0
-publicize_facebook_url:
-  - https://facebook.com/895698013808285
-  - https://facebook.com/895698013808285
-publicize_google_plus_url:
-  - https://plus.google.com/110821351225026605436/posts/iojTTRFteFR
-  - https://plus.google.com/110821351225026605436/posts/iojTTRFteFR
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
-publicize_twitter_url:
-  - http://t.co/ojWvU9srMO
-  - http://t.co/ojWvU9srMO
-publicize_linkedin_url:
-  - 'https://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5933101001933348864&type=U&a=odVV'
-  - 'https://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5933101001933348864&type=U&a=odVV'
-publicize_tumblr_url:
-  - http://justudin.tumblr.com.tumblr.com/post/101237969618
-  - http://justudin.tumblr.com.tumblr.com/post/101237969618
-publicize_path_id:
-  - 
-  - 
 categories:
   - Linux
 tags:
@@ -46,13 +22,13 @@ Hi guys, I would like to share my experience when I got an error &#8220;No space
 
 The result in my case is like  in the picture below:
 
-<img class="wp-image-315 size-full" src="http://test.justudin.com/wp-content/uploads/2014/10/full.png" alt="full" width="587" height="234" srcset="http://test.justudin.com/wp-content/uploads/2014/10/full-300x120.png 300w, http://test.justudin.com/wp-content/uploads/2014/10/full.png 587w" sizes="(max-width: 587px) 100vw, 587px" />
+<img class="wp-image-315 size-full" src="files/uploads/2014/10/full.png" alt="full" width="587" height="234" srcset="files/uploads/2014/10/full-300x120.png 300w, files/uploads/2014/10/full.png 587w" sizes="(max-width: 587px) 100vw, 587px" />
 
 2. It means my &#8220;**/boot**&#8221; is full (100% used), so we should remove our old kernel, but before doing it we also should check our old kernels in the **&#8220;/boot&#8221;** directory. Using this command:
 
 <pre class="brush: bash; title: ; notranslate" title="">ls -la /boot </pre>
 
-<img class="wp-image-316 size-full" src="http://test.justudin.com/wp-content/uploads/2014/10/old-kernel.png" alt="Result from command &quot;ls -la /boot&quot;" width="755" height="838" srcset="http://test.justudin.com/wp-content/uploads/2014/10/old-kernel-270x300.png 270w, http://test.justudin.com/wp-content/uploads/2014/10/old-kernel.png 755w" sizes="(max-width: 755px) 100vw, 755px" />
+<img class="wp-image-316 size-full" src="files/uploads/2014/10/old-kernel.png" alt="Result from command &quot;ls -la /boot&quot;" width="755" height="838" srcset="files/uploads/2014/10/old-kernel-270x300.png 270w, files/uploads/2014/10/old-kernel.png 755w" sizes="(max-width: 755px) 100vw, 755px" />
 
 3. Remove old kernel using this command:
 
@@ -60,7 +36,7 @@ The result in my case is like  in the picture below:
 
 but you should change X.XX.X-XX with your own kernel version. You can look into my case below:
 
-<img class="aligncenter wp-image-320 size-full" src="http://test.justudin.com/wp-content/uploads/2014/10/rm-kernel.png" alt="rm kernel" width="594" height="21" srcset="http://test.justudin.com/wp-content/uploads/2014/10/rm-kernel-300x11.png 300w, http://test.justudin.com/wp-content/uploads/2014/10/rm-kernel.png 594w" sizes="(max-width: 594px) 100vw, 594px" />
+<img class="aligncenter wp-image-320 size-full" src="files/uploads/2014/10/rm-kernel.png" alt="rm kernel" width="594" height="21" srcset="files/uploads/2014/10/rm-kernel-300x11.png 300w, files/uploads/2014/10/rm-kernel.png 594w" sizes="(max-width: 594px) 100vw, 594px" />
 
 After that try this command
 
@@ -75,5 +51,3 @@ again, then purge the package using this command:
 4. If you get another `<strong>No space left on device</strong>, `then you should remove one or more initrd.img  (**refer to step 2-3**) and try again.
 
 Good luck!
-
-&nbsp;

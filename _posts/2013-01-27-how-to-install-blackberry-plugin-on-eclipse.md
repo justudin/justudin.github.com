@@ -19,7 +19,7 @@ tags:
   - Mobile
   - plugin
 ---
-Hello readers, meet me again on my own blog. How are you today? Great Fine i hope so <img src="http://test.justudin.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hello readers, meet me again on my own blog. How are you today? Great Fine i hope so
 
 Today i want to share with you how to install BlackBerry Plugin On Eclipse.
 
@@ -38,7 +38,7 @@ after that click Link &#8220;**_Available Software Sites_**&#8221; below of the 
 like this screen shoot.
 
 <p style="text-align:center;">
-  <a href="http://test.justudin.com/wp-content/uploads/2013/01/available.png"><img class=" wp-image-63 aligncenter" alt="available" src="http://test.justudin.com/wp-content/uploads/2013/01/available.png" width="520" height="116" /></a>
+  <a href="files/uploads/2013/01/available.png"><img class=" wp-image-63 aligncenter" alt="available" src="files/uploads/2013/01/available.png" width="520" height="116" /></a>
 </p>
 
 <p style="text-align:left;">
@@ -54,7 +54,7 @@ like this screen shoot.
 </p>
 
 <p style="text-align:left;">
-  <a href="http://test.justudin.com/wp-content/uploads/2013/01/add-bb-plugin.png"><img class="aligncenter size-large wp-image-62" alt="add bb plugin" src="http://test.justudin.com/wp-content/uploads/2013/01/add-bb-plugin.png?w=800" width="800" height="199" srcset="http://test.justudin.com/wp-content/uploads/2013/01/add-bb-plugin-300x75.png 300w, http://test.justudin.com/wp-content/uploads/2013/01/add-bb-plugin-768x192.png 768w, http://test.justudin.com/wp-content/uploads/2013/01/add-bb-plugin.png 894w" sizes="(max-width: 800px) 100vw, 800px" /></a>
+  <a href="files/uploads/2013/01/add-bb-plugin.png"><img class="aligncenter size-large wp-image-62" alt="add bb plugin" src="files/uploads/2013/01/add-bb-plugin.png?w=800" width="800" height="199" srcset="files/uploads/2013/01/add-bb-plugin-300x75.png 300w, files/uploads/2013/01/add-bb-plugin-768x192.png 768w, files/uploads/2013/01/add-bb-plugin.png 894w" sizes="(max-width: 800px) 100vw, 800px" /></a>
 </p>
 
 <p style="text-align:left;">
@@ -62,7 +62,7 @@ like this screen shoot.
 </p>
 
 <p style="text-align:left;">
-  <a href="http://test.justudin.com/wp-content/uploads/2013/01/bb-plugin.png"><img class="aligncenter size-full wp-image-64" alt="bb plugin" src="http://test.justudin.com/wp-content/uploads/2013/01/bb-plugin.png" width="757" height="637" srcset="http://test.justudin.com/wp-content/uploads/2013/01/bb-plugin-300x252.png 300w, http://test.justudin.com/wp-content/uploads/2013/01/bb-plugin.png 757w" sizes="(max-width: 757px) 100vw, 757px" /></a>
+  <a href="files/uploads/2013/01/bb-plugin.png"><img class="aligncenter size-full wp-image-64" alt="bb plugin" src="files/uploads/2013/01/bb-plugin.png" width="757" height="637" srcset="files/uploads/2013/01/bb-plugin-300x252.png 300w, files/uploads/2013/01/bb-plugin.png 757w" sizes="(max-width: 757px) 100vw, 757px" /></a>
 </p>
 
 <p style="text-align:left;">
@@ -74,7 +74,7 @@ like this screen shoot.
 </p>
 
 <p style="text-align:left;">
-  <a href="http://test.justudin.com/wp-content/uploads/2013/01/next2.png"><img class="aligncenter size-full wp-image-65" alt="next2" src="http://test.justudin.com/wp-content/uploads/2013/01/next2.png" width="757" height="637" srcset="http://test.justudin.com/wp-content/uploads/2013/01/next2-300x252.png 300w, http://test.justudin.com/wp-content/uploads/2013/01/next2.png 757w" sizes="(max-width: 757px) 100vw, 757px" /></a>
+  <a href="files/uploads/2013/01/next2.png"><img class="aligncenter size-full wp-image-65" alt="next2" src="files/uploads/2013/01/next2.png" width="757" height="637" srcset="files/uploads/2013/01/next2-300x252.png 300w, files/uploads/2013/01/next2.png 757w" sizes="(max-width: 757px) 100vw, 757px" /></a>
 </p>
 
 <p style="text-align:left;">
@@ -82,7 +82,7 @@ like this screen shoot.
 </p>
 
 <p style="text-align:left;">
-  <a href="http://test.justudin.com/wp-content/uploads/2013/01/agree.png"><img class="aligncenter size-full wp-image-66" alt="agree" src="http://test.justudin.com/wp-content/uploads/2013/01/agree.png" width="757" height="637" srcset="http://test.justudin.com/wp-content/uploads/2013/01/agree-300x252.png 300w, http://test.justudin.com/wp-content/uploads/2013/01/agree.png 757w" sizes="(max-width: 757px) 100vw, 757px" /></a>
+  <a href="files/uploads/2013/01/agree.png"><img class="aligncenter size-full wp-image-66" alt="agree" src="files/uploads/2013/01/agree.png" width="757" height="637" srcset="files/uploads/2013/01/agree-300x252.png 300w, files/uploads/2013/01/agree.png 757w" sizes="(max-width: 757px) 100vw, 757px" /></a>
 </p>
 
 <p style="text-align:left;">

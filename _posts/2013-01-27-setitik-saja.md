@@ -36,7 +36,7 @@ akhirnya setitik sajalah
 
 setitik kebaikan dari hati yang tulus
 
-mejadikan hidup ini indah <img src="http://test.justudin.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+mejadikan hidup ini indah :)
 
  
 

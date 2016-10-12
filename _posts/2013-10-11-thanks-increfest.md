@@ -6,18 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=161
 permalink: /thanks-increfest/
-publicize_linkedin_url:
-  - 'http://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5794287975613353984&type=U&a=IAG_'
-  - 'http://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5794287975613353984&type=U&a=IAG_'
-publicize_facebook_url:
-  - https://facebook.com/
-  - https://facebook.com/
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
-publicize_twitter_url:
-  - http://t.co/AX3XuVR57K
-  - http://t.co/AX3XuVR57K
 categories:
   - Curhatan
 tags:
@@ -37,16 +25,12 @@ _What&#8217;s the point from this story?_ Intinya adalah, lakukan lah semua dar
 
 Berikut saya lampirkan foto barang yang sudah beliau kirimkan ke rumah saya,<figure style="width: 487px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image " id="i-187" alt="Image" src="http://test.justudin.com/wp-content/uploads/2013/10/img_04811.jpg?w=487" width="487" height="649" />](http://test.justudin.com/wp-content/uploads/2013/10/img_04811.jpg)<figcaption class="wp-caption-text">Alhamdulillah barang nyampe rumah dengan selamat, Thanks!</figcaption></figure> 
+[<img class="size-full wp-image " id="i-187" alt="Image" src="files/uploads/2013/10/img_04811.jpg?w=487" width="487" height="649" />](files/uploads/2013/10/img_04811.jpg)<figcaption class="wp-caption-text">Alhamdulillah barang nyampe rumah dengan selamat, Thanks!</figcaption></figure> 
 
 <p style="text-align:left;">
    dan kaosnya lumayan buat saya, hehe.
 </p><figure style="width: 438px" class="wp-caption aligncenter">
 
-[<img class=" wp-image " id="i-190" alt="Image" src="http://test.justudin.com/wp-content/uploads/2013/10/img_04821.jpg?w=487" width="438" height="584" />](http://test.justudin.com/wp-content/uploads/2013/10/img_04821.jpg)<figcaption class="wp-caption-text">Kaosnya pas di badan yang agak gendut ini :D</figcaption></figure> 
+[<img class=" wp-image " id="i-190" alt="Image" src="files/uploads/2013/10/img_04821.jpg?w=487" width="438" height="584" />](files/uploads/2013/10/img_04821.jpg)<figcaption class="wp-caption-text">Kaosnya pas di badan yang agak gendut ini :D</figcaption></figure> 
 
 Sekali terimakasih increfest dan semoga cerita ini bisa berfaedah buat saya pribadi dan temen-temen yang kesasar membaca postingan ini. Sekian dan Terimakasih.
-
-Salam.
-
-justudin

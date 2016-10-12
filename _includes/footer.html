@@ -84,17 +84,13 @@
         </ul>
 
         <p class="copyright text-muted">
-          &copy; {{ site.author.name }}
+          &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
           &nbsp;&bull;&nbsp;
-          {{ site.time | date: '%Y' }}
-
-          {% if site.author.email %}
-          &nbsp;&bull;&nbsp;
-          <a href="mailto:{{ site.author.email }}?subject=Hello from {{ site.url-pretty }}">{{ site.author.email }}</a>
-          {% endif %}
+		  <br/>
+          This page is licensed under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">Attribution-NonCommercial 4.0 International License</a>.
         </p>
         <p class="theme-by text-muted">
-          Hosted with <i class="fa fa-heart"></i>&nbsp;by&nbsp;<i class="fa fa-github"></i> and Theme by beautiful-jekyll</a>
+          Hosted with <i class="fa fa-heart"></i>&nbsp; by&nbsp; <i class="fa fa-github"></i>&nbsp; Theme by beautiful-jekyll</a>
         </p>
       </div>
     </div>

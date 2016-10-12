@@ -6,9 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=93
 permalink: /finally-jailbreak-ios-6-unthetered-has-been-released/
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
 categories:
   - Umum
 tags:
@@ -28,7 +25,3 @@ and follow this video or read my tutorial <a href="http://justudin.wordpress.co
 Done!
 
 Hope this help!
-
-./Regards
-
-justudin

@@ -62,9 +62,9 @@ dan jalakan dengan mengetikkan
 </div>
 
 <div>
-  <a href="http://test.justudin.com/wp-content/uploads/2013/01/screenshot-11.png"><img alt="" src="http://test.justudin.com/wp-content/uploads/2013/01/screenshot-11.png?w=300" width="400" height="125" border="0" /></a>
+  <a href="files/2013/01/screenshot-11.png"><img alt="" src="files/2013/01/screenshot-11.png?w=300" width="400" height="125" border="0" /></a>
 </div>
 
 Oke, Sekian..
   
-semoga bermanfaat.. <img src="http://test.justudin.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+semoga bermanfaat..

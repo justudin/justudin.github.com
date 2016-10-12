@@ -6,9 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=22
 permalink: /cara-gampang-install-xampp-di-mac-os/
-tagazine-media:
-  - 'a:7:{s:7:"primary";s:43:"http://www.apachefriends.org/images/904.jpg";s:6:"images";a:4:{s:53:"http://justudin.files.wordpress.com/2013/01/xampp.jpg";a:6:{s:8:"file_url";s:53:"http://justudin.files.wordpress.com/2013/01/xampp.jpg";s:5:"width";i:200;s:6:"height";i:176;s:4:"type";s:5:"image";s:4:"area";i:35200;s:9:"file_path";b:0;}s:56:"http://justudin.files.wordpress.com/2013/01/picture1.png";a:6:{s:8:"file_url";s:56:"http://justudin.files.wordpress.com/2013/01/picture1.png";s:5:"width";i:339;s:6:"height";i:96;s:4:"type";s:5:"image";s:4:"area";i:32544;s:9:"file_path";b:0;}s:56:"http://justudin.files.wordpress.com/2013/01/picture2.png";a:6:{s:8:"file_url";s:56:"http://justudin.files.wordpress.com/2013/01/picture2.png";s:5:"width";i:210;s:6:"height";i:134;s:4:"type";s:5:"image";s:4:"area";i:28140;s:9:"file_path";b:0;}s:43:"http://www.apachefriends.org/images/904.jpg";a:6:{s:8:"file_url";s:43:"http://www.apachefriends.org/images/904.jpg";s:5:"width";i:500;s:6:"height";i:409;s:4:"type";s:5:"image";s:4:"area";i:204500;s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";i:4;s:6:"author";s:8:"31399586";s:7:"blog_id";s:8:"32019069";s:9:"mod_stamp";s:19:"2013-01-18 14:20:47";}'
-  - 'a:7:{s:7:"primary";s:43:"http://www.apachefriends.org/images/904.jpg";s:6:"images";a:4:{s:53:"http://justudin.files.wordpress.com/2013/01/xampp.jpg";a:6:{s:8:"file_url";s:53:"http://justudin.files.wordpress.com/2013/01/xampp.jpg";s:5:"width";i:200;s:6:"height";i:176;s:4:"type";s:5:"image";s:4:"area";i:35200;s:9:"file_path";b:0;}s:56:"http://justudin.files.wordpress.com/2013/01/picture1.png";a:6:{s:8:"file_url";s:56:"http://justudin.files.wordpress.com/2013/01/picture1.png";s:5:"width";i:339;s:6:"height";i:96;s:4:"type";s:5:"image";s:4:"area";i:32544;s:9:"file_path";b:0;}s:56:"http://justudin.files.wordpress.com/2013/01/picture2.png";a:6:{s:8:"file_url";s:56:"http://justudin.files.wordpress.com/2013/01/picture2.png";s:5:"width";i:210;s:6:"height";i:134;s:4:"type";s:5:"image";s:4:"area";i:28140;s:9:"file_path";b:0;}s:43:"http://www.apachefriends.org/images/904.jpg";a:6:{s:8:"file_url";s:43:"http://www.apachefriends.org/images/904.jpg";s:5:"width";i:500;s:6:"height";i:409;s:4:"type";s:5:"image";s:4:"area";i:204500;s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";i:4;s:6:"author";s:8:"31399586";s:7:"blog_id";s:8:"32019069";s:9:"mod_stamp";s:19:"2013-01-18 14:20:47";}'
 categories:
   - Tutorial
 tags:
@@ -21,10 +18,10 @@ tags:
   - xampp for macos x
 ---
 <div>
-  <img alt="" src="http://test.justudin.com/wp-content/uploads/2013/01/xampp.jpg?w=200" width="200" height="175" border="0" />
+  <img alt="" src="files/uploads/2013/01/xampp.jpg?w=200" width="200" height="175" border="0" />
 </div>
 
-Okay, kali ini saya cuma pengen share cara install xampp ( webserver ) for mac os alias untuk para pengguna apel krowak,hehehehe :D, okay..langsung saja ya? 😛
+Okay, kali ini saya cuma pengen share cara install xampp ( webserver ) for mac os alias untuk para pengguna apel krowak,hehehehe :D, okay..langsung saja ya? �
 
 <!--more-->
 
@@ -56,7 +53,7 @@ Okay, kali ini saya cuma pengen share cara install xampp ( webserver ) for mac o
 </div>
 
 <div>
-  1. Tahap pertama yaitu download dulu xampp yang khusus buat Mac OS.. silahkan bisa di download <a href="http://www.apachefriends.org/download.php?xampp-macosx-1.7.3.dmg">disini</a> atau bisa langsung ke sini http://www.apachefriends.org/download.php?xampp-macosx-1.7.3.dmg
+  1. Tahap pertama yaitu download dulu xampp yang khusus buat Mac OS.. silahkan bisa di download<a href="http://www.apachefriends.org/download.php?xampp-macosx-1.7.3.dmg">disini</a>
 </div>
 
 <div>
@@ -86,7 +83,7 @@ Okay, kali ini saya cuma pengen share cara install xampp ( webserver ) for mac o
 </div>
 
 <div>
-  <a href="http://test.justudin.com/wp-content/uploads/2013/01/picture1.png"><img alt="" src="http://test.justudin.com/wp-content/uploads/2013/01/picture1.png?w=300" width="320" height="90" border="0" /></a>
+  <a href="files/uploads/2013/01/picture1.png"><img alt="" src="files/2013/01/picture1.png?w=300" width="320" height="90" border="0" /></a>
 </div>
 
 <div>

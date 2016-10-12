@@ -30,12 +30,8 @@ Weep not for roads untraveled..blabla itulah lagu yang dibawakan oleh LP. Setiap
 
 3. Ketika kita kehilangan atau tidak mendapatkan apa yang kita inginkan, pasti suatu saat kita akan tahu bahwa dengan tidak mendapatkan / kehilangan sesuatu itu adalah sebuah kebaikan. Karena setiap hal pasti ada &#8220;hikmahnya&#8221;. Just Positive Thinking!  like the lyric &#8220;And in time you&#8217;ll be glad it&#8217;s gone&#8221;.
 
-4. Sahabat, teman dan keluarga selalu ada untuk kita ketika kita terjatuh, terpuruk dalam kesedihan. Maka berbahagialah, They always ready for you, to share with you <img src="http://test.justudin.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+4. Sahabat, teman dan keluarga selalu ada untuk kita ketika kita terjatuh, terpuruk dalam kesedihan. Maka berbahagialah, They always ready for you, to share with you
 
 Okay, maybe be this is the last of my sharing. I hope i can share more again about anything and everything, i hope so its will inspiring others to be Good and Great People! Time is running up, see you bye bye 😉
 
 &nbsp;
-
-./Regards
-
-justudin
