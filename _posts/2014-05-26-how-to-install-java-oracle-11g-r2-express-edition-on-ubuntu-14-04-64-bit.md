@@ -39,7 +39,7 @@ tags:
 
 *   Oracle XE 11.2.0 (<a href="http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html" target="_blank">here</a>)
 
-      ​
+        ​
 
 **Installing Java**
 
@@ -252,18 +252,7 @@ exit 1 ;;
 esac
 ```
 
-# !/bin/sh
 
-case "$1" in
-start) mkdir /var/lock/subsys 2>/dev/null
-touch /var/lock/subsys/listener
-rm /dev/shm 2>/dev/null
-mkdir /dev/shm 2>/dev/null
-mount -t tmpfs shmfs -o size=4096m /dev/shm ;;
-*) echo error
-exit 1 ;;
-esac
-</pre>
 
 Save the file, close the editor and provide the appropriate execution privileges.
 
