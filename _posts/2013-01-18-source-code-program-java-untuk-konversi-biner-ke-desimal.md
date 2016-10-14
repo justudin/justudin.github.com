@@ -15,18 +15,18 @@ tags:
   - Tutorial
 ---
 Oke, kali ini saya mau share source code program konversi biner ke desimal..
-  
+
 silahkan copy source code berikut dan save dengan nama **BinaryToDecimal.java**
-  
-*****Nama harus sama dengan nama Class..
 
-<!--more-->
+**Nama harus sama dengan nama Class..**
 
-<pre class="brush: java; title: ; notranslate" title="">import java.lang.*;
+```import java.lang.*;
 import java.io.*;
 
 public class BinaryToDecimal {
+
    public static void main ( String [] args ) throws IOException {
+
      BufferedReader bf= new BufferedReader ( new InputStreamReader ( System.in )) ;
      System.out.print ( &quot;Masukan Bilangan Binernya = &quot; ) ;
      String str = bf.readLine () ;
@@ -43,28 +43,25 @@ public class BinaryToDecimal {
      }
      int i= Integer.parseInt ( str, 2 ) ;
      System.out.println ( &quot;Desimalnya : &quot; + i ) ;
-   }
-}
 
-</pre>
+   }
+
+}
+```
 
 dan compile dengan mengetikkan di CMD untuk pengguna windows atau TERMINAL untuk pengguna Linux ubuntu
-  
+
 `javac BinaryToDecimal.java`
-  
+
 dan jalakan dengan mengetikkan
-  
+
 `java BinaryToDecimal`
 
-#ScreenShotznya
+###ScreenShot-nya
 
-<div>
-</div>
-
-<div>
   <a href="https://justudin.com/files/uploads/2013/01/screenshot-11.png"><img alt="" src="https://justudin.com/files/uploads/2013/01/screenshot-11.png?w=300" width="400" height="125" border="0" /></a>
-</div>
+
 
 Oke, Sekian..
-  
+
 Semoga bermanfaat..

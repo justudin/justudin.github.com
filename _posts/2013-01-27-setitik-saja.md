@@ -24,8 +24,6 @@ ya hanya setitik
 
 bisa menjadikan hidup ini indah
 
- <!--more-->
-
 ya hanya setitik
 
 dan berangkat dari setitik

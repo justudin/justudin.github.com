@@ -33,17 +33,17 @@ tags:
 ---
 Hello there, today i want to share how to jailbreak ios 6 untethered on iphone. See the video on my last posting <a href="http://justudin.wordpress.com/2013/02/05/finally-jailbreak-ios-6-unthetered-has-been-released/" target="_blank">finally-jailbreak-ios-6-unthetered-has-been-released</a>. Or Follow the tutorial below.
 
-Okay, lets do it! <!--more-->
+Okay, lets do it!
 
 ## Requirements
 
 Here are the official requirements for evasi0n, as stated by the Evad3rs Dev Team:
 
-  * 5 minutes of your time!
-  * A computer, running Windows (XP minimum), Mac OS X (10.5 minimum) or Linux (x86 / x86_64)
-  * An iPhone, iPad or iPod running iOS 6.0 through 6.1 (you may check in Settings / General / About => Version)
-  * A USB cable to connect the device to the computer
-  * Also, if your device has a passcode set, ensure that it’s disabled before following the instructions listed below.
+* 5 minutes of your time!
+* A computer, running Windows (XP minimum), Mac OS X (10.5 minimum) or Linux (x86 / x86_64)
+    * An iPhone, iPad or iPod running iOS 6.0 through 6.1 (you may check in Settings / General / About => Version)
+    * A USB cable to connect the device to the computer
+    * Also, if your device has a passcode set, ensure that it’s disabled before following the instructions listed below.
 
 **Follow the Step Below:**
 
@@ -51,7 +51,7 @@ Here are the official requirements for evasi0n, as stated by the Evad3rs Dev Tea
 
 2. Make sure your iDevice is connected with the computer / pc
 
-2. After download it then extract and run the **evasi0n.exe** file (for windows user).
+3. After download it then extract and run the **evasi0n.exe** file (for windows user).
 
 and it will look like this.
 
@@ -71,6 +71,10 @@ and it will look like this.
 
 Okay, thank you very much for reading my posting. see you on next tutorial.
 
-oh yeah this is my provent.<figure id="attachment_107" style="width: 320px" class="wp-caption aligncenter">
+oh yeah this is my provent.
 
-[<img class="size-full wp-image-107" alt="My Iphone 3GS with Jailbroken iOS 6 Untethered" src="https://justudin.com/files/uploads/2013/02/img_0062.png" width="320" height="480" srcset="https://justudin.com/files/uploads/2013/02/img_0062-200x300.png 200w, https://justudin.com/files/uploads/2013/02/img_0062.png 320w" sizes="(max-width: 320px) 100vw, 320px" />](https://justudin.com/files/uploads/2013/02/img_0062.png)<figcaption class="wp-caption-text">My Iphone 3GS with Jailbroken iOS 6 Untethered</figcaption></figure> 
+
+
+[<img class="size-full wp-image-107" alt="My Iphone 3GS with Jailbroken iOS 6 Untethered" src="https://justudin.com/files/uploads/2013/02/img_0062.png" width="320" height="480" srcset="https://justudin.com/files/uploads/2013/02/img_0062-200x300.png 200w, https://justudin.com/files/uploads/2013/02/img_0062.png 320w" sizes="(max-width: 320px) 100vw, 320px" />](https://justudin.com/files/uploads/2013/02/img_0062.png)
+
+*My Iphone 3GS with Jailbroken iOS 6 Untethered*

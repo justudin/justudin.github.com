@@ -21,7 +21,7 @@ tags:
 ---
 Hello readers, meet me again today i wanna share with you how to fix bb 10 dev alpha that got blank after wipe (erasing data go back to factory setting). This is my experience on bb 10 dev alpha but maybe can help anyone that have a bb device. Okay lets start doing it together right now.
 
-<!--more-->
+
 
 Follow these step by step :
 
@@ -31,15 +31,19 @@ Follow these step by step :
 
 3. Download the Dev Alpha Autoloader 10.0.09.2320 (Windows) -> <a title="BB10 dev alpha autoloader" href="https://developer.blackberry.com/native/downloads/fetch/Autoload-DevAlpha-10.0.09.2320.exe" target="_blank">here</a>
 
-4. Turn off  your BlackBerry 10 Dev Alpha.
+4. Turn off  your BlackBerry 10 Dev Alpha.
 
-5. Run the file Autoload-DevAlpha-10.0.09.2320.exe you&#8217;ve downloaded above.
+5. Run the file Autoload-DevAlpha-10.0.09.2320.exe you’ve downloaded above.
 
 6. When prompt shows “Connecting to Bootrom”, connect your device to your computer and turn it on.
 
-7. Wait until all process is done. Its looks like this :<figure id="attachment_78" style="width: 625px" class="wp-caption aligncenter">
+7. Wait until all process is done. Its looks like this :
 
-[<img class="size-full wp-image-78" alt="Sreenshot Flashing BB10 Dev Alpha Process" src="https://justudin.com/files/uploads/2013/01/flashing-bb10-dev-alpha.png" width="625" height="309" />](https://justudin.com/files/uploads/2013/01/flashing-bb10-dev-alpha.png)<figcaption class="wp-caption-text">Sreenshot Flashing BB10 Dev Alpha Process</figcaption></figure> 
+[<img class="size-full wp-image-78" alt="Sreenshot Flashing BB10 Dev Alpha Process" src="https://justudin.com/files/uploads/2013/01/flashing-bb10-dev-alpha.png" width="625" height="309" />](https://justudin.com/files/uploads/2013/01/flashing-bb10-dev-alpha.png)
+
+*Sreenshot Flashing BB10 Dev Alpha Process*
+
+
 
 8. After finish, your device will restarts, Follow and complete the set up wizard.
 

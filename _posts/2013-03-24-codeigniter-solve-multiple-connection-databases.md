@@ -24,27 +24,35 @@ tags:
   - php
   - Web Programming
 ---
-Hello there, i&#8217;m here just wanna share my problem. Here i have a problem when i call my database connection on my model. <span style="line-height: 1.714285714; font-size: 1rem;">But i was finally solve it with myself :D. So i just wanna share you, so if you have the same problem you can follow this trick.</span>
-  
-Here my 2 database config name.<!--more-->
+Hello there, i’m here just wanna share my problem. Here i have a problem when i call my database connection on my model. *But i was finally solve it with myself :D. So i just wanna share you, so if you have the same problem you can follow this trick.*
 
-<pre>$db['sia']['hostname'] = "localhost";
-$db['sialumni']['hostname'] = "localhost";</pre>
+Here my 2 database config name.
 
-when i wanna use &#8220;**sia**&#8221; database on my model with this line of code :
+```bash
+$db'sia' = "localhost";
+$db'sialumni' = "localhost";
+```
 
-<pre>$this-&gt;load-&gt;database('sia', TRUE);
-$q=$this-&gt;db-&gt;get('table');
-return $q;</pre>
+when i wanna use “**sia**” database on my model with this line of code :
 
-but i got an error. so i solve it with this line of code :
+```bash
+$this->load->database('sia', TRUE);
+q=this->db->get('table');
+return $q;
+```
 
-<pre>$this-&gt;db_sia=$this-&gt;load-&gt;database('sia', TRUE);
-$q=$this-&gt;db_sia-&gt;get('table');
-return $q;</pre>
+but I got an error. so i solved it with this line of code :
 
-So all is good as well as i fixed it.
-  
-Thank you for visiting and reading my notes. I hope its usefull for me and you.
+```bash
+$this->db_sia=this->load->database('sia', TRUE);
+q=this->db_sia->get('table');
+return $q;
+```
 
-See you next time, bye bye
+So all is good as well as I **fixed** it.
+
+Thank you for visiting and reading my notes. 
+
+I hope its usefull for me and you.
+
+See you next time, bye bye :)

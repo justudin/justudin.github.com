@@ -27,7 +27,3 @@ so be confident, just trust in your self. Go and take a risk!
 Alloh Subhanahu wata&#8217;ala not gave you something that you cant finish it!
 
 So keep Move ON!
-
-./Regards
-
-justudin
