@@ -50,26 +50,42 @@ Hi guys, I would like to share my experience when I got an error “No space lef
 
 2. It means my “**/boot**” is full (100% used), so we should remove our old kernel, but before doing it we also should check our old kernels in the **“/boot”** directory. Using this command:
 
-   <pre class="brush: bash; title: ; notranslate" title="">ls -la /boot </pre>
+   ```bash
+   ls -la /boot
+   ```
 
-   <img class="wp-image-316 size-full" src="https://justudin.com/files/uploads/2014/10/old-kernel.png" alt="Result from command "ls -la /boot"" width="755" height="838" srcset="https://justudin.com/files/uploads/2014/10/old-kernel-270x300.png 270w, https://justudin.com/files/uploads/2014/10/old-kernel.png 755w" sizes="(max-width: 755px) 100vw, 755px" />
+   ![](https://justudin.com/files/uploads/2014/10/old-kernel.png)
+
+   ​
 
 
 3. Remove old kernel using this command:
 
-   <pre class="brush: bash; title: ; notranslate" title="">sudo rm /boot/initrd.img-X.XX.X-XX-generic </pre>
+   ```bash
+   sudo rm /boot/initrd.img-X.XX.X-XX-generic
+   ```
 
-   but you should change X.XX.X-XX with your own kernel version. You can look into my case below:<img class="aligncenter wp-image-320 size-full" src="https://justudin.com/files/uploads/2014/10/rm-kernel.png" alt="rm kernel" width="594" height="21" srcset="https://justudin.com/files/uploads/2014/10/rm-kernel-300x11.png 300w, https://justudin.com/files/uploads/2014/10/rm-kernel.png 594w" sizes="(max-width: 594px) 100vw, 594px" />
+   but you should change X.XX.X-XX with your own kernel version. 
+
+   You can look into my case below:
+
+   ![](https://justudin.com/files/uploads/2014/10/rm-kernel.png)
 
    After that try this command:
 
-   <pre class="brush: bash; title: ; notranslate" title=""> sudo apt-get -f install </pre>
+   ```bash
+   sudo apt-get -f install
+   ```
 
    again, then purge the package using this command: 
 
-   <pre class="brush: bash; title: ; notranslate" title="">sudo apt-get -y purge linux-image-X.XX.X-XX-generic </pre>
+   ```bash
+   sudo apt-get -y purge linux-image-X.XX.X-XX-generic
+   ```
+
+   ​
 
 
-4. If you get another `No space left on device, `then you should remove one or more initrd.img  (**refer to step 2-3**) and try again.
+4. If you get another `No space left on device, `then you should remove one or more **initrd.img**  (**refer to step 2-3**) and try again.
 
 Good luck!

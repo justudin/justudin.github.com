@@ -39,7 +39,7 @@ tags:
 
 *   Oracle XE 11.2.0 (<a href="http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html" target="_blank">here</a>)
 
-    ​
+      ​
 
 **Installing Java**
 
@@ -181,29 +181,11 @@ kernel.sem=250 32000 100 128
 kernel.shmmax=536870912
 ```
 
-# Oracle 11g XE kernel parameters
-
-fs.file-max=6815744
-net.ipv4.ip_local_port_range=9000 65000
-kernel.sem=250 32000 100 128
-kernel.shmmax=536870912
-</pre>
-
 Save the file. The changes in this file may be verified by executing:
 
 ```bash
-$ sudo cat /etc/sysctl.d/60-oracle.conf
+$ sudo sysctl -q fs.file-max
 ```
-
-
-
-```bash
-
-```
-
->$ sudo cat /etc/sysctl.d/60-oracle.conf
-
-</pre>
 
 Load the kernel parameters:
 
@@ -211,15 +193,11 @@ Load the kernel parameters:
 $ sudo service procps start
 ```
 
-</pre>
-
 The changes may be verified again by executing:
 
 ```bash
 $ sudo sysctl -q fs.file-max
 ```
-
-</pre>
 
 This method should return the following:
 
@@ -227,36 +205,55 @@ This method should return the following:
 fs.file-max = 6815744
 ```
 
-
-</pre>
-
 After this, execute the following statements to make some more required changes:
 
-<pre class="brush: bash; title: ; notranslate" title="">$ sudo ln -s /usr/bin/awk /bin/awk
+```bash
+$ sudo ln -s /usr/bin/awk /bin/awk
 $ mkdir /var/lock/subsys
 $ touch /var/lock/subsys/listener
-</pre>
+```
 
 Close the second terminal window and return to the first terminal window. The rpm package should be converted and a new file called oracle-xe-11.2.0-2_amd64.deb have been generated. To run this file, execute the following command:
 
-<pre class="brush: bash; title: ; notranslate" title="">$ sudo dpkg --install oracle-xe_11.2.0-2_amd64.deb
-</pre>
+```bash
+$ sudo dpkg --install oracle-xe11.2.0-2amd64.deb
+```
 
-Execute the following to avoid getting a ORA-00845: MEMORY_TARGET error. **Note:** replace “size=4096m” with the size of your (virtual) machine’s RAM in MBs.
+Execute the following to avoid getting a ORA-00845: MEMORY_TARGET error. 
 
-<pre class="brush: bash; title: ; notranslate" title="">$ sudo rm -rf /dev/shm
+**Note:** replace “size=4096m” with the size of your (virtual) machine’s RAM in MBs.
+
+```bash
+$ sudo rm -rf /dev/shm
 $ sudo mkdir /dev/shm
 $ sudo mount -t tmpfs shmfs -o size=4096m /dev/shm
-</pre>
+```
 
 Create the file /etc/rc2.d/S01shm_load.
 
-<pre class="brush: bash; title: ; notranslate" title="">$ sudo gedit /etc/rc2.d/S01shm_load
-</pre>
+```bash
+$ sudo gedit /etc/rc2.d/S01shm_load
+```
 
-Copy and paste the following in the file. **Note:** replace “size=4096m” with the size of your machine’s RAM in MBs.
+Copy and paste the following in the file. 
 
-<pre class="brush: bash; title: ; notranslate" title="">#!/bin/sh
+**Note:** replace “size=4096m” with the size of your machine’s RAM in MBs.
+
+```bash
+#!/bin/sh
+case "$1" in
+start) mkdir /var/lock/subsys 2>/dev/null
+touch /var/lock/subsys/listener
+rm /dev/shm 2>/dev/null
+mkdir /dev/shm 2>/dev/null
+mount -t tmpfs shmfs -o size=4096m /dev/shm ;;
+*) echo error
+exit 1 ;;
+esac
+```
+
+# !/bin/sh
+
 case "$1" in
 start) mkdir /var/lock/subsys 2>/dev/null
 touch /var/lock/subsys/listener
@@ -270,50 +267,60 @@ esac
 
 Save the file, close the editor and provide the appropriate execution privileges.
 
-<pre class="brush: bash; title: ; notranslate" title="">$ sudo chmod 755 /etc/rc2.d/S01shm_load
-</pre>
+```bash
+$ sudo chmod 755 /etc/rc2.d/S01shm_load
+```
+
+
 
 **Configuring Oracle 11g R2 Express Edition**
 
 If you have successfully installed to Oracle 11g R2 Express Edition server, it’s time to configure the server. To start the configuration of the server, execute the following command and follow the “wizard” in the terminal. Default values are shown between brackets for each question.
 
-<pre class="brush: bash; title: ; notranslate" title="">$ sudo /etc/init.d/oracle-xe configure
-</pre>
+```sh
+$ sudo /etc/init.d/oracle-xe configure
+```
 
 Now it is time to set-up some environmental variables. Open the /etc/bash.bashrc file by executing the following statement:
 
-<pre class="brush: bash; title: ; notranslate" title="">$ sudo gedit /etc/bash.bashrc
-</pre>
+```bash
+$ sudo gedit /etc/bash.bashrc
+```
 
 Scroll to the bottom of the file and add the following lines.
 
-<pre class="brush: bash; title: ; notranslate" title="">export ORACLE_HOME=/u01/app/oracle/product/11.2.0/xe
+```bash
+export ORACLE_HOME=/u01/app/oracle/product/11.2.0/xe
 export ORACLE_SID=XE
-export NLS_LANG=`$ORACLE_HOME/bin/nls_lang.sh`
+export NLS_LANG=$ORACLE_HOME/bin/nls_lang.sh
 export ORACLE_BASE=/u01/app/oracle
-export LD_LIBRARY_PATH=$ORACLE_HOME/lib:$LD_LIBRARY_PATH
-export PATH=$ORACLE_HOME/bin:$PATH
-</pre>
+export LD_LIBRARY_PATH=ORACLE_HOME/lib:LD_LIBRARY_PATH
+export PATH=ORACLE_HOME/bin:PATH
+```
 
 Save the file and close the editor. To load the changes, execute the following statement:
 
-<pre class="brush: bash; title: ; notranslate" title="">$ source /etc/bash.bashrc
-</pre>
+```bash
+$ source /etc/bash.bashrc
+```
 
 To validate the changes you can execute the following statement.
 
-<pre class="brush: bash; title: ; notranslate" title="">$ echo $ORACLE_HOME
-</pre>
+```bash
+$ echo ORACLE_HOME
+```
 
 This statement should result in the following output.
 
-<pre class="brush: bash; title: ; notranslate" title="">/u01/app/oracle/product/11.2.0/xe
-</pre>
+```bash
+/u01/app/oracle/product/11.2.0/xe
+```
 
 After this step it is recommended to reboot the machine. After the reboot is completed, you should be able to start the Oracle server using the following command:
 
-<pre class="brush: bash; title: ; notranslate" title="">$ sudo service oracle-xe start
-</pre>
+```bash
+$ sudo service oracle-xe start
+```
 
 Configure your instalation such as a password, port, etc.
 
