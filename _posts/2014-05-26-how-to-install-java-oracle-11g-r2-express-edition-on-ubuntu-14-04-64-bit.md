@@ -53,10 +53,10 @@ $ sudo apt-get install oracle-java7-installer
 
 The screen in figure 1 will appear in the terminal, hit enter to proceed. After this, the screen in figure 2 will be shown. Navigate to <Yes> using the left arrow on your keyboard and hit enter. Oracle JDK 7 will be installed.
 
-<img src="https://justudin.com/files/uploads/2014/05/oracle-java.png" alt="Figure 1: Binary Code license" width="665" height="395"/>
+![Figure 1: Binary Code license](/files/uploads/2014/05/oracle-java.png "Figure 1: Binary Code license")
 *Figure 1: Binary Code license*
 
-<img src="https://justudin.com/files/uploads/2014/05/jdk-agreement.png" alt="Figure 2: JDK License Agreement" width="665" height="398"/>
+![Figure 1: Binary Code license](/files/uploads/2014/05/jdk-agreement.png "Figure 2: JDK License Agreement")
 *Figure 2: JDK License Agreement*
 
 The next next step is to set the JAVA_HOME environment variable. To do this, open the /etc/bash.bashrc file by executing the following statement.
