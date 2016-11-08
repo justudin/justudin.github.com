@@ -33,13 +33,12 @@ tags:
   - ubuntu 14.04
   - ubuntu server
 ---
-​	A while ago I tried to install Oracle 11g R2 Express Edition on a 64-bit Ubuntu Server. This prove to be not as easy as you would expect. There are many blogs and articles about this subject and I tried a number of them. Unfortunately neither of the instructions seemed to work completely on my server. With the combined information from the authors, I finally got it to work and I’ll gladly share my recipe in this blog. The installation was performed on a Ubuntu Server 14.04 64-bit with the following software:
+
+A while ago I tried to install Oracle 11g R2 Express Edition on a 64-bit Ubuntu Server. This prove to be not as easy as you would expect. There are many blogs and articles about this subject and I tried a number of them. Unfortunately neither of the instructions seemed to work completely on my server. With the combined information from the authors, I finally got it to work and I’ll gladly share my recipe in this blog. The installation was performed on a Ubuntu Server 14.04 64-bit with the following software:
 
 *   Oracle Java 1.7.0_51
 
 *   Oracle XE 11.2.0 (<a href="http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html" target="_blank">here</a>)
-
-        ​
 
 **Installing Java**
 
@@ -53,15 +52,16 @@ $ sudo apt-get update
 $ sudo apt-get install oracle-java7-installer
 ```
 
+The screen in figure 1 will appear in the terminal, hit enter to proceed. After this, the screen in figure 2 will be shown. Navigate to <Yes> using the left arrow on your keyboard and hit enter. Oracle JDK 7 will be installed.
 
+<img class="wp-image-239 size-full" src="https://justudin.com/files/uploads/2014/05/oracle-java.png" alt="Figure 1: Binary Code license" width="665" height="395" srcset="https://justudin.com/files/uploads/2014/05/oracle-java-768x457.png 768w, https://justudin.com/files/uploads/2014/05/oracle-java.png 810w" sizes="(max-width: 665px) 100vw, 665px" />
+<br/><i>Figure 1: Binary Code license</i>
 
-​	The screen in figure 1 will appear in the terminal, hit enter to proceed. After this, the screen in figure 2 will be shown. Navigate to <Yes> using the left arrow on your keyboard and hit enter. Oracle JDK 7 will be installed.
-
-<img class="wp-image-239 size-full" src="https://justudin.com/files/uploads/2014/05/oracle-java.png" alt="Figure 1: Binary Code license" width="665" height="395" srcset="https://justudin.com/files/uploads/2014/05/oracle-java-768x457.png 768w, https://justudin.com/files/uploads/2014/05/oracle-java.png 810w" sizes="(max-width: 665px) 100vw, 665px" /><figcaption class="wp-caption-text">Figure 1: Binary Code license</figcaption></figure> <figure id="attachment_240" style="width: 665px" class="wp-caption aligncenter"><img class="size-full wp-image-240" src="https://justudin.com/files/uploads/2014/05/jdk-agreement.png" alt="Figure 2: JDK License Agreement" width="665" height="398" srcset="https://justudin.com/files/uploads/2014/05/jdk-agreement-300x180.png 300w, https://justudin.com/files/uploads/2014/05/jdk-agreement-768x460.png 768w, https://justudin.com/files/uploads/2014/05/jdk-agreement.png 810w" sizes="(max-width: 665px) 100vw, 665px" />
+<figure id="attachment_240" style="width: 665px" class="wp-caption aligncenter"><img class="size-full wp-image-240" src="https://justudin.com/files/uploads/2014/05/jdk-agreement.png" alt="Figure 2: JDK License Agreement" width="665" height="398" srcset="https://justudin.com/files/uploads/2014/05/jdk-agreement-300x180.png 300w, https://justudin.com/files/uploads/2014/05/jdk-agreement-768x460.png 768w, https://justudin.com/files/uploads/2014/05/jdk-agreement.png 810w" sizes="(max-width: 665px) 100vw, 665px" />
 
 *Figure 2: JDK License Agreement*
 
-​	The next next step is to set the JAVA_HOME environment variable. To do this, open the /etc/bash.bashrc file by executing the following statement.
+The next next step is to set the JAVA_HOME environment variable. To do this, open the /etc/bash.bashrc file by executing the following statement.
 
 ```bash
 $ sudo gedit /etc/bash.bashrc
@@ -102,7 +102,7 @@ The result of this statement should be the following.
 $ sudo apt-get install alien libaio1 unixodbc
 ```
 
-The next step is to download the Oracle 11g R2 Express Edition from the Oracle website. Make sure you select the Linux x64 version from http://www.oracle.com/technetwork/products/express-edition/downloads/index.html. 
+The next step is to download the Oracle 11g R2 Express Edition from the Oracle website. Make sure you select the Linux x64 version from oracle. 
 
 After the download is completed, open the terminal and navigate to the download directory. In my case this can be done by executing the following statement.
 
