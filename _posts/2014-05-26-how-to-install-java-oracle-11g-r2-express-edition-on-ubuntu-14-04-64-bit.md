@@ -5,24 +5,6 @@ date: 2014-05-26T11:18:17+00:00
 author: justudin
 layout: post
 permalink: /how-to-install-java-oracle-11g-r2-express-edition-on-ubuntu-14-04-64-bit/
-publicize_facebook_url:
-  - https://facebook.com/799335173444570
-  - https://facebook.com/799335173444570
-geo_public:
-  - 0
-  - 0
-publicize_google_plus_url:
-  - https://plus.google.com/110821351225026605436/posts/4XJJPc4Wr3m
-  - https://plus.google.com/110821351225026605436/posts/4XJJPc4Wr3m
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
-publicize_twitter_url:
-  - http://t.co/ZkFYh9SUHp
-  - http://t.co/ZkFYh9SUHp
-publicize_linkedin_url:
-  - 'http://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5876652393139032064&type=U&a=kh72'
-  - 'http://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5876652393139032064&type=U&a=kh72'
 categories:
   - Tutorial
 tags:
