@@ -57,8 +57,9 @@ The screen in figure 1 will appear in the terminal, hit enter to proceed. After 
 <br/><i>Figure 1: Binary Code license</i>
 
 <figure id="attachment_240" style="width: 665px" class="wp-caption aligncenter"><img class="size-full wp-image-240" src="https://justudin.com/files/uploads/2014/05/jdk-agreement.png" alt="Figure 2: JDK License Agreement" width="665" height="398" srcset="https://justudin.com/files/uploads/2014/05/jdk-agreement-300x180.png 300w, https://justudin.com/files/uploads/2014/05/jdk-agreement-768x460.png 768w, https://justudin.com/files/uploads/2014/05/jdk-agreement.png 810w" sizes="(max-width: 665px) 100vw, 665px" />
-
-*Figure 2: JDK License Agreement*
+<br/>
+<i>Figure 2: JDK License Agreement</i>
+<br/>
 
 The next next step is to set the JAVA_HOME environment variable. To do this, open the /etc/bash.bashrc file by executing the following statement.
 
