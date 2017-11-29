@@ -1,0 +1,64 @@
+---
+id: 152
+title: Coretan Pasca-Munaqosah (Step by Step)
+date: 2013-06-27T12:30:26+00:00
+author: justudin
+layout: post
+guid: http://justudin.wordpress.com/?p=152
+permalink: /coretan-pasca-munaqosah-step-by-step/
+publicize_twitter_user:
+  - udinjust4u
+  - udinjust4u
+categories:
+  - Serba Serbi
+tags:
+  - Serba Serbi
+  - uin suka
+  - wisuda
+---
+Hallo pembaca semua, seperti janji saya sebelumnya diposting <a href="http://justudin.wordpress.com/2013/06/17/coretan-pre-munaqosah-list-syarat-munaqosah/" target="_blank">coretan pre-munaqosah (list syarat munaqosah)</a> ini. Saya akan menceritakan step by step tahapan yang telah saya lalui setelah seminar munaqosah. Berikut lebih jelasnya, silahkan dibaca kalau ada yang kurang jelas bisa menghubungi saya via email atau apalah terserah. Monggo <img src="http://test.justudin.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+
+1.   Hal pertama yang saya lakukan adalah melakukan **revisi laporan skripsi.**
+
+2.   setelah selesai dengan masalah revisi skripsi, mintakan tanda tangan **ACC Revisi Skripsi** di **Cover Skripsi** (satu aja). Mulai dari Penguji 1, penguji 2 dan terakhir pembimbing.
+
+3.   setelah mendapatkan **acc** seperti no. 2, kemudian minta **lembar pengesahan** ke pak **wahdan** (**Lobi T.Informatika**), dengan menyerahkan skripsi yang sudah ada **tanda tangan ACC** yang telah dilakukan pada no.2, nanti akan di-**_print_**-kan_ _oleh pak wahdan **5 lembar pengesahan **(Rincian 4 lembar ada warna background logo uin + 1 lembar hitam putih tanpa background logo uin). Dan anda diminta untuk membayar Rp 5.000,- (Lima Ribu Rupiah) *kalau belum naek gara2 bbm lho :p
+
+4.   setelah mendapatkan 5 lembar pengesahan tersebut, kemudian mintakan **tanda tangan** lagi ke dosen penguji 1, penguji 2 dan pembimbing. setelah ditanda tangani oleh ketiga dosen tersebut. Masih ada 1 tanda tangan lagi yaitu **tanda tangan DEKAN. **untuk mendapatkan tanda tangan dosen tersebut saran saya jilid dulu skripsi anda (1 jilid saja) dengan format penjilidan skripsi yang ada di fakultas (jilid aja difotocopy-an deket kopma /**EDITE fotocopy). **Isi dari 1 jilid skripisi itu berupa laporan skripsi yang sudah direvisi dan diberi lembar pengesahan yang asli (dg background logo uin berwarna), fotocopy pernyataan keaslian skripsi, halaman persetujuan skripsi (asli) dan lain sesuai dengan format laporan skripsi. Setelah dijilid kan masih sisa 4 lembar pengesahan, selipkan 4 lembar pengesahan tersebut di dalam skripsi yang udah dijilih tadi dan kasihkan ke **mb robi **(Ruangannya disebelah barat TU Saintek, ada pintu masuk saja dan tengok kanan, lha disitu mejanya mb robi) bilang mau miinta tanda tangan dekan, biasanya nunggu sebentar (kalau saya masukin skripsi pagi, siang dah dapat tanda tangan dekan). tunggu sampai sudah ditanda tangani.
+
+5.   setelah mendapatkan tanda tangan dekan, ambil skripsi yang udah kita jilid tadi di mb  robi, terus mintakan cap di TU bagian umum, dibagian paling barat (Ada tulisannya). yang dicap adalah halaman pengesahan yang udah ada didalam skripsi yang udah dijilid dan 3 laen yang berwarna (1 lembar yang tidak berwarna jangan dicap ya) Silahkan diperbanyak yang belum ada capnya (dicopy buat backup).
+
+6.   setelah dapat cap, langsung buat **resume skripsi **maksimal 30 lembar jilid mika biasa warna biru dan burn laporan skripsi kita ke dalam 5 buah CD + Cover CD + Wadah CD. Contoh Format <a href="https://github.com/justudin/skripsi">**resume**</a> skripsi bisa dilihat di <a href="https://github.com/justudin/skripsi" target="_blank">github </a>saya. **Sebelum di-burn **kedalam CD, pastikan laporan skripsinya sudah di-**BOOKMARK** contohnya bisa dilihat <a href="https://github.com/justudin/skripsi" target="_blank">di github saya</a>. Jadi isi CD nya cuma 1 file laporan skripsi, dan dinamai dengan format SKRIPSI\_NAMA\_NIM.pdf (karena saya kemarin dikomplain sama pihak perpus uin karena isi cd yang saya burn lebih dari 1 file dan nama filenya judul skripsi saya, jadi saya harus burning lagi sesuai permintaan perpus.) Oiya format Cover Cdnya bisa minta di fotocopyan **EDITE fotocopy atau** lihat poto berikut :
+
+7.   [<img class="aligncenter size-full wp-image-153" alt="IMG_0234" src="https://justudin.com/files/uploads/2013/06/img_0234.jpg" width="448" height="600" srcset="https://justudin.com/files/uploads/2013/06/img_0234-224x300.jpg 224w, https://justudin.com/files/uploads/2013/06/img_0234.jpg 448w" sizes="(max-width: 448px) 100vw, 448px" />](https://justudin.com/files/uploads/2013/06/img_0234.jpg)
+
+8.   setelah diburn 5 CD dan resume skripsi sudah diprint dan dijilid mika warna biru, maka sekarang silahkan print [BERITA PENYERAHAN SKRIPSI](https://justudin.com/files/uploads/2013/06/berita-penyerahan-skripsi.docx) .
+
+9.   setelah itu serahkan 1 CD plus 1 lembar pengesahan ke dosen penguji 1, penguji 2 dan pembimbing, mintakan tanda tangan pada lembar berita penyerahan skripsi sebagai bukti bahwa skripsi sudah kita serahkan.
+
+10.   setelah mendapat 3 tanda tanga tersebut, masih ada sisa 2 CD dan 1 lembar pengesahan tanpa warna logo uin. Serahkan 1 CD + Resume skripsi yang sudah dijilid + 1 lembar pengesahan yang tanpa background logo uin ke TU bagian paling timur. dan mintakan tanda tangan.
+
+11.   setelah itu masih sisa 1 CD lagi buat perpus uin, datang ke perpus uin, dipintu utama masuk uin langsung lurus saja nanti akan ada loket “**penyerahan skripsi**“, serahkan 1 CD Skripsi dan 1 Jilid Skripsi yang sudah kita jilid di awal tadi, nanti akan dicek, jika dah bener serahkan berita penyerahan skripsi agar ditanda tangani dan dicap. setelah itu nanti akan ditanya apakah mau membuat surat bebas perpus, jika iya nanti akan dikasih form kecil, diisi dan langsung ke TU perpus yang ada disebelah barat dari loket penyerahan skripsi. Untuk mendapat bebas perpus, kita harus tidak punya tanggungan (pinjaman/denda) dan disuruh membayar Rp 25.000,- (Dua lima ribu rupiah) atau menyumbangkan buku sesuai dengan bidang studi. seperti gambar berikut.
+
+12.   [<img class="size-full wp-image-155" alt="IMG_0238" src="https://justudin.com/files/uploads/2013/06/img_0238.jpg" width="600" height="450" srcset="https://justudin.com/files/uploads/2013/06/img_0238-300x225.jpg 300w, https://justudin.com/files/uploads/2013/06/img_0238.jpg 600w" sizes="(max-width: 600px) 100vw, 600px" />](https://justudin.com/files/uploads/2013/06/img_0238.jpg)
+
+     *Syarat Bebas Pustaka UIN* 
+
+     Jika tidak ingin membayar 25ribu maka silahkan menyumbangkan buku dengan syarat berikut : 
+
+     [<img class="size-full wp-image-156" alt="Syarat Buku yang akan disumbangkan" src="https://justudin.com/files/uploads/2013/06/img_0239.jpg" width="600" height="450" srcset="https://justudin.com/files/uploads/2013/06/img_0239-300x225.jpg 300w, https://justudin.com/files/uploads/2013/06/img_0239.jpg 600w" sizes="(max-width: 600px) 100vw, 600px" />](https://justudin.com/files/uploads/2013/06/img_0239.jpg)
+
+     *Syarat Buku yang akan disumbangkan*.
+
+13.   jika sudah maka akan mendapat 2 lembar bukti bebas pustaka. Simpan dengan baek2 karena 2 lembar tersebut dipakai untuk pendaftaran wisuda dan pengambilan ijazah.
+
+14.   setelah itu dapat mengurus bebas pustaka dari perpus saintek di lantai 2 dengan membawa berita pengesahan skripsi difotocopy 1 kali dan print + fotocopy  1 kali [SuratKetBebasPerpustakaanFakultas](https://justudin.com/files/uploads/2013/06/suratketbebasperpustakaanfakultas.doc) dan menyerahkan buku sumbangan sesuai dengan kebutuhan mahasiswa saintek. Disesuaikan dengan bidang jurusan.
+
+15.   setelah itu bisa menunggu info pendaftaran wisuda (sekalian melihat syarat2nya).
+
+
+Sekian dulu, karena saya belum wisuda untuk saat ini, nantikan syarat wisuda dan step by stepnya setelah info pendaftaran wisuda Agustus 2013 sudah dibuka. 
+
+Ok terimakasih sudah meluangkan waktu membaca coretan sederhana ini, semoga ada manfaatnya dan apabila ada kekurangan atau kurang lengkap mohon maaf karena itu keterbatasan saya. 
+
+See you guys, Gud Luck!

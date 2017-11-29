@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "home"
+    url: /
+  - title: "blog"
+    url: /blog
+  - title: "research"
+    url: /research
+  - title: "subscribe"
+    url: /feed.xml
