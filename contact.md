@@ -4,8 +4,8 @@ comments: false
 ---
 
 ### Postal address: 
-Department of Industrial and Systems Engineering
-Dongguk University, Wonheung Building, 4F, E442
+Department of Industrial and Systems Engineering, 
+Dongguk University, Wonheung Building, 4F, E442, 
 30, Pildong-ro 1-gil, Jung-gu, Seoul, 
 04620, Republic of Korea
 
