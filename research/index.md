@@ -3,7 +3,7 @@ layout: page
 comments: false
 ---
 My research area are mostly in data mining / machine learning and real-time big data processing in manufacturing, supply chain, and healthcare. 
-Any discussions or concerns are welcomed! Or just taking coffee together. You can reach me thru {% include email.html %}, [Twitter](https://twitter.com/justudinlab), and [Linkedin](https://www.linkedin.com/in/justudin). My research works also available at [Google Scholar](https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ&hl=en), [ORCID](http://orcid.org/0000-0002-5640-4413), and [Research Gate](https://www.researchgate.net/profile/Muhammad_Syafrudin).
+Any discussions or concerns are welcomed! Or just taking coffee together. You can reach me thru {%include email.html%}, [Twitter](https://twitter.com/justudinlab), and [Linkedin](https://www.linkedin.com/in/justudin). My research works also available at [Google Scholar](https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ&hl=en), [ORCID](http://orcid.org/0000-0002-5640-4413), and [Research Gate](https://www.researchgate.net/profile/Muhammad_Syafrudin).
 
 ### Journal Articles
 
