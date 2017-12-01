@@ -16,5 +16,5 @@ Dongguk University, Wonheung Building, 4F, E442,
 +822-2269-2212
 
 #### Email:
-Personal : {% include email.html %}
+Personal : {% include emailpersonal.html %}
 Office : {% include emailoffice.html %}
