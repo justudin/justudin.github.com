@@ -6,5 +6,5 @@ main:
     url: /blog
   - title: "research"
     url: /research
-  - title: "subscribe"
-    url: /feed.xml
+  - title: "contact"
+    url: /contact.md
