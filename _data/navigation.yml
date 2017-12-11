@@ -1,10 +1,15 @@
 # main links
 main:
-  - title: "home"
+  - title: "Home"
     url: /
-  - title: "blog"
+  - title: "Blog"
     url: /blog
-  - title: "research"
+  - title: "Research"
     url: /research
+    children: 
+      - title: "Publications"
+        url: /research/publications
+      - title: "Projects"
+        url: /research/projects
   - title: "contact"
     url: /contact
