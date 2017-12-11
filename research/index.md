@@ -1,9 +1,9 @@
 ---
 layout: page
 comments: false
-title: Research Interest
+title: Research Interests
 ---
-My research area are mostly in data mining / machine learning and real-time big data processing in manufacturing, supply chain, and healthcare. {%include keepintouch.html%}
+My research interests are in data mining/machine learning and real-time big data distributed/parallel processing in manufacturing, supply chain, and healthcare. {%include keepintouch.html%}
 
 ### Sub-menu:
 - [Publications](/research/publications)
