@@ -41,7 +41,7 @@ Using fdisk command:
    sudo fdisk /dev/sdb
    ```
 
-   Now create a new primary partition, type:
+   Now create a new partition, type:
    ```bash
    n
    ```
