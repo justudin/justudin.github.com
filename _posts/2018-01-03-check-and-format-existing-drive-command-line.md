@@ -1,17 +1,6 @@
 ---
-id: 312
 title: '[Ubuntu] Check and format existing hdd/partition via command line'
-date: 2018-01-03T04:41:34+00:00
 author: justudin
-layout: post
-guid: http://justudin.com/check-and-format-existing-hdd-partition-command-line/
-permalink: /check-and-format-existing-hdd-partition-command-line/
-categories:
-  - Linux
-tags:
-  - hdd
-  - partition
-  - ubuntu
 ---
 
 I want to add new hdd into my existing server, here is how to add it and make the partition and format it to ext4 filesystem.
@@ -75,7 +64,7 @@ Format the new drive into ext4 filesystem.
    ```
    
 ## Mount the drive
-Now the new partition has been created, you need to mount it **somewhere** to use it. Here I¡¯m using **/mnt/data/**.
+Now the new partition has been created, you need to mount it **somewhere** to use it. Here Iâ€™m using **/mnt/data/**.
 First create the directory:
    ```bash
    sudo mkdir /mnt/data/
