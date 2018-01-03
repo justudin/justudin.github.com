@@ -1,4 +1,5 @@
 ---
+id: 312
 title: '[Ubuntu] Check and format existing hdd/partition via command line'
 date: 2018-01-03
 author: justudin
