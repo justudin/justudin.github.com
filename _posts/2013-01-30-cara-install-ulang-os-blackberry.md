@@ -6,9 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=83
 permalink: /cara-install-ulang-os-blackberry/
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
 categories:
   - Mobile
   - Tutorial

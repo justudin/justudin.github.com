@@ -6,43 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=273
 permalink: /bebek-oh-bebek-rubber-duck-project-seoul/
-geo_latitude:
-  - 37.5592451
-  - 37.5592451
-geo_longitude:
-  - 126.99884700000007
-  - 126.99884700000007
-geo_address:
-  - 192-5 Pildong 3(sam)-ga, Jung-gu, Seoul, South Korea
-  - 192-5 Pildong 3(sam)-ga, Jung-gu, Seoul, South Korea
-geo_public:
-  - 
-  - 
-publicize_facebook_url:
-  - https://facebook.com/
-  - https://facebook.com/
-  - https://facebook.com/
-  - https://facebook.com/
-publicize_google_plus_url:
-  - https://plus.google.com/110821351225026605436/posts/FPvrGXijGDk
-  - https://plus.google.com/110821351225026605436/posts/FPvrGXijGDk
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
-publicize_twitter_url:
-  - http://t.co/akc1pkhtDW
-  - http://t.co/akc1pkhtDW
-publicize_linkedin_url:
-  - 'https://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5931996976387219456&type=U&a=bhV_'
-  - 'https://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5931996976387219456&type=U&a=bhV_'
-publicize_tumblr_url:
-  - http://justudin.tumblr.com.tumblr.com/post/100968257793
-  - http://justudin.tumblr.com.tumblr.com/post/100968257793
-publicize_path_id:
-  - 
-  - 
-  - 
-  - 
 categories:
   - Curhatan
   - Jalan jalan

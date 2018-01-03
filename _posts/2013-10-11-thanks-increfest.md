@@ -6,18 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=161
 permalink: /thanks-increfest/
-publicize_linkedin_url:
-  - 'http://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5794287975613353984&type=U&a=IAG_'
-  - 'http://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5794287975613353984&type=U&a=IAG_'
-publicize_facebook_url:
-  - https://facebook.com/
-  - https://facebook.com/
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
-publicize_twitter_url:
-  - http://t.co/AX3XuVR57K
-  - http://t.co/AX3XuVR57K
 categories:
   - Curhatan
 tags:

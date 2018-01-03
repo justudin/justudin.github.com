@@ -6,9 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=152
 permalink: /coretan-pasca-munaqosah-step-by-step/
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
 categories:
   - Serba Serbi
 tags:

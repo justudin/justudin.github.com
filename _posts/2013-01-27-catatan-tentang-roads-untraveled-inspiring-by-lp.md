@@ -6,9 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=74
 permalink: /catatan-tentang-roads-untraveled-inspiring-by-lp/
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
 categories:
   - Curhatan
 tags:

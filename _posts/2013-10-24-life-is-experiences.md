@@ -6,18 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=208
 permalink: /life-is-experiences/
-publicize_facebook_url:
-  - https://facebook.com/100001042857820_680218165356272
-  - https://facebook.com/100001042857820_680218165356272
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
-publicize_twitter_url:
-  - http://t.co/V2jPRivGBz
-  - http://t.co/V2jPRivGBz
-publicize_linkedin_url:
-  - 'http://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5798999287828316160&type=U&a=E_aA'
-  - 'http://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5798999287828316160&type=U&a=E_aA'
 categories:
   - Curhatan
 tags:

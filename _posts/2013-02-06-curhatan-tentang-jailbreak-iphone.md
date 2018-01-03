@@ -6,15 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=112
 permalink: /curhatan-tentang-jailbreak-iphone/
-publicize_reach:
-  - 'a:3:{s:7:"twitter";a:1:{i:2756442;i:49;}s:2:"fb";a:1:{i:2756459;i:361;}s:2:"wp";a:1:{i:0;i:5;}}'
-  - 'a:3:{s:7:"twitter";a:1:{i:2756442;i:49;}s:2:"fb";a:1:{i:2756459;i:361;}s:2:"wp";a:1:{i:0;i:5;}}'
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
-tagazine-media:
-  - 'a:7:{s:7:"primary";s:56:"http://justudin.files.wordpress.com/2013/02/img_0062.png";s:6:"images";a:1:{s:56:"http://justudin.files.wordpress.com/2013/02/img_0062.png";a:6:{s:8:"file_url";s:56:"http://justudin.files.wordpress.com/2013/02/img_0062.png";s:5:"width";i:320;s:6:"height";i:480;s:4:"type";s:5:"image";s:4:"area";i:153600;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:1;s:6:"author";s:8:"31399586";s:7:"blog_id";s:8:"32019069";s:9:"mod_stamp";s:19:"2013-02-06 10:17:04";}'
-  - 'a:7:{s:7:"primary";s:56:"http://justudin.files.wordpress.com/2013/02/img_0062.png";s:6:"images";a:1:{s:56:"http://justudin.files.wordpress.com/2013/02/img_0062.png";a:6:{s:8:"file_url";s:56:"http://justudin.files.wordpress.com/2013/02/img_0062.png";s:5:"width";i:320;s:6:"height";i:480;s:4:"type";s:5:"image";s:4:"area";i:153600;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:1;s:6:"author";s:8:"31399586";s:7:"blog_id";s:8:"32019069";s:9:"mod_stamp";s:19:"2013-02-06 10:17:04";}'
 categories:
   - Curhatan
 tags:

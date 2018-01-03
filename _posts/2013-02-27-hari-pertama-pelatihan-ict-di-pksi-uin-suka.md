@@ -6,9 +6,6 @@ author: justudin
 layout: post
 guid: https://justudin.wordpress.com/?p=130
 permalink: /hari-pertama-pelatihan-ict-di-pksi-uin-suka/
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
 categories:
   - Curhatan
 tags:

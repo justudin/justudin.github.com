@@ -6,9 +6,6 @@ author: justudin
 layout: post
 guid: https://justudin.wordpress.com/?p=123
 permalink: /suasana-rs-panembahan-senopati-bantul/
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
 categories:
   - Curhatan
 tags:

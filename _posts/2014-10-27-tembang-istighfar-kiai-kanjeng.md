@@ -6,30 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=307
 permalink: /tembang-istighfar-kiai-kanjeng/
-geo_public:
-  - 0
-  - 0
-publicize_facebook_url:
-  - https://facebook.com/894331173944969
-  - https://facebook.com/894331173944969
-publicize_google_plus_url:
-  - https://plus.google.com/110821351225026605436/posts/AmZTxoAykFL
-  - https://plus.google.com/110821351225026605436/posts/AmZTxoAykFL
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
-publicize_twitter_url:
-  - http://t.co/W0GElAMSkr
-  - http://t.co/W0GElAMSkr
-publicize_linkedin_url:
-  - 'https://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5932360244989546496&type=U&a=uhuE'
-  - 'https://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5932360244989546496&type=U&a=uhuE'
-publicize_tumblr_url:
-  - http://justudin.tumblr.com.tumblr.com/post/101063363218
-  - http://justudin.tumblr.com.tumblr.com/post/101063363218
-publicize_path_id:
-  - 
-  - 
 categories:
   - Agama
   - Umum

@@ -6,9 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=90
 permalink: /akhirnya-fully-restored/
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
 categories:
   - Curhatan
 tags:

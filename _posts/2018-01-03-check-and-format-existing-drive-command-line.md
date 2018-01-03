@@ -1,9 +1,10 @@
 ---
 id: 312
 title: '[Ubuntu] Check and format existing hdd/partition via command line'
-date: 2018-01-03
+date: 2018-01-03T04:41:34+00:00
 author: justudin
 layout: post
+guid: http://justudin.com/check-and-format-existing-hdd-partition-command-line/
 permalink: /check-and-format-existing-hdd-partition-command-line/
 categories:
   - Linux

@@ -6,12 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=116
 permalink: /tutorial-install-list-function-di-notepad/
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
-publicize_reach:
-  - 'a:3:{s:7:"twitter";a:1:{i:2756442;i:50;}s:2:"fb";a:1:{i:2756459;i:364;}s:2:"wp";a:1:{i:0;i:6;}}'
-  - 'a:3:{s:7:"twitter";a:1:{i:2756442;i:50;}s:2:"fb";a:1:{i:2756459;i:364;}s:2:"wp";a:1:{i:0;i:6;}}'
 categories:
   - Tutorial
 tags:

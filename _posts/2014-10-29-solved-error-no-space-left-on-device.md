@@ -6,30 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=311
 permalink: /solved-error-no-space-left-on-device/
-geo_public:
-  - 0
-  - 0
-publicize_facebook_url:
-  - https://facebook.com/895698013808285
-  - https://facebook.com/895698013808285
-publicize_google_plus_url:
-  - https://plus.google.com/110821351225026605436/posts/iojTTRFteFR
-  - https://plus.google.com/110821351225026605436/posts/iojTTRFteFR
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
-publicize_twitter_url:
-  - http://t.co/ojWvU9srMO
-  - http://t.co/ojWvU9srMO
-publicize_linkedin_url:
-  - 'https://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5933101001933348864&type=U&a=odVV'
-  - 'https://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5933101001933348864&type=U&a=odVV'
-publicize_tumblr_url:
-  - http://justudin.tumblr.com.tumblr.com/post/101237969618
-  - http://justudin.tumblr.com.tumblr.com/post/101237969618
-publicize_path_id:
-  - 
-  - 
 categories:
   - Linux
 tags:

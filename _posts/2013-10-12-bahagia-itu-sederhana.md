@@ -6,18 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=198
 permalink: /bahagia-itu-sederhana/
-publicize_facebook_url:
-  - https://facebook.com/100001042857820_672491549462267
-  - https://facebook.com/100001042857820_672491549462267
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
-publicize_twitter_url:
-  - http://t.co/gJMVgklm1e
-  - http://t.co/gJMVgklm1e
-publicize_linkedin_url:
-  - 'http://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5794843701796691968&type=U&a=OUgr'
-  - 'http://www.linkedin.com/updates?discuss=&scope=127669681&stype=M&topic=5794843701796691968&type=U&a=OUgr'
 categories:
   - Curhatan
 tags:

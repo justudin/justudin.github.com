@@ -6,12 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=87
 permalink: /beberapa-apps-sudah-nongol-di-appworld-alhamdulillah/
-publicize_reach:
-  - 'a:3:{s:7:"twitter";a:1:{i:2756442;i:48;}s:2:"fb";a:1:{i:2756459;i:357;}s:2:"wp";a:1:{i:0;i:4;}}'
-  - 'a:3:{s:7:"twitter";a:1:{i:2756442;i:48;}s:2:"fb";a:1:{i:2756459;i:357;}s:2:"wp";a:1:{i:0;i:4;}}'
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
 categories:
   - Curhatan
   - Mobile

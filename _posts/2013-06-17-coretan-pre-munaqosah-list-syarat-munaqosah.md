@@ -6,9 +6,6 @@ author: justudin
 layout: post
 guid: http://justudin.wordpress.com/?p=148
 permalink: /coretan-pre-munaqosah-list-syarat-munaqosah/
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
 categories:
   - Umum
 tags:

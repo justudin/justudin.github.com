@@ -6,9 +6,6 @@ author: justudin
 layout: post
 guid: https://justudin.wordpress.com/?p=121
 permalink: /kreasi-kaleng-bolik/
-publicize_twitter_user:
-  - udinjust4u
-  - udinjust4u
 categories:
   - Umum
 tags:
