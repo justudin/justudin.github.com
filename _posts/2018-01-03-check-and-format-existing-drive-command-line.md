@@ -98,5 +98,4 @@ If you wish to mount the filesystem automatically each time the server boots, ad
    /dev/sdb1 /mnt/data ext4 defaults 0 2
    ```
 
-   
-That's all.
+End.
