@@ -35,7 +35,7 @@ Check the drive location:
    ```
 In my case **sdb** is new added drive.
 
-## Prepare the Drive
+## Prepare the drive
 Using fdisk command:
 
    ```bash
@@ -74,7 +74,7 @@ Format the new drive into ext4 filesystem.
    sudo mkfs.ext4 /dev/sdb1
    ```
    
-## Mount The New Drive
+## Mount the drive
 Now the new partition has been created, you need to mount it **somewhere** to use it. Here I¡¯m using **/mnt/data/**.
 First create the directory:
    ```bash
@@ -86,7 +86,7 @@ First create the directory:
    sudo mount /dev/sdb1 /mnt/data/
    ```
 
-## Mounting the new drive Automatically at Boot
+## Mounting the new drive automatically at booting
 If you wish to mount the filesystem automatically each time the server boots, adjust the /etc/fstab file:
 
    ```bash
