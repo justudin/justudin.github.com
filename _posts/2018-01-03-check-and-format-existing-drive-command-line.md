@@ -85,4 +85,17 @@ First create the directory:
    sudo mount /dev/sdb1 /mnt/newdrive/
    ```
 
+## Mounting the new drive Automatically at Boot
+If you wish to mount the filesystem automatically each time the server boots, adjust the /etc/fstab file:
+
+   ```bash
+   sudo nano /etc/fstab
+   ```
+   
+   Add below configuration to the last line.
+   ```bash
+   /dev/sdb1 /mnt/newdrive ext4 defaults 0 2
+   ```
+
+   
 That's all.
