@@ -1,11 +1,6 @@
 ---
-id: 112
 title: Curhatan tentang jailbreak iphone
-date: 2013-02-06T10:16:16+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=112
-permalink: /curhatan-tentang-jailbreak-iphone/
 categories:
   - Curhatan
 tags:

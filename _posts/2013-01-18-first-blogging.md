@@ -1,11 +1,6 @@
 ---
-id: 119
 title: First Blogging
-date: 2013-01-18T12:44:45+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=5
-permalink: /first-blogging/
 categories:
   - Umum
 tags:

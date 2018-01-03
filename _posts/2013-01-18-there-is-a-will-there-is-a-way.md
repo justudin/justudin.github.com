@@ -1,11 +1,6 @@
 ---
-id: 20
 title: There is a will there is a way
-date: 2013-01-18T13:56:09+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=20
-permalink: /there-is-a-will-there-is-a-way/
 categories:
   - Umum
 tags:

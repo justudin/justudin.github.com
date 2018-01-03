@@ -1,11 +1,6 @@
 ---
-id: 93
 title: Finally Jailbreak iOS 6 Unthetered has been released!
-date: 2013-02-05T00:22:29+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=93
-permalink: /finally-jailbreak-ios-6-unthetered-has-been-released/
 categories:
   - Umum
 tags:

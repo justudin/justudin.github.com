@@ -1,11 +1,6 @@
 ---
-id: 198
 title: 'Bahagia itu&#8230;.. Sederhana!'
-date: 2013-10-12T17:19:53+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=198
-permalink: /bahagia-itu-sederhana/
 categories:
   - Curhatan
 tags:

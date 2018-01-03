@@ -1,11 +1,6 @@
 ---
-id: 307
 title: 'Tembang Istighfar &#8211; Kiai Kanjeng'
-date: 2014-10-27T04:41:34+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=307
-permalink: /tembang-istighfar-kiai-kanjeng/
 categories:
   - Agama
   - Umum

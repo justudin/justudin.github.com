@@ -1,11 +1,6 @@
 ---
-id: 72
 title: Setitik Saja
-date: 2013-01-27T02:39:36+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=72
-permalink: /setitik-saja/
 categories:
   - Umum
 tags:

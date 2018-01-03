@@ -1,11 +1,6 @@
 ---
-id: 22
 title: Cara Gampang Install XAMPP di Mac OS
-date: 2013-01-18T14:20:25+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=22
-permalink: /cara-gampang-install-xampp-di-mac-os/
 categories:
   - Tutorial
 tags:

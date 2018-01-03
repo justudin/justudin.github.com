@@ -1,11 +1,6 @@
 ---
-id: 116
 title: Tutorial Install List Function di Notepad++
-date: 2013-02-25T07:01:07+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=116
-permalink: /tutorial-install-list-function-di-notepad/
 categories:
   - Tutorial
 tags:

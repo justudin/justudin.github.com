@@ -1,11 +1,7 @@
 ---
-id: 40
 title: '[source code] Program Java untuk konversi Biner ke Desimal'
-date: 2013-01-18T14:31:10+00:00
 author: justudin
 layout: post
-guid: http://justudin.wordpress.com/?p=40
-permalink: /source-code-program-java-untuk-konversi-biner-ke-desimal/
 categories:
   - Tutorial
 tags:

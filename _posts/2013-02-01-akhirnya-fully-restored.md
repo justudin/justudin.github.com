@@ -1,11 +1,6 @@
 ---
-id: 90
 title: Akhirnya.. Fully Restored?
-date: 2013-02-01T15:58:24+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=90
-permalink: /akhirnya-fully-restored/
 categories:
   - Curhatan
 tags:

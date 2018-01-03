@@ -1,11 +1,6 @@
 ---
-id: 273
 title: Bebek oh bebek, Rubber Duck Project Seoul!
-date: 2014-10-26T04:36:48+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=273
-permalink: /bebek-oh-bebek-rubber-duck-project-seoul/
 categories:
   - Curhatan
   - Jalan jalan

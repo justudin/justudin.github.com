@@ -1,11 +1,6 @@
 ---
-id: 46
 title: Catatan Kaki BB10 Last Chance Port-a-thon Jogja
-date: 2013-01-18T15:22:31+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=46
-permalink: /catatan-kaki-bb10-last-chance-port-a-thon-jogja/
 categories:
   - Curhatan
 tags:

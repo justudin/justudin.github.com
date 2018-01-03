@@ -1,11 +1,6 @@
 ---
-id: 77
 title: How to Fix BlackBerry 10 Dev Alpha After Wiping (Solved)
-date: 2013-01-28T23:32:54+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=77
-permalink: /how-to-fix-blackberry-10-dev-alpha-after-wiping-solved/
 categories:
   - Mobile
   - Tutorial

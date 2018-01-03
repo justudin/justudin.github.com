@@ -1,11 +1,6 @@
 ---
-id: 87
 title: Beberapa Apps Sudah Nongol Di AppWorld (Alhamdulillah)
-date: 2013-01-31T03:16:35+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=87
-permalink: /beberapa-apps-sudah-nongol-di-appworld-alhamdulillah/
 categories:
   - Curhatan
   - Mobile

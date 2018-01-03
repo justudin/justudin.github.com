@@ -1,6 +1,12 @@
 ---
 title: '[Ubuntu] Check and format existing hdd/partition via command line'
 author: justudin
+categories:
+  - Linux
+tags:
+  - ubuntu
+  - format disk
+  - ext4
 ---
 
 I want to add new hdd into my existing server, here is how to add it and make the partition and format it to ext4 filesystem.

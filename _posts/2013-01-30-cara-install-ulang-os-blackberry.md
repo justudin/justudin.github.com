@@ -1,11 +1,6 @@
 ---
-id: 83
 title: Cara Install Ulang OS BlackBerry
-date: 2013-01-30T07:43:20+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=83
-permalink: /cara-install-ulang-os-blackberry/
 categories:
   - Mobile
   - Tutorial

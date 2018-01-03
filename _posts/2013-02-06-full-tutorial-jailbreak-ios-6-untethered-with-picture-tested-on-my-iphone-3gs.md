@@ -1,11 +1,6 @@
 ---
-id: 101
 title: 'Full Tutorial Jailbreak iOS 6 Untethered with Picture [Tested on My Iphone 3GS]'
-date: 2013-02-06T09:45:39+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=101
-permalink: /full-tutorial-jailbreak-ios-6-untethered-with-picture-tested-on-my-iphone-3gs/
 categories:
   - Tutorial
 tags:

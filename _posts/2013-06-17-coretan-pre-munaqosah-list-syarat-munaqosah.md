@@ -1,11 +1,6 @@
 ---
-id: 148
 title: Coretan Pre-Munaqosah (List Syarat Munaqosah)
-date: 2013-06-17T13:31:51+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=148
-permalink: /coretan-pre-munaqosah-list-syarat-munaqosah/
 categories:
   - Umum
 tags:

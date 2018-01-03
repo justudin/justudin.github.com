@@ -1,11 +1,6 @@
 ---
-id: 161
 title: Thanks Increfest!
-date: 2013-10-11T04:31:41+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=161
-permalink: /thanks-increfest/
 categories:
   - Curhatan
 tags:

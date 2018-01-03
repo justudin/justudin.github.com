@@ -1,11 +1,6 @@
 ---
-id: 121
 title: Kreasi kaleng bolik
-date: 2013-02-25T23:12:21+00:00
 author: justudin
-layout: post
-guid: https://justudin.wordpress.com/?p=121
-permalink: /kreasi-kaleng-bolik/
 categories:
   - Umum
 tags:

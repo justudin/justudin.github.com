@@ -1,10 +1,6 @@
 ---
-id: 238
 title: How to Install Java, Oracle 11g R2 Express Edition on Ubuntu 14.04 64-bit
-date: 2014-05-26T11:18:17+00:00
 author: justudin
-layout: post
-permalink: /how-to-install-java-oracle-11g-r2-express-edition-on-ubuntu-14-04-64-bit/
 categories:
   - Tutorial
 tags:

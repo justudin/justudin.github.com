@@ -1,11 +1,6 @@
 ---
-id: 311
 title: '[Solved] Error: No space left on device'
-date: 2014-10-29T05:44:59+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=311
-permalink: /solved-error-no-space-left-on-device/
 categories:
   - Linux
 tags:

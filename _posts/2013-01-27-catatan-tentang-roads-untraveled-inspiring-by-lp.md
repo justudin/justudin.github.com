@@ -1,11 +1,6 @@
 ---
-id: 74
 title: 'Catatan Tentang &#8220;Roads Untraveled&#8221; (Inspiring by LP)'
-date: 2013-01-27T23:49:34+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=74
-permalink: /catatan-tentang-roads-untraveled-inspiring-by-lp/
 categories:
   - Curhatan
 tags:

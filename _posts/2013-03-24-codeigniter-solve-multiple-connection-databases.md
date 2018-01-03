@@ -1,11 +1,6 @@
 ---
-id: 140
 title: 'Codeigniter : Solve Multiple Connection databases'
-date: 2013-03-24T12:32:51+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=140
-permalink: /codeigniter-solve-multiple-connection-databases/
 categories:
   - Web Programming
 tags:

@@ -1,11 +1,6 @@
 ---
-id: 208
 title: Life is experiences..
-date: 2013-10-24T04:32:38+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=208
-permalink: /life-is-experiences/
 categories:
   - Curhatan
 tags:

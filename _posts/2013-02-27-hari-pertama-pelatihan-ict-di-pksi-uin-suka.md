@@ -1,11 +1,6 @@
 ---
-id: 130
 title: Hari Pertama Pelatihan ICT di Pksi Uin Suka
-date: 2013-02-27T01:21:27+00:00
 author: justudin
-layout: post
-guid: https://justudin.wordpress.com/?p=130
-permalink: /hari-pertama-pelatihan-ict-di-pksi-uin-suka/
 categories:
   - Curhatan
 tags:

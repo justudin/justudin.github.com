@@ -1,11 +1,6 @@
 ---
-id: 123
 title: Suasana RS Panembahan Senopati Bantul
-date: 2013-02-27T01:06:29+00:00
 author: justudin
-layout: post
-guid: https://justudin.wordpress.com/?p=123
-permalink: /suasana-rs-panembahan-senopati-bantul/
 categories:
   - Curhatan
 tags:

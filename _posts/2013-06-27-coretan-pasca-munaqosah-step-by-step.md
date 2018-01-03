@@ -1,11 +1,6 @@
 ---
-id: 152
 title: Coretan Pasca-Munaqosah (Step by Step)
-date: 2013-06-27T12:30:26+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=152
-permalink: /coretan-pasca-munaqosah-step-by-step/
 categories:
   - Serba Serbi
 tags:

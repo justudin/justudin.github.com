@@ -1,11 +1,6 @@
 ---
-id: 61
 title: How to Install BlackBerry Plugin On Eclipse
-date: 2013-01-27T02:04:21+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=61
-permalink: /how-to-install-blackberry-plugin-on-eclipse/
 categories:
   - Mobile
   - Tutorial

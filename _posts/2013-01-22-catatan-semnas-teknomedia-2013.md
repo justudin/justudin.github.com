@@ -1,11 +1,6 @@
 ---
-id: 51
 title: Catatan Semnas Teknomedia 2013
-date: 2013-01-22T09:47:03+00:00
 author: justudin
-layout: post
-guid: http://justudin.wordpress.com/?p=51
-permalink: /catatan-semnas-teknomedia-2013/
 categories:
   - Curhatan
 tags:
