@@ -74,15 +74,15 @@ Format the new drive into ext4 filesystem.
    ```
    
 ## Mount The New Drive
-Now the new partition has been created, you need to mount it **somewhere** to use it. Here I¡¯m using **/mnt/newdrive/**.
+Now the new partition has been created, you need to mount it **somewhere** to use it. Here I¡¯m using **/mnt/data/**.
 First create the directory:
    ```bash
-   sudo mkdir /mnt/newdrive/
+   sudo mkdir /mnt/data/
    ```
    
    and mount it into that directory:
    ```bash
-   sudo mount /dev/sdb1 /mnt/newdrive/
+   sudo mount /dev/sdb1 /mnt/data/
    ```
 
 ## Mounting the new drive Automatically at Boot
@@ -94,7 +94,7 @@ If you wish to mount the filesystem automatically each time the server boots, ad
    
    Add below configuration to the last line.
    ```bash
-   /dev/sdb1 /mnt/newdrive ext4 defaults 0 2
+   /dev/sdb1 /mnt/data ext4 defaults 0 2
    ```
 
    
