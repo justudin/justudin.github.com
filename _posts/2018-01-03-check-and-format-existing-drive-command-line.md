@@ -25,11 +25,11 @@ Check the drive location:
    ```bash
 	NAME   FSTYPE   SIZE MOUNTPOINT LABEL
 	sda           111.8G
-	戍式sda1 ext4    95.9G /
-	戍式sda2            1K
-	戌式sda5 swap    15.9G [SWAP]
+	|-sda1 ext4    95.9G /
+	|-sda2            1K
+	|-sda5 swap    15.9G [SWAP]
 	sdb           465.8G
-	戌式sdb1 ntfs   465.8G
+	|-sdb1 ntfs   465.8G
    ```
 In my case **sdb** is new added drive.
 
@@ -48,7 +48,7 @@ Using fdisk command:
    ```bash
    1
    ```
-   It＊ll now ask you to set the start and end cylinders on the disk. Just hit return for each to accept the defaults.
+   It will ask you to set the start and end cylinders on the disk. Just hit **enter** for each to accept the defaults.
    Change the system type to Linux, type:
    ```bash
    t
