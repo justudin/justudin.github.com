@@ -43,6 +43,10 @@ Using fdisk command:
 
    Now create a new primary partition, type:
    ```bash
+   n
+   ```
+   Choose partition type (p for primary), type:
+   ```bash
    p
    ```
    Enter the partition number.
