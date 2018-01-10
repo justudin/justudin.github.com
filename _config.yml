@@ -13,7 +13,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog" leave bla
 author:
   name                   : "Muhammad Syafrudin" # appears in the footer and atom feed
 
-comments                 : false # set it to false to disable comments
+comments                 : true # set it to false to disable comments
 disqus:
   shortname              : "justudin" # sparrow-theme # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
