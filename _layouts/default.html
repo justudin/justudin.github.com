@@ -32,6 +32,7 @@
   	<link rel="mask-icon" href="/assets/images/fav/safari-pinned-tab.svg" color="#5bbad5">
   	<meta name="theme-color" content="#ffffff">
     <meta http-equiv="cleartype" content="on">
+    <script src="{{ '/assets/js/sw-register.js' | absolute_url }}"></script>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -48,7 +49,6 @@
     <script src="{{ '/assets/js/plugins/rrssb.min.js' | absolute_url }}"></script>
     <script src="{{ '/assets/js/slimmenu.js' | absolute_url }}"></script>
     <script src="{{ '/assets/js/main.js' | absolute_url }}"></script>
-    <script src="{{ '/assets/js/sw-register.js' | absolute_url }}"></script>
     {% include analytics.html %}
 
   </body>
