@@ -18,54 +18,7 @@ tags:
 
 *Sesuaikan dengan nama Class, disini saya save dengan nama **DesToBin.java**
 
-```java
-import java.util.Scanner;
-
-public class DesToBin {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int des, a;
-
-		Konversi angka = new Konversi();
-
-		Scanner input = new Scanner(System.in);
-
-		System.out.print("Masukkan Angka : ");
-
-		des = input.nextInt();
-
-		System.out.println("Bilangan Desimalnya : " + des);
-
-		System.out.print("Konversi Binernya : ");
-
-		angka.desimalkebiner(des);
-
-		System.out.println();
-
-	}
-
-}
-
-class Konversi {
-
-	public void desimalkebiner(int a) {
-
-		if (a > 1) {
-
-			desimalkebiner(a / 2);
-
-		}
-
-		System.out.print(a % 2);
-
-	}
-
-}
-
-```
-
-
+<script src="https://gist.github.com/justudin/bd59ce16bb74f77a75b00b1b0b6eaf45.js"></script>
 
 Lalu compile dengan mengetikkan command berikut *jika anda menggunakan command line
 
