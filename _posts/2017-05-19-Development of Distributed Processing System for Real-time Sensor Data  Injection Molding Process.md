@@ -1,5 +1,5 @@
 ---
-title: Development of Distributed Processing System for Real-time Sensor Data : Injection Molding Process
+title: Development of Distributed Processing System for Real-time Sensor Data
 author: justudin
 categories:
   - publications
