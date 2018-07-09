@@ -15,6 +15,8 @@ title: Publications
 
 ### Conference Proceedings and Abstracts
 
+6. Alfian, G.; Ijaz, M.F.; **Syafrudin, M.**; Jaeho, L.; Rhee, J.[A Low Cost IoT-based Traceability System for Perishable Food Supply Chain](https://justudin.com/blog/A-Low-Cost-IoT-based-Traceability-System-for-Perishable-Food-Supply-Chain/). *The 2018 World Congress on Information Technology Applications and Services*. February 20-22. Jeju, Korea: KIPS. [[Link]](http://www.worlditcongress.org/2018/World-IT_2018_Programbook_v4.5.pdf){:target="_blank"}
+
 5. **Syafrudin, M.**; Lee, K.; Fitriyani, N.L.; Alfian, G.; Rhee, J.[Real time monitoring system based on IoT sensor data for assembly line process in the automotive factory](https://justudin.com/blog/An-Open-Source-Based-Real-Time-Data-Processing-Architecture-Framework-for-Manufacturing-Sustainability/). *Korean Society of Manufacturing Technology Engineers Annual Autumn Conference 2017*. December 6-8. Jeju, Korea: KSMTE. [[Link]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07285510){:target="_blank"}
 4. **Syafrudin, M.**; Lee, K.; Fitriyani, N.L.; Alfian, G.; Rhee, J.[Development of Real-time Prediction System Based on Random Forest Algorithm in Smart Factory](https://justudin.com/blog/Development-of-Real-time-Prediction-System-Based-on-Random-Forest-Algorithm-in-Smart-Factory/). *Korea Business Intelligence Data Mining Society Fall Conference 2017*. November 24-25. Busan, Korea: KDMS. [[Link]](http://kdms.or.kr/board/read.asp?table=notice&m_no=253){:target="_blank"}
 3. Kang, Y.-S; **Syafrudin, M.**; Fitriyani, N.L.; Won, J.; Lee, Y.-H.; Rhee, J.[Development of Distributed Processing System for Real-time Sensor Data : Injection Molding Process](https://justudin.com/blog/Development-of-Distributed-Processing-System-for-Real-time-Sensor-Data-Injection-Molding-Process/). *Proceedings of Korean Society for Precision Engineering 2017 Spring Conference*. May 17-19. Jeju, Korea: KSPE, 574-574. [[Link]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07205708){:target="_blank"}
@@ -24,4 +26,4 @@ title: Publications
 
 
 
-*last update on 8 July 2018*
+*last update on 9 July 2018*
