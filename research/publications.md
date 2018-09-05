@@ -6,6 +6,7 @@ title: Publications
 
 ### Journal Articles
 
+6. **Syafrudin, M.**; Alfian, G.; Fitriyani, N.L.; Rhee, J. [Performance Analysis of IoT-Based Sensor, Big Data Processing, and Machine Learning Model for Real-Time Monitoring System in Automotive Manufacturing](https://justudin.com/blog/Performance-Analysis-of-IoT-Based-Sensor-Big-Data-Processing-and-Machine-Learning-Model-for-Real-Time-Monitoring-System-in-Automotive-Manufacturing/). *Sensors* 2018, 18, 2946. [[Link]](https://doi.org/10.3390/s18092946){:target="_blank"}
 5. Ijaz, M.F.; Alfian, G.; **Syafrudin, M.**; Rhee, J. [Hybrid Prediction Model for Type 2 Diabetes and Hypertension Using DBSCAN-Based Outlier Detection, Synthetic Minority Over Sampling Technique (SMOTE), and Random Forest](https://justudin.com/blog/Hybrid-Prediction-Model-for-Type-2-Diabetes-and-Hypertension-Using-DBSCAN-Based-Outlier-Detection-Synthetic-Minority-Over-Sampling-Technique-(SMOTE)-and-Random-Forest). *Appl. Sci.* 2018, 8, 1325. [[Link]](https://doi.org/10.3390/app8081325){:target="_blank"}
 4. Alfian, G.; **Syafrudin, M.**; Ijaz, M.F.; Syaekhoni, M.A.; Fitriyani, N.L.; Rhee, J. [A Personalized Healthcare Monitoring System for Diabetic Patients by Utilizing BLE-Based Sensors and Real-Time Data Processing](https://justudin.com/blog/A-Personalized-Healthcare-Monitoring-System-for-Diabetic-Patients-by-Utilizing-BLE-Based-Sensors-and-Real-Time-Data-Processing/). *Sensors* 2018, 18, 2183. [[Link]](https://doi.org/10.3390/s18072183){:target="_blank"}
 3. **Syafrudin, M.**; Fitriyani, N.L.; Li, D.; Alfian, G.; Rhee, J.; Kang, Y.-S. [An Open Source-Based Real-Time Data Processing Architecture Framework for Manufacturing Sustainability](https://justudin.com/blog/An-Open-Source-Based-Real-Time-Data-Processing-Architecture-Framework-for-Manufacturing-Sustainability/). *Sustainability* 2017, 9, 2139. [[Link]](http://dx.doi.org/10.3390/su9112139){:target="_blank"}
@@ -27,4 +28,4 @@ title: Publications
 
 
 
-*Last updated on 8 August 2018*
+*Last updated on 5 September 2018*
