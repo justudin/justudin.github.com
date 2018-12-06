@@ -18,6 +18,9 @@ title: Publications
 
 ### Conference Proceedings and Abstracts
 
+7. **Syafrudin, M.**; Lee, K.; Alfian, G.; Jaeho, L.; Rhee, J. Application of Bluetooth Low Energy-Based Real-Time Location System for Indoor Environments
+. *2018 2nd International Conference on Big Data and Internet of Things*. October 24 - 26. Beijing, China: ACM Digital Library. [[Link]](https://doi.org/10.1145/3289430.3289470){:target="_blank"}
+
 6. Alfian, G.; Ijaz, M.F.; **Syafrudin, M.**; Jaeho, L.; Rhee, J. [A Low Cost IoT-based Traceability System for Perishable Food Supply Chain](https://justudin.com/blog/A-Low-Cost-IoT-based-Traceability-System-for-Perishable-Food-Supply-Chain/). *The 2018 World Congress on Information Technology Applications and Services*. February 20-22. Jeju, Korea: KIPS. [[Link]](http://www.worlditcongress.org/2018/World-IT_2018_Programbook_v4.5.pdf){:target="_blank"}
 
 5. **Syafrudin, M.**; Lee, K.; Fitriyani, N.L.; Alfian, G.; Rhee, J. [Real time monitoring system based on IoT sensor data for assembly line process in the automotive factory](https://justudin.com/blog/Real-time-monitoring-system-based-on-IoT-sensor-data-for-assembly-line-process-in-the-automotive-factory/). *Korean Society of Manufacturing Technology Engineers Annual Autumn Conference 2017*. December 6-8. Jeju, Korea: KSMTE. [[Link]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07285510){:target="_blank"}
@@ -29,4 +32,4 @@ title: Publications
 
 
 
-*Last updated on 15 October 2018*
+*Last updated on 06 December 2018*
