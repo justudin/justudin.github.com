@@ -8,7 +8,7 @@ title: Publications
 
 8. **Syafrudin, M.**; Fitriyani, N.L.; Alfian, G.; Rhee, J. An Affordable Fast Early Warning System for Edge Computing in Assembly Line. *Appl. Sci.* 2019, 9, 84. [[Link]](https://doi.org/10.3390/app9010084){:target="_blank"}
 
-7. Alfian, G.; Ijaz, M.F.; **Syafrudin, M.**; Syaekhoni, M.A.; Fitriyani, N.L.; Rhee, J. Customer Behavior Analysis using Real-time Data Processing: A Case Study of Digital Signage-based Online Stores. *Asia Pacific Journal of Marketing and Logistics* 2019. [[Link]](https://doi.org/10.1108/APJML-03-2018-0088){:target="_blank"}
+7. Alfian, G.; Ijaz, M.F.; **Syafrudin, M.**; Syaekhoni, M.A.; Fitriyani, N.L.; Rhee, J. Customer Behavior Analysis using Real-time Data Processing: A Case Study of Digital Signage-based Online Stores. *Asia Pacific Journal of Marketing and Logistics* 2019, 31, 265–290. [[Link]](https://doi.org/10.1108/APJML-03-2018-0088){:target="_blank"}
 
 6. **Syafrudin, M.**; Alfian, G.; Fitriyani, N.L.; Rhee, J. Performance Analysis of IoT-Based Sensor, Big Data Processing, and Machine Learning Model for Real-Time Monitoring System in Automotive Manufacturing. *Sensors* 2018, 18, 2946. [[Link]](https://doi.org/10.3390/s18092946){:target="_blank"}
 
