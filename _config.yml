@@ -3,7 +3,7 @@ encoding                 : "utf-8"
 locale                   : "en"
 title                    : "Muhammad Syafrudin"
 title_separator          : "-"
-description              : "Technology Enthusiast"
+description              : ""
 favicon                  : "/assets/images/me.png"
 avatar                   : "/assets/images/me.png"
 url                      : "https://justudin.com" # the base hostname & protocol for your site
