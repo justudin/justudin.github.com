@@ -11,5 +11,7 @@ main:
         url: /research/publications
       - title: "Projects"
         url: /research/projects
+      - title: "Miscellaneous"
+        url: /research/misc
   - title: "Contact"
     url: /contact
