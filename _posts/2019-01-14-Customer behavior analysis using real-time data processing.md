@@ -1,5 +1,5 @@
 ---
-title: Customer behavior analysis using real-time data processing: A case study of digital signage-based online stores
+title: Customer behavior analysis using real-time data processing A case study of digital signage-based online stores
 author: justudin
 categories:
   - publications
