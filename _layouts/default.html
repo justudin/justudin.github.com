@@ -13,8 +13,6 @@
     <script>
       document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
     </script>
-    <!-- For all browsers -->
-    <script src="{{ '/assets/js/sw-register.js' | absolute_url }}"></script>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -26,11 +24,6 @@
         <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.</div>
       </footer>
     </div>
-    
-    <script src="{{ '/assets/js/plugins/jquery-1.12.4.min.js' | absolute_url }}"></script>
-    <script src="{{ '/assets/js/plugins/rrssb.min.js' | absolute_url }}"></script>
-    <script src="{{ '/assets/js/slimmenu.js' | absolute_url }}"></script>
-    <script src="{{ '/assets/js/main.js' | absolute_url }}"></script>
     {% include analytics.html %}
 
   </body>
