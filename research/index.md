@@ -9,3 +9,6 @@ His research interests include data mining, IoT, information systems and big dat
 ### Sub-menu:
 - [Publications](/research/publications)
 - [Projects](/research/projects)
+- [Miscellaneous](/research/misc)
+
+
