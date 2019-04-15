@@ -9,7 +9,6 @@ tags:
   - BLE
   - indoor
   - real-time monitoring
-  
 ---
 **Abstract**
 
