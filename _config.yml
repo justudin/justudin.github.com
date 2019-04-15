@@ -6,7 +6,7 @@ title_separator          : "-"
 description              : ""
 favicon                  : ""
 avatar                   : ""
-url                      : "https://justudin.com" # the base hostname & protocol for your site
+url                      : "https://justudin.github.io" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
