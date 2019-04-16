@@ -12,7 +12,7 @@ His research interests include data mining, IoT, information systems and big dat
 
 Sometimes, he spares the time to do [coding](https://github.com/justudin){:target="_blank"}, [reviewing](https://publons.com/a/1501728/){:target="_blank"}, and [blogging](/blog). His open source projects can be found at [Github](https://github.com/justudin){:target="_blank"}. 
 
-Any comments or concerns can be send via [contact](/contact). 
+Any comments or concerns can be sent to him via [contact](/contact). 
 Well, *thanks for stopping by!*
 
 
