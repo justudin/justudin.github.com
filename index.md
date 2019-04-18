@@ -3,7 +3,7 @@ layout: home
 comments: false
 ---
 
-<h1 class="page__title">Muhammad Syafrudin, PhD</h1>
+<h1 class="page__title">Muhammad Syafrudin</h1>
 
 He came from a beautiful country: *Indonesia* and lovely city: *Yogyakarta*. 
 Since 2014, he has been involved in several research and development (R&D) projects in various industry such as e-commerce, manufacturing, supply chain, health care, [etc](https://justudin.com/research/projects). 
