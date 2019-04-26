@@ -35,16 +35,13 @@ Personal: {% include emailpersonal.html %}
 - Reviewer, Industrial & Engineering Chemistry Research
 - Reviewer, Sensors
 
-Publon: [https://publons.com/a/1501728](https://publons.com/a/1501728){:target="_blank"}
-
 ### Publication summary
 - Journal manuscripts: 9 (indexed in WoS/ISI/SCI/SSCI/SCIE), 11 (indexed in Scopus)
 - h-Index: 5 (Scopus), 5 (Google Scholars)
-
-- Google scholar: https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ
-- Scopus: https://www.scopus.com/authid/detail.uri?authorId=57197741727
-- ORCID: http://orcid.org/0000-0002-5640-4413.
-- Publon: https://publons.com/a/1501728
+- Scopus: [https://www.scopus.com/authid/detail.uri?authorId=57197741727](https://www.scopus.com/authid/detail.uri?authorId=57197741727){:target="_blank"}
+- ORCID: [http://orcid.org/0000-0002-5640-4413](http://orcid.org/0000-0002-5640-4413){:target="_blank"}
+- Google scholar: [https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ](https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ){:target="_blank"}
+- Publon: [https://publons.com/a/1501728](https://publons.com/a/1501728){:target="_blank"}
 
 ### List of Publications
 {% include publications.md %}
