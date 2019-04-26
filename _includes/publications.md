@@ -1,4 +1,4 @@
-### Journal Articles
+#### Journal Articles
 9. Alfian, G.; **Syafrudin, M.**; Yoon, B.; Rhee, J. False Positive RFID Detection Using Classification Models. *Appl. Sci.* 2019, 9, 1154. [[Link]](https://doi.org/10.3390/app9061154){:target="_blank"}
 
 8. **Syafrudin, M.**; Fitriyani, N.L.; Alfian, G.; Rhee, J. An Affordable Fast Early Warning System for Edge Computing in Assembly Line. *Appl. Sci.* 2019, 9, 84. [[Link]](https://doi.org/10.3390/app9010084){:target="_blank"}
@@ -19,7 +19,7 @@
 {: reversed="reversed"}
 
 
-### Conference Proceedings and Abstracts
+#### Conference Proceedings and Abstracts
 
 7. **Syafrudin, M.**; Lee, K.; Alfian, G.; Jaeho, L.; Rhee, J. Application of Bluetooth Low Energy-Based Real-Time Location System for Indoor Environments. *2018 2nd International Conference on Big Data and Internet of Things*. October 24 - 26. Beijing, China: ACM Digital Library. [[Link]](https://doi.org/10.1145/3289430.3289470){:target="_blank"}
 
@@ -36,5 +36,3 @@
 1. **Syafrudin, M.**; Lee, Y.-H. A Quality Prediction as a Service for Manufacturing Small and Medium-sized Enterprises (SMEs). *International Symposium on Green Manufacturing and Applications 2016*. June 21-25. Bali, Indonesia: KSPE and ISGMA. [[Link]](http://2016.isgma.org/data/2016/04-ISGMA2016_pdf.zip){:target="_blank"}
 {: reversed="reversed"}
 
-
-*Updated on 20 March 2019 at 3:13pm (GMT+9)*

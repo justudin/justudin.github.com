@@ -3,7 +3,7 @@ layout: page
 comments: false
 title: Research
 ---
-His research interests include data mining, IoT, information systems and big data.
+{% include interest.md %}
 {%include keepintouch.html%}
 
 ### Sub-menu:
