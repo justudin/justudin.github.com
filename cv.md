@@ -37,6 +37,15 @@ Personal: {% include emailpersonal.html %}
 
 Publon: [https://publons.com/a/1501728](https://publons.com/a/1501728){:target="_blank"}
 
+### Publication summary
+- Journal manuscripts: 9 (indexed in WoS/ISI/SCI/SSCI/SCIE), 11 (indexed in Scopus)
+- h-Index: 5 (Scopus), 5 (Google Scholars)
+
+- Google scholar: https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ
+- SCOPUSID: https://www.scopus.com/authid/detail.uri?authorId=57197741727
+- ORCID: http://orcid.org/0000-0002-5640-4413.
+- Publon: https://publons.com/a/1501728
+
 ### List of Publications
 {% include publications.md %}
 
