@@ -36,7 +36,7 @@ Personal: {% include emailpersonal.html %}<br/>
 - Reviewer, Industrial & Engineering Chemistry Research
 - Reviewer, Sensors
 
-Publon: [https://publons.com/a/1501728](https://publons.com/a/1501728)
+Publon: [https://publons.com/a/1501728](https://publons.com/a/1501728){:target="_blank"}
 
 ### List of Publications
 {% include publications.md %}
