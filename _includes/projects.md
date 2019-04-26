@@ -1,3 +1,4 @@
+- Development of Big Data System (Ministry of Agriculture, Food and Rural Affairs, 2018-2020, *Member*)
 - IoT-based Localized Cloud Service Platform for the Lifecyle Management of Chronic Diseases (Ministry of Trade Industry and Energy Korea, 2016-2019, *Member*)
 - IoT-based Intelligent Store, Korea - Czech International R&D (Ministry of Trade Industry and Energy Korea, 2016-2019, *Member*)
 - Development of the Reconfigurable Manufacturing Core Technology based on the Flexible Assembly and ICT Converged Smart Systems (Ministry of Trade Industry and Energy Korea, 2015-2020, *Member*)
