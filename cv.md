@@ -5,12 +5,12 @@ title: Curriculum Vitae
 ---
 ## Muhammad Syafrudin
 
-Industrial and Systems Engineering, Dongguk University
-Office: {% include emailoffice.html %}
-Personal: {% include emailpersonal.html %}
-[[https://justudin.github.io]](https://justudin.github.io)
+Industrial and Systems Engineering, Dongguk University<br/>
+Office: {% include emailoffice.html %}<br/>
+Personal: {% include emailpersonal.html %}<br/>
+[https://justudin.github.io](https://justudin.github.io)
 
-### Education
+### Academic background
 - PhD, Dongguk University Seoul Korea, Feb 2019
 - BS, UIN Sunan Kalijaga Yogyakarta Indonesia, Jun 2013 
 
@@ -20,7 +20,7 @@ Personal: {% include emailpersonal.html %}
 - Jul 2012 to Feb 2014 : *Software Developer*, Information Technology and Data Center, UIN Sunan Kalijaga Yogyakarta Indonesia 
 - Jan 2011 to Jan 2013 : *Teaching Assistant*, Informatics, UIN Sunan Kalijaga Yogyakarta Indonesia 
 
-### Research 
+### Research
 #### Research interests:
 - Data mining
 - IoT
@@ -36,7 +36,7 @@ Personal: {% include emailpersonal.html %}
 - Reviewer, Industrial & Engineering Chemistry Research
 - Reviewer, Sensors
 
-Publon: [[https://publons.com/a/1501728]](https://publons.com/a/1501728)
+Publon: [https://publons.com/a/1501728](https://publons.com/a/1501728)
 
 ### List of Publications
 {% include publications.md %}
