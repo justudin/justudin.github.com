@@ -42,7 +42,7 @@ Publon: [https://publons.com/a/1501728](https://publons.com/a/1501728){:target="
 - h-Index: 5 (Scopus), 5 (Google Scholars)
 
 - Google scholar: https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ
-- SCOPUSID: https://www.scopus.com/authid/detail.uri?authorId=57197741727
+- Scopus: https://www.scopus.com/authid/detail.uri?authorId=57197741727
 - ORCID: http://orcid.org/0000-0002-5640-4413.
 - Publon: https://publons.com/a/1501728
 
