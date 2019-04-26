@@ -13,5 +13,7 @@ main:
         url: /research/projects
       - title: "Miscellaneous"
         url: /research/misc
+  - title: "CV"
+    url: /cv
   - title: "Contact"
     url: /contact
