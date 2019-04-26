@@ -7,4 +7,4 @@ title: CV
 
 
 #### Publications:
-{% include research/publications.md %}
+{% include publications.md %}
