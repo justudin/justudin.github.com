@@ -14,10 +14,10 @@ Personal: {% include emailpersonal.html %}
 - BS, UIN Sunan Kalijaga Yogyakarta Indonesia, Jun 2013 
 
 ### Research and work experiences
-- Mar 2019 to present : *Assistant Professor*, Industrial and Systems Engineering, Dongguk University Seoul Korea
-- Mar 2014 to Feb 2019 : *Researcher*, Industrial and Systems Engineering, Dongguk University Seoul Korea
-- Jul 2012 to Feb 2014 : *Software Developer*, Information Technology and Data Center, UIN Sunan Kalijaga Yogyakarta Indonesia 
-- Jan 2011 to Jan 2013 : *Teaching Assistant*, Informatics, UIN Sunan Kalijaga Yogyakarta Indonesia 
+- Mar 2019 to present: *Assistant Professor*, Industrial and Systems Engineering, Dongguk University Seoul Korea
+- Mar 2014 to Feb 2019: *Researcher*, Industrial and Systems Engineering, Dongguk University Seoul Korea
+- Jul 2012 to Feb 2014: *Software Developer*, Information Technology and Data Center, UIN Sunan Kalijaga Yogyakarta Indonesia 
+- Jan 2011 to Jan 2013: *Teaching Assistant*, Informatics, UIN Sunan Kalijaga Yogyakarta Indonesia 
 
 ### Research
 #### Research interests:
