@@ -5,7 +5,7 @@ title: Curriculum Vitae
 ---
 ## Muhammad Syafrudin
 Industrial and Systems Engineering, Dongguk University Seoul 04620 Korea<br/>
-Office: {% include emailoffice.html %}
+Office: {% include emailoffice.html %}<br/>
 Personal: {% include emailpersonal.html %}
 [https://justudin.github.io](https://justudin.github.io)
 
