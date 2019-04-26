@@ -6,4 +6,4 @@
 
 #### Intellectual property rights:
 - Healthcare monitoring system (Korean Patent, Application No. 10-2018-0138782, Filling date: 13 November 2018)
-- Method and system for providing benefit to bus passenger(Korean Patent, Application No. 10-2017-0148166, Filling date: 11 November 2017)
+- Method and system for providing benefit to bus passenger (Korean Patent, Application No. 10-2017-0148166, Filling date: 11 November 2017)
