@@ -41,19 +41,19 @@ Here are the official requirements for evasi0n, as stated by the Evad3rs Dev Tea
 
 and it will look like this.
 
-[<img class="aligncenter size-full wp-image-102" alt="step1" src="https://justudin.com/files/uploads/2013/02/step1.png" width="486" height="345" srcset="https://justudin.com/files/uploads/2013/02/step1-300x213.png 300w, https://justudin.com/files/uploads/2013/02/step1.png 486w" sizes="(max-width: 486px) 100vw, 486px" />](https://justudin.com/files/uploads/2013/02/step1.png)
+[<img class="aligncenter size-full wp-image-102" alt="step1" src="/files/uploads/2013/02/step1.png" width="486" height="345" srcset="/files/uploads/2013/02/step1-300x213.png 300w, /files/uploads/2013/02/step1.png 486w" sizes="(max-width: 486px) 100vw, 486px" />](/files/uploads/2013/02/step1.png)
 
 3. Your iphone will be detected there, on this example is my iphone 3GS with iOS 6.0.1 and then click &#8220;**jailbreak**&#8221; button. And after that wait for a moment its will process the jailbreak like this screenshoot :
 
-[<img class="aligncenter size-large wp-image-103" alt="step2" src="https://justudin.com/files/uploads/2013/02/step2.png?w=486" width="486" height="345" srcset="https://justudin.com/files/uploads/2013/02/step2-300x213.png 300w, https://justudin.com/files/uploads/2013/02/step2.png 486w" sizes="(max-width: 486px) 100vw, 486px" />](https://justudin.com/files/uploads/2013/02/step2.png)
+[<img class="aligncenter size-large wp-image-103" alt="step2" src="/files/uploads/2013/02/step2.png?w=486" width="486" height="345" srcset="/files/uploads/2013/02/step2-300x213.png 300w, /files/uploads/2013/02/step2.png 486w" sizes="(max-width: 486px) 100vw, 486px" />](/files/uploads/2013/02/step2.png)
 
 4. After that, its will confirm you to unlock your device and click the new &#8220;Jailbreak&#8221; icon. Only tap it once! its will look like this icon below :<figure id="attachment_105" style="width: 625px" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-105" alt="8-jailbreak-icon" src="https://justudin.com/files/uploads/2013/02/8-jailbreak-icon.jpg?w=625" width="625" height="197" srcset="https://justudin.com/files/uploads/2013/02/8-jailbreak-icon-300x95.jpg 300w, https://justudin.com/files/uploads/2013/02/8-jailbreak-icon.jpg 640w" sizes="(max-width: 625px) 100vw, 625px" />](https://justudin.com/files/uploads/2013/02/8-jailbreak-icon.jpg)<figcaption class="wp-caption-text">Remember, just Tap only once on this icon. and the device will go blank. Wait until process jailbreaking is done!</figcaption></figure> 
+[<img class="size-large wp-image-105" alt="8-jailbreak-icon" src="/files/uploads/2013/02/8-jailbreak-icon.jpg?w=625" width="625" height="197" srcset="/files/uploads/2013/02/8-jailbreak-icon-300x95.jpg 300w, /files/uploads/2013/02/8-jailbreak-icon.jpg 640w" sizes="(max-width: 625px) 100vw, 625px" />](/files/uploads/2013/02/8-jailbreak-icon.jpg)<figcaption class="wp-caption-text">Remember, just Tap only once on this icon. and the device will go blank. Wait until process jailbreaking is done!</figcaption></figure> 
 
 5. Do not un-plug your device, be patient and wait until the jaibreaking process is DONE! (its remain about +-5 minutes). After jailbreaking is done will look like this screenshoot that Jailbreak is Complete!
 
-[<img class="aligncenter size-large wp-image-104" alt="step3" src="https://justudin.com/files/uploads/2013/02/step3.png?w=486" width="486" height="345" srcset="https://justudin.com/files/uploads/2013/02/step3-300x213.png 300w, https://justudin.com/files/uploads/2013/02/step3.png 486w" sizes="(max-width: 486px) 100vw, 486px" />](https://justudin.com/files/uploads/2013/02/step3.png)
+[<img class="aligncenter size-large wp-image-104" alt="step3" src="/files/uploads/2013/02/step3.png?w=486" width="486" height="345" srcset="/files/uploads/2013/02/step3-300x213.png 300w, /files/uploads/2013/02/step3.png 486w" sizes="(max-width: 486px) 100vw, 486px" />](/files/uploads/2013/02/step3.png)
 
 Okay, thank you very much for reading my posting. see you on next tutorial.
 
@@ -61,6 +61,6 @@ oh yeah this is my provent.
 
 
 
-[<img class="size-full wp-image-107" alt="My Iphone 3GS with Jailbroken iOS 6 Untethered" src="https://justudin.com/files/uploads/2013/02/img_0062.png" width="320" height="480" srcset="https://justudin.com/files/uploads/2013/02/img_0062-200x300.png 200w, https://justudin.com/files/uploads/2013/02/img_0062.png 320w" sizes="(max-width: 320px) 100vw, 320px" />](https://justudin.com/files/uploads/2013/02/img_0062.png)
+[<img class="size-full wp-image-107" alt="My Iphone 3GS with Jailbroken iOS 6 Untethered" src="/files/uploads/2013/02/img_0062.png" width="320" height="480" srcset="/files/uploads/2013/02/img_0062-200x300.png 200w, /files/uploads/2013/02/img_0062.png 320w" sizes="(max-width: 320px) 100vw, 320px" />](/files/uploads/2013/02/img_0062.png)
 
 *My Iphone 3GS with Jailbroken iOS 6 Untethered*

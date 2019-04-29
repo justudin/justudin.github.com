@@ -10,7 +10,7 @@ tags:
   - konversi
   - Tutorial
 ---
-Oke, kali ini saya mau share source code program konversi biner ke desimal (lihat juga <a href="https://justudin.com/blog/source-code-program-java-untuk-konversi-desimal-ke-biner/">cara konversi dari desimal ke biner</a>).
+Oke, kali ini saya mau share source code program konversi biner ke desimal (lihat juga <a href="/blog/source-code-program-java-untuk-konversi-desimal-ke-biner/">cara konversi dari desimal ke biner</a>).
 
 silahkan copy source code berikut dan save dengan nama **BinaryToDecimal.java**
 

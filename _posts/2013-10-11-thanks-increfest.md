@@ -24,7 +24,7 @@ Insyaalloh rezeki sudah ada yang ngatur. Dan saya yakin, jika kita selalu berbua
 
 Berikut saya lampirkan foto barang yang sudah beliau kirimkan ke rumah saya,
 
-[<img class="size-full wp-image " id="i-187" alt="Image" src="https://justudin.com/files/uploads/2013/10/img_04811.jpg"/>](https://justudin.com/files/uploads/2013/10/img_04811.jpg)
+[<img class="size-full wp-image " id="i-187" alt="Image" src="/files/uploads/2013/10/img_04811.jpg"/>](/files/uploads/2013/10/img_04811.jpg)
 
 *Alhamdulillah barang nyampe rumah dengan selamat, Thanks!*
 
@@ -32,7 +32,7 @@ Berikut saya lampirkan foto barang yang sudah beliau kirimkan ke rumah saya,
 
 dan kaosnya lumayan buat saya, hehe.
 
-[<img class=" wp-image " id="i-190" alt="Image" src="https://justudin.com/files/uploads/2013/10/img_04821.jpg?w=487" width="438" height="584" />](https://justudin.com/files/uploads/2013/10/img_04821.jpg)
+[<img class=" wp-image " id="i-190" alt="Image" src="/files/uploads/2013/10/img_04821.jpg?w=487" width="438" height="584" />](/files/uploads/2013/10/img_04821.jpg)
 
 *Kaosnya pas di badan yang agak gendut ini :D*
 

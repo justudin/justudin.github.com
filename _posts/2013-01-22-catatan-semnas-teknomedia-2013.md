@@ -39,7 +39,7 @@ Intinya dari pemaparan beliau adalah:
 
 3. The art of execution -> lakukan eksekusi or take action! **&#8220;Ideas alone are nothing! Create something worth executing!&#8221;**
 
-4. Technology Value -> ciptakan ekosistem yang mendukung <img src="http://test.justudin.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+4. Technology Value -> ciptakan ekosistem yang mendukung
 
 Lanjut ke pembicara kedua yaitu dari pihak micros*ft indonesia. Beliau hanya memaparkan tentang cloud computing, dll. saya gak begitu minat soalnya cuma sejenis promosi produk hhehe..
 
@@ -47,7 +47,7 @@ Ok lanjut saja ke keynote speaker ke 3 yaitu dari Ketua amikom, prof m.suyanto..
 
 tapi sebelumnya  saya nampang dulu ya ni catatan otentik kalo saya berada di acara tersebut :) hehe
 
-[<img class=" wp-image-52  " alt="semnas" src="https://justudin.com/files/uploads/2013/01/semnas.png" width="600" height="400" />](https://justudin.com/files/uploads/2013/01/semnas.png)
+[<img class=" wp-image-52  " alt="semnas" src="/files/uploads/2013/01/semnas.png" width="600" height="400" />](/files/uploads/2013/01/semnas.png)
 
 *Narsis di depan Banner Semnas Teknomedia 2013*
 

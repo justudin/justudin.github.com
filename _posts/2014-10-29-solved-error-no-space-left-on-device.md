@@ -17,7 +17,7 @@ Hi guys, I would like to share my experience when I got an error “No space lef
 
    The result in my case is like  in the picture below:
 
-   <img class="wp-image-315 size-full" src="https://justudin.com/files/uploads/2014/10/full.png" alt="full" width="587" height="234" srcset="https://justudin.com/files/uploads/2014/10/full-300x120.png 300w, https://justudin.com/files/uploads/2014/10/full.png 587w" sizes="(max-width: 587px) 100vw, 587px" />
+   <img class="wp-image-315 size-full" src="/files/uploads/2014/10/full.png" alt="full" width="587" height="234" srcset="/files/uploads/2014/10/full-300x120.png 300w, /files/uploads/2014/10/full.png 587w" sizes="(max-width: 587px) 100vw, 587px" />
 
 2. It means my “**/boot**” is full (100% used), so we should remove our old kernel, but before doing it we also should check our old kernels in the **“/boot”** directory. Using this command:
 
@@ -25,7 +25,7 @@ Hi guys, I would like to share my experience when I got an error “No space lef
    ls -la /boot
    ```
 
-   ![](https://justudin.com/files/uploads/2014/10/old-kernel.png)
+   ![](/files/uploads/2014/10/old-kernel.png)
 
    ​
 
@@ -40,7 +40,7 @@ Hi guys, I would like to share my experience when I got an error “No space lef
 
    You can look into my case below:
 
-   ![](https://justudin.com/files/uploads/2014/10/rm-kernel.png)
+   ![](/files/uploads/2014/10/rm-kernel.png)
 
    After that try this command:
 

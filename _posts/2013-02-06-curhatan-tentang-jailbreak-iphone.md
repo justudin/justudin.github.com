@@ -13,7 +13,7 @@ Halo pembaca semua, postingan ini hanyalah curhatan saja dan tidak ada sumber il
 
 
 
-[<img class="size-full wp-image-107" alt="My Iphone 3GS with Jailbroken iOS 6 Untethered" src="https://justudin.com/files/uploads/2013/02/img_0062.png" width="320" height="480" srcset="https://justudin.com/files/uploads/2013/02/img_0062-200x300.png 200w, https://justudin.com/files/uploads/2013/02/img_0062.png 320w" sizes="(max-width: 320px) 100vw, 320px" />](https://justudin.com/files/uploads/2013/02/img_0062.png)
+[<img class="size-full wp-image-107" alt="My Iphone 3GS with Jailbroken iOS 6 Untethered" src="/files/uploads/2013/02/img_0062.png" width="320" height="480" srcset="/files/uploads/2013/02/img_0062-200x300.png 200w, /files/uploads/2013/02/img_0062.png 320w" sizes="(max-width: 320px) 100vw, 320px" />](/files/uploads/2013/02/img_0062.png)
 
 *My Iphone 3GS with Jailbroken iOS 6 Untethered*
 

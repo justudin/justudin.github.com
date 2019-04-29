@@ -17,13 +17,13 @@ hehe ya pengalaman adalah guru yang paling berharga, namun saya sarankan setelah
 
 Jadi gini ceritanya, baru saja saya ingin meng-_update _data yang ada di dalam database _oracle. _Data yang ingin saya ganti adalah data yang sebelumnya saya masukan untuk ujicoba (sample). Namun karena entah kenapa baru ngalamun atau galau eh ngetik sintaknya kurang lengkap udah saya run aja querynya.  Jadi kayak gini deh hasile.
 
-[<img class="size-full wp-image-210 alignleft" alt="update sembrono" src="https://justudin.com/files/uploads/2013/10/update-sembrono.png" width="359" height="51" srcset="https://justudin.com/files/uploads/2013/10/update-sembrono-300x43.png 300w, https://justudin.com/files/uploads/2013/10/update-sembrono.png 359w" sizes="(max-width: 359px) 100vw, 359px" />](https://justudin.com/files/uploads/2013/10/update-sembrono.png)
+[<img class="size-full wp-image-210 alignleft" alt="update sembrono" src="/files/uploads/2013/10/update-sembrono.png" width="359" height="51" srcset="/files/uploads/2013/10/update-sembrono-300x43.png 300w, /files/uploads/2013/10/update-sembrono.png 359w" sizes="(max-width: 359px) 100vw, 359px" />](/files/uploads/2013/10/update-sembrono.png)
 
 **Bayangkan** ya data **6689 **berubah semua wis_nim nya jadi ‘**096500xx**‘. 
 
 OMG, what the ~~h*ll~~ I’m doing! This is not fake data, this is for real.
 
-[<img alt="ss hasil update nglantur" src="https://justudin.com/files/uploads/2013/10/ss-hasil-update-nglantur.png" width="509" height="448" />](https://justudin.com/files/uploads/2013/10/ss-hasil-update-nglantur.png)
+[<img alt="ss hasil update nglantur" src="/files/uploads/2013/10/ss-hasil-update-nglantur.png" width="509" height="448" />](/files/uploads/2013/10/ss-hasil-update-nglantur.png)
 
 &nbsp;
 

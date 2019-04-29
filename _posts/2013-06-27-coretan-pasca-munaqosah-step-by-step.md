@@ -8,7 +8,7 @@ tags:
   - uin suka
   - wisuda
 ---
-Hallo pembaca semua, seperti janji saya sebelumnya diposting <a href="http://justudin.wordpress.com/2013/06/17/coretan-pre-munaqosah-list-syarat-munaqosah/" target="_blank">coretan pre-munaqosah (list syarat munaqosah)</a> ini. Saya akan menceritakan step by step tahapan yang telah saya lalui setelah seminar munaqosah. Berikut lebih jelasnya, silahkan dibaca kalau ada yang kurang jelas bisa menghubungi saya via email atau apalah terserah. Monggo <img src="http://test.justudin.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hallo pembaca semua, seperti janji saya sebelumnya diposting <a href="/blog/coretan-pre-munaqosah-list-syarat-munaqosah/" target="_blank">coretan pre-munaqosah (list syarat munaqosah)</a> ini. Saya akan menceritakan step by step tahapan yang telah saya lalui setelah seminar munaqosah. Berikut lebih jelasnya, silahkan dibaca kalau ada yang kurang jelas bisa menghubungi saya via email atau apalah terserah. Monggo :)
 
 1.   Hal pertama yang saya lakukan adalah melakukan **revisi laporan skripsi.**
 
@@ -22,9 +22,9 @@ Hallo pembaca semua, seperti janji saya sebelumnya diposting <a href="http://jus
 
 6.   setelah dapat cap, langsung buat **resume skripsi **maksimal 30 lembar jilid mika biasa warna biru dan burn laporan skripsi kita ke dalam 5 buah CD + Cover CD + Wadah CD. Contoh Format <a href="https://github.com/justudin/skripsi">**resume**</a> skripsi bisa dilihat di <a href="https://github.com/justudin/skripsi" target="_blank">github </a>saya. **Sebelum di-burn **kedalam CD, pastikan laporan skripsinya sudah di-**BOOKMARK** contohnya bisa dilihat <a href="https://github.com/justudin/skripsi" target="_blank">di github saya</a>. Jadi isi CD nya cuma 1 file laporan skripsi, dan dinamai dengan format SKRIPSI\_NAMA\_NIM.pdf (karena saya kemarin dikomplain sama pihak perpus uin karena isi cd yang saya burn lebih dari 1 file dan nama filenya judul skripsi saya, jadi saya harus burning lagi sesuai permintaan perpus.) Oiya format Cover Cdnya bisa minta di fotocopyan **EDITE fotocopy atau** lihat poto berikut :
 
-7.   [<img class="aligncenter size-full wp-image-153" alt="IMG_0234" src="https://justudin.com/files/uploads/2013/06/img_0234.jpg" width="448" height="600" srcset="https://justudin.com/files/uploads/2013/06/img_0234-224x300.jpg 224w, https://justudin.com/files/uploads/2013/06/img_0234.jpg 448w" sizes="(max-width: 448px) 100vw, 448px" />](https://justudin.com/files/uploads/2013/06/img_0234.jpg)
+7.   [<img class="aligncenter size-full wp-image-153" alt="IMG_0234" src="/files/uploads/2013/06/img_0234.jpg" width="448" height="600" srcset="/files/uploads/2013/06/img_0234-224x300.jpg 224w, /files/uploads/2013/06/img_0234.jpg 448w" sizes="(max-width: 448px) 100vw, 448px" />](/files/uploads/2013/06/img_0234.jpg)
 
-8.   setelah diburn 5 CD dan resume skripsi sudah diprint dan dijilid mika warna biru, maka sekarang silahkan print [BERITA PENYERAHAN SKRIPSI](https://justudin.com/files/uploads/2013/06/berita-penyerahan-skripsi.docx) .
+8.   setelah diburn 5 CD dan resume skripsi sudah diprint dan dijilid mika warna biru, maka sekarang silahkan print [BERITA PENYERAHAN SKRIPSI](/files/uploads/2013/06/berita-penyerahan-skripsi.docx) .
 
 9.   setelah itu serahkan 1 CD plus 1 lembar pengesahan ke dosen penguji 1, penguji 2 dan pembimbing, mintakan tanda tangan pada lembar berita penyerahan skripsi sebagai bukti bahwa skripsi sudah kita serahkan.
 
@@ -32,19 +32,19 @@ Hallo pembaca semua, seperti janji saya sebelumnya diposting <a href="http://jus
 
 11.   setelah itu masih sisa 1 CD lagi buat perpus uin, datang ke perpus uin, dipintu utama masuk uin langsung lurus saja nanti akan ada loket “**penyerahan skripsi**“, serahkan 1 CD Skripsi dan 1 Jilid Skripsi yang sudah kita jilid di awal tadi, nanti akan dicek, jika dah bener serahkan berita penyerahan skripsi agar ditanda tangani dan dicap. setelah itu nanti akan ditanya apakah mau membuat surat bebas perpus, jika iya nanti akan dikasih form kecil, diisi dan langsung ke TU perpus yang ada disebelah barat dari loket penyerahan skripsi. Untuk mendapat bebas perpus, kita harus tidak punya tanggungan (pinjaman/denda) dan disuruh membayar Rp 25.000,- (Dua lima ribu rupiah) atau menyumbangkan buku sesuai dengan bidang studi. seperti gambar berikut.
 
-12.   [<img class="size-full wp-image-155" alt="IMG_0238" src="https://justudin.com/files/uploads/2013/06/img_0238.jpg" width="600" height="450" srcset="https://justudin.com/files/uploads/2013/06/img_0238-300x225.jpg 300w, https://justudin.com/files/uploads/2013/06/img_0238.jpg 600w" sizes="(max-width: 600px) 100vw, 600px" />](https://justudin.com/files/uploads/2013/06/img_0238.jpg)
+12.   [<img class="size-full wp-image-155" alt="IMG_0238" src="/files/uploads/2013/06/img_0238.jpg" width="600" height="450" srcset="/files/uploads/2013/06/img_0238-300x225.jpg 300w, /files/uploads/2013/06/img_0238.jpg 600w" sizes="(max-width: 600px) 100vw, 600px" />](/files/uploads/2013/06/img_0238.jpg)
 
      *Syarat Bebas Pustaka UIN* 
 
      Jika tidak ingin membayar 25ribu maka silahkan menyumbangkan buku dengan syarat berikut : 
 
-     [<img class="size-full wp-image-156" alt="Syarat Buku yang akan disumbangkan" src="https://justudin.com/files/uploads/2013/06/img_0239.jpg" width="600" height="450" srcset="https://justudin.com/files/uploads/2013/06/img_0239-300x225.jpg 300w, https://justudin.com/files/uploads/2013/06/img_0239.jpg 600w" sizes="(max-width: 600px) 100vw, 600px" />](https://justudin.com/files/uploads/2013/06/img_0239.jpg)
+     [<img class="size-full wp-image-156" alt="Syarat Buku yang akan disumbangkan" src="/files/uploads/2013/06/img_0239.jpg" width="600" height="450" srcset="/files/uploads/2013/06/img_0239-300x225.jpg 300w, /files/uploads/2013/06/img_0239.jpg 600w" sizes="(max-width: 600px) 100vw, 600px" />](/files/uploads/2013/06/img_0239.jpg)
 
      *Syarat Buku yang akan disumbangkan*.
 
 13.   jika sudah maka akan mendapat 2 lembar bukti bebas pustaka. Simpan dengan baek2 karena 2 lembar tersebut dipakai untuk pendaftaran wisuda dan pengambilan ijazah.
 
-14.   setelah itu dapat mengurus bebas pustaka dari perpus saintek di lantai 2 dengan membawa berita pengesahan skripsi difotocopy 1 kali dan print + fotocopy  1 kali [SuratKetBebasPerpustakaanFakultas](https://justudin.com/files/uploads/2013/06/suratketbebasperpustakaanfakultas.doc) dan menyerahkan buku sumbangan sesuai dengan kebutuhan mahasiswa saintek. Disesuaikan dengan bidang jurusan.
+14.   setelah itu dapat mengurus bebas pustaka dari perpus saintek di lantai 2 dengan membawa berita pengesahan skripsi difotocopy 1 kali dan print + fotocopy  1 kali [SuratKetBebasPerpustakaanFakultas](/files/uploads/2013/06/suratketbebasperpustakaanfakultas.doc) dan menyerahkan buku sumbangan sesuai dengan kebutuhan mahasiswa saintek. Disesuaikan dengan bidang jurusan.
 
 15.   setelah itu bisa menunggu info pendaftaran wisuda (sekalian melihat syarat2nya).
 

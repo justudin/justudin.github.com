@@ -14,7 +14,7 @@ tags:
   - Tutorial
 ---
 
-​	Oke, kali ini saya mau share source code program konversi desimal ke biner..kebalikan dari posting saya sebelumnya tentang <a href="https://justudin.com/blog/source-code-program-java-untuk-konversi-biner-ke-desimal/">Program Java untuk konversi Biner ke desimal</a> ..<br /> Oke langsung saja silahkan copy source code berikut dan save dengan nama *.java
+​	Oke, kali ini saya mau share source code program konversi desimal ke biner..kebalikan dari posting saya sebelumnya tentang <a href="/blog/source-code-program-java-untuk-konversi-biner-ke-desimal/">Program Java untuk konversi Biner ke desimal</a> ..<br /> Oke langsung saja silahkan copy source code berikut dan save dengan nama *.java
 
 *Sesuaikan dengan nama Class, disini saya save dengan nama **DesToBin.java**
 

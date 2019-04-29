@@ -34,7 +34,7 @@ Follow these step by step :
 
 7. Wait until all process is done. Its looks like this :
 
-[<img class="size-full wp-image-78" alt="Sreenshot Flashing BB10 Dev Alpha Process" src="https://justudin.com/files/uploads/2013/01/flashing-bb10-dev-alpha.png" width="625" height="309" />](https://justudin.com/files/uploads/2013/01/flashing-bb10-dev-alpha.png)
+[<img class="size-full wp-image-78" alt="Sreenshot Flashing BB10 Dev Alpha Process" src="/files/uploads/2013/01/flashing-bb10-dev-alpha.png" width="625" height="309" />](/files/uploads/2013/01/flashing-bb10-dev-alpha.png)
 
 *Sreenshot Flashing BB10 Dev Alpha Process*
 

@@ -18,7 +18,7 @@ ya, anda benar! Kebahagian memang perlu pengorbanan, berkorban untuk terus bersy
 
 Ya, bahagia itu masalah perasaan. it’s up to you to be happy or not! 
 
-<img alt="" src="https://justudin.com/files/uploads/2013/10/a3c07-bahagia-itu-sederhana.jpg" width="400" height="222"/>
+<img alt="" src="/files/uploads/2013/10/a3c07-bahagia-itu-sederhana.jpg" width="400" height="222"/>
 
 *sumber gambar : gue-aul.blogspot.com*
 

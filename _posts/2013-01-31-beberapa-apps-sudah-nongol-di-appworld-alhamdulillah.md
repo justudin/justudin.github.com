@@ -15,7 +15,7 @@ Hallo pembaca semua.. Hari ini saya cuma mau share kabar gembira, Alhamdulillah,
 
 Alhamdulillah sekali semoga yang aplikasi 4 lagi segera menyusul ya.. hehe ini untuk screenshotnya. Monggo semoga bisa memotivasi yang laen 😀
 
-[<img class="size-large wp-image-88" alt="Some Apps approved on Apps World @BlackBerry" src="https://justudin.com/files/uploads/2013/01/blackberryappworld.png?w=625" width="625" height="340" srcset="https://justudin.com/files/uploads/2013/01/blackberryappworld-300x163.png 300w, https://justudin.com/files/uploads/2013/01/blackberryappworld-768x418.png 768w, https://justudin.com/files/uploads/2013/01/blackberryappworld-1024x558.png 1024w, https://justudin.com/files/uploads/2013/01/blackberryappworld-1200x654.png 1200w, https://justudin.com/files/uploads/2013/01/blackberryappworld.png 1366w" sizes="(max-width: 625px) 100vw, 625px" />](https://justudin.com/files/uploads/2013/01/blackberryappworld.png)
+[<img class="size-large wp-image-88" alt="Some Apps approved on Apps World @BlackBerry" src="/files/uploads/2013/01/blackberryappworld.png?w=625" width="625" height="340" srcset="/files/uploads/2013/01/blackberryappworld-300x163.png 300w, /files/uploads/2013/01/blackberryappworld-768x418.png 768w, /files/uploads/2013/01/blackberryappworld-1024x558.png 1024w, /files/uploads/2013/01/blackberryappworld-1200x654.png 1200w, /files/uploads/2013/01/blackberryappworld.png 1366w" sizes="(max-width: 625px) 100vw, 625px" />](/files/uploads/2013/01/blackberryappworld.png)
 
 *Some Apps approved on Apps World @BlackBerry*
 

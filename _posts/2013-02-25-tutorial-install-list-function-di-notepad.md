@@ -12,7 +12,7 @@ tags:
 ---
 ​	Hello readers, sudah lama tidak posting lagi neh.. akhirnya bisa menyempatkan untuk menuliskan tutorial sederhana tentang list function, apa itu silahkan lihat SS berikut : 
 
-[<img class="size-large wp-image-117" alt="Penampakan list function pada tab sebelah kanan" src="https://justudin.com/files/uploads/2013/02/list-function.png?w=625" width="625" height="340" srcset="https://justudin.com/files/uploads/2013/02/list-function-300x163.png 300w, https://justudin.com/files/uploads/2013/02/list-function-768x418.png 768w, https://justudin.com/files/uploads/2013/02/list-function-1024x558.png 1024w, https://justudin.com/files/uploads/2013/02/list-function-1200x654.png 1200w, https://justudin.com/files/uploads/2013/02/list-function.png 1366w" sizes="(max-width: 625px) 100vw, 625px" />](https://justudin.com/files/uploads/2013/02/list-function.png)
+[<img class="size-large wp-image-117" alt="Penampakan list function pada tab sebelah kanan" src="/files/uploads/2013/02/list-function.png?w=625" width="625" height="340" srcset="/files/uploads/2013/02/list-function-300x163.png 300w, /files/uploads/2013/02/list-function-768x418.png 768w, /files/uploads/2013/02/list-function-1024x558.png 1024w, /files/uploads/2013/02/list-function-1200x654.png 1200w, /files/uploads/2013/02/list-function.png 1366w" sizes="(max-width: 625px) 100vw, 625px" />](/files/uploads/2013/02/list-function.png)
 
 *Penampakan list function pada tab sebelah kanan*
 
