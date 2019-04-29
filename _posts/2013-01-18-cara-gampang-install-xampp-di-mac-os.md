@@ -13,7 +13,7 @@ tags:
   - xampp for macos x
 ---
 
-  <img alt="" src="https://justudin.com/files/uploads/2013/01/xampp.jpg?w=200" width="200" height="175" border="0" />
+  <img alt="" src="\\files/uploads/2013/01/xampp.jpg?w=200" width="200" height="175" border="0" />
 
 Okay, kali ini saya cuma pengen share cara install xampp ( webserver ) for mac os alias untuk para pengguna apel krowak,hehehehe :D, okay..langsung saja ya? 😛
 
@@ -38,7 +38,7 @@ okay langsung saja..
 
      untuk memulai or menjalankan XAMPP yang sudah terinstall tadi silahkan langsung saja buka aplikasi Xamppny dengan shortcut Command+Space lalu ketikkan xampp seperti ini
 
-       <a href="https://justudin.com/files/uploads/2013/01/picture1.png"><img alt="" src="https://justudin.com/files/uploads/2013/01/picture1.png?w=300" width="320" height="90" border="0" /></a>
+<img alt="" src="\\files/uploads/2013/01/picture1.png?w=300" width="320" height="90" border="0" />
 
      maka akan muncul Aplikasi Xampp nya seperti ini
 
