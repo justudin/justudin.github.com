@@ -32,6 +32,7 @@ Personal: {% include emailpersonal.html %}
 
 ### Journal Reviewing
 - Reviewer, IEEE Access
+- Reviewer, IEEE Transactions on Industrial Informatics
 - Reviewer, Industrial & Engineering Chemistry Research
 - Reviewer, Sensors
 
@@ -41,7 +42,7 @@ Personal: {% include emailpersonal.html %}
 - ScopusID: [57197741727](https://www.scopus.com/authid/detail.uri?authorId=57197741727){:target="_blank"}
 - ORCID: [0000-0002-5640-4413](http://orcid.org/0000-0002-5640-4413){:target="_blank"}
 - Google scholar: [WLTzkOMAAAAJ](https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ){:target="_blank"}
-- Web of Science ResearcherID: [P-9657-2017](https://publons.com/researcher/P-9657-2017/){:target="_blank"}
+- Web of science researcherID: [P-9657-2017](https://publons.com/researcher/P-9657-2017/){:target="_blank"}
 
 ### List of Publications
 {% include publications.md %}
@@ -50,4 +51,4 @@ Personal: {% include emailpersonal.html %}
 {% include misc.md %}
 
 
-*Updated on 26 April 2019*
+*Updated on 10 May 2019*
