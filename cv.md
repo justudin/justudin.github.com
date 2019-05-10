@@ -7,7 +7,7 @@ title: Curriculum Vitae
 Industrial and Systems Engineering, Dongguk University Seoul 04620 Korea<br/>
 Office: {% include emailoffice.html %}<br/>
 Personal: {% include emailpersonal.html %}
-[https://justudin.github.io](https://justudin.github.io)
+[{{ site.url }}]({{ site.url }})
 
 ### Academic background
 - PhD, Dongguk University Seoul Korea, Feb 2019
