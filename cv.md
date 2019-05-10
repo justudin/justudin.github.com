@@ -16,7 +16,7 @@ Personal: {% include emailpersonal.html %}
 ### Research and work experiences
 - Mar 2019 to present: *Assistant Professor*, Industrial and Systems Engineering, Dongguk University Seoul Korea
 - Mar 2014 to Feb 2019: *Researcher*, Industrial and Systems Engineering, Dongguk University Seoul Korea
-- Jul 2012 to Feb 2014: *Software Developer*, Information Technology and Data Center, UIN Sunan Kalijaga Yogyakarta Indonesia 
+- Jul 2012 to Feb 2014: *Web Developer*, Information Technology and Data Center, UIN Sunan Kalijaga Yogyakarta Indonesia 
 - Jan 2011 to Jan 2013: *Teaching Assistant*, Informatics, UIN Sunan Kalijaga Yogyakarta Indonesia 
 
 ### Research
@@ -38,10 +38,10 @@ Personal: {% include emailpersonal.html %}
 ### Publication summary
 - Journal manuscripts: 9 (indexed in WoS/ISI/SCI/SSCI/SCIE), 11 (indexed in Scopus)
 - h-Index: 5 (Scopus), 5 (Google Scholars)
-- Scopus: [https://www.scopus.com/authid/detail.uri?authorId=57197741727](https://www.scopus.com/authid/detail.uri?authorId=57197741727){:target="_blank"}
-- ORCID: [http://orcid.org/0000-0002-5640-4413](http://orcid.org/0000-0002-5640-4413){:target="_blank"}
-- Google scholar: [https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ](https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ){:target="_blank"}
-- Publon: [https://publons.com/a/1501728](https://publons.com/a/1501728){:target="_blank"}
+- ScopusID: [57197741727](https://www.scopus.com/authid/detail.uri?authorId=57197741727){:target="_blank"}
+- ORCID: [0000-0002-5640-4413](http://orcid.org/0000-0002-5640-4413){:target="_blank"}
+- Google scholar: [WLTzkOMAAAAJ](https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ){:target="_blank"}
+- Web of Science ResearcherID: [P-9657-2017](https://publons.com/researcher/P-9657-2017/){:target="_blank"}
 
 ### List of Publications
 {% include publications.md %}
