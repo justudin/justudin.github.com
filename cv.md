@@ -30,7 +30,7 @@ Personal: {% include emailpersonal.html %}
 #### Research projects:
 {% include projects.md %}
 
-### Journal Reviewing
+### Journal reviewing
 - Reviewer, IEEE Access
 - Reviewer, IEEE Transactions on Industrial Informatics
 - Reviewer, Industrial & Engineering Chemistry Research
@@ -44,7 +44,7 @@ Personal: {% include emailpersonal.html %}
 - Google scholar: [WLTzkOMAAAAJ](https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ){:target="_blank"}
 - Web of science researcherID: [P-9657-2017](https://publons.com/researcher/P-9657-2017/){:target="_blank"}
 
-### List of Publications
+### List of publications
 {% include publications.md %}
 
 ### Miscellaneous
