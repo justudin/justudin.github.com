@@ -3,9 +3,9 @@
 // Email obfuscator script 2.1 by Tim Williams, University of Arizona
 // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
 // This code is freeware provided these four comment lines remain intact
-// A wizard to generate this code is at https://justudin.github.io/anti-spam-email/
-{ coded = "Xf5YfQOb@Jq.qn"
-  key = "JuswGoA4eRgm8Xcf5aUhC2nidqWtBKzHFPVrbOQ7EY9TSDlxp1v3ykZ6M0LINj"
+// A wizard to generate this code is at http://www.justudin.com/anti-spam-email/
+{ coded = "uOoX4rCDc@bx.xB"
+  key = "pwfvGzQUHl34MFebdXyZ8mSqVn2YsBNCiO91x7RWcaPujIgDK5k6TJthoArEL0"
   shift=coded.length
   link=""
   for (i=0; i<coded.length; i++) {
@@ -18,7 +18,7 @@
       link += (key.charAt(ltr))
     }
   }
-document.write(link)
+document.write("<a href='mailto:"+link+"'>"+link+"</a>")
 }
 //-->
 </script><noscript>Sorry, you need Javascript ON to see my email.</noscript>
