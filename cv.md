@@ -50,5 +50,7 @@ Personal: {% include emailpersonal.html %}
 ### Miscellaneous
 {% include misc.md %}
 
+### References
+Available on request
 
 *Updated on 10 May 2019*
