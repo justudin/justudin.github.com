@@ -20,17 +20,12 @@ Personal: {% include emailpersonal.html %}
 - Jan 2011 to Jan 2013: *Teaching Assistant*, Informatics, UIN Sunan Kalijaga Yogyakarta Indonesia 
 
 ### Research
-#### Research interests:
-- Data mining
-- IoT
-- Information systems
-- Big data
-- Industrial AI
+#### Research interests: Data mining, IoT, Information systems, Big data, Edge computing, Industrial artificial intelligence
 
 #### Research projects:
 {% include projects.md %}
 
-### Journal reviewing
+### Professional activities:
 - Reviewer, IEEE Access
 - Reviewer, IEEE Transactions on Industrial Informatics
 - Reviewer, Industrial & Engineering Chemistry Research
@@ -39,7 +34,7 @@ Personal: {% include emailpersonal.html %}
 - Reviewer, Applied Computing and Informatics
 
 ### Publication summary
-- Journal manuscripts: 9 (indexed in WoS/ISI/SCI/SSCI/SCIE), 11 (indexed in Scopus)
+- Journal manuscripts: 11 (indexed in WoS/ISI/SCI/SSCI/SCIE), 11 (indexed in Scopus)
 - h-Index: 5 (Scopus), 5 (Google Scholars)
 - ScopusID: [57197741727](https://www.scopus.com/authid/detail.uri?authorId=57197741727){:target="_blank"}
 - ORCID: [0000-0002-5640-4413](http://orcid.org/0000-0002-5640-4413){:target="_blank"}
@@ -53,4 +48,4 @@ Personal: {% include emailpersonal.html %}
 {% include misc.md %}
 
 
-*Updated on 19 June 2019*
+*Updated on 2 July 2019*
