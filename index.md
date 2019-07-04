@@ -3,7 +3,7 @@ layout: home
 comments: false
 ---
 
-<h1 class="page__title">Muhammad Syafrudin <a href="https://orcid.org/0000-0002-5640-4413" target="_blank" rel="noopener noreferrer"><img src="/assets/img/orcid.png" title="OrcID" style="position: relative; width: 20px; margin-left: 3px; max-width: 20px !important; height: auto; top: -5px;"></a></h1>
+<h1 class="page__title">Muhammad Syafrudin<a href="https://orcid.org/0000-0002-5640-4413" target="_blank" rel="noopener noreferrer"><img src="/assets/img/orcid.png" title="OrcID" style="position: relative; width: 15px; margin-left: 3px; max-width: 15px !important; height: auto; top: -5px;"></a></h1>
 
 Muhammad Syafrudin is currently [Assistant Professor](https://ise.dongguk.edu/bbs/board.php?bo_table=ise5_1&wr_id=36){:target="_blank"} of Industrial and Systems Engineering at Dongguk University Seoul, Korea.
 <br/>He carries out research in IoT, information systems, data mining, and big data. His updated curriculum vitae can be seen [here](/cv). <br/>
