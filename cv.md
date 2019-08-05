@@ -31,11 +31,12 @@ Personal: {% include emailpersonal.html %}
 - Reviewer, Industrial & Engineering Chemistry Research
 - Reviewer, Sensors
 - Reviewer, Future Internet
+- Reviewer, Mathematics
 - Reviewer, Applied Computing and Informatics
 
 ### Publication summary
 - Journal manuscripts: 11 (indexed in WoS/ISI/SCI/SSCI/SCIE), 11 (indexed in Scopus)
-- h-Index: 5 (Scopus), 5 (Google Scholars)
+- h-Index: 6 (Scopus), 6 (Google Scholars)
 - ScopusID: [57197741727](https://www.scopus.com/authid/detail.uri?authorId=57197741727){:target="_blank"}
 - ORCID: [0000-0002-5640-4413](http://orcid.org/0000-0002-5640-4413){:target="_blank"}
 - Google scholar: [WLTzkOMAAAAJ](https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ){:target="_blank"}
