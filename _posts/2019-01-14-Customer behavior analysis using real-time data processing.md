@@ -35,6 +35,4 @@ The proposed system may be utilized to promote green products to the customer, h
 The key novelty of the present study lies in system development based on big data technology to handle the enormous amounts of data as well as analyzing the customer behavior in real time in the DSOS. The real-time data processing based on big data technology (such as NoSQL MongoDB and Apache Kafka) is used to handle the vast amount of customer behavior data. In addition, the present study proposed association rule to extract useful information from customer behavior. These results can be used for promotion as well as relevant product recommendations to DSOS customers. Besides in today’s changing retail environment, analyzing the customer behavior in real time in DSOS helps to attract and retain customers more efficiently and effectively, and retailers can get a competitive advantage over their competitors.
 
 Published in: Asia Pacific Journal of Marketing and Logistics<br/>
-DOI: https://doi.org/10.1108/APJML-03-2018-0088
-
-
+DOI: [10.1108/APJML-03-2018-0088](https://doi.org/10.1108/APJML-03-2018-0088){:target="_blank"}
