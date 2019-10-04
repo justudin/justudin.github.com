@@ -1,4 +1,5 @@
 #### Journal articles:
+10. Fitriyani, N.L.; **Syafrudin, M.**; Alfian, G.; Rhee, J. Development of Disease Prediction Model Based on Ensemble Learning Approach for Diabetes and Hypertension. *IEEE Access* 2019 [[Link]](https://doi.org/10.1109/ACCESS.2019.2945129){:target="_blank"}<br/>
 9. Alfian, G.; **Syafrudin, M.**; Yoon, B.; Rhee, J. False Positive RFID Detection Using Classification Models. *Appl. Sci.* 2019, 9, 1154. [[Link]](https://doi.org/10.3390/app9061154){:target="_blank"}<br/>
 8. **Syafrudin, M.**; Fitriyani, N.L.; Alfian, G.; Rhee, J. An Affordable Fast Early Warning System for Edge Computing in Assembly Line. *Appl. Sci.* 2019, 9, 84. [[Link]](https://doi.org/10.3390/app9010084){:target="_blank"}<br/>
 7. Alfian, G.; Ijaz, M.F.; **Syafrudin, M.**; Syaekhoni, M.A.; Fitriyani, N.L.; Rhee, J. Customer Behavior Analysis using Real-time Data Processing: A Case Study of Digital Signage-based Online Stores. *Asia Pacific Journal of Marketing and Logistics* 2019, 31, 265–290. [[Link]](https://doi.org/10.1108/APJML-03-2018-0088){:target="_blank"}<br/>
@@ -12,6 +13,8 @@
 
 
 #### Conference proceedings and abstracts:
+
+8. Alfian, G.; **Syafrudin, M.**; Jaeho, L.; Rhee, J. Detecting Movement and Direction of Tags for RFID Gate. *2019 5th International Conference on Science and Technology (ICST)*. July 30–31. Yogyakarta, Indonesia<br/>
 7. **Syafrudin, M.**; Lee, K.; Alfian, G.; Jaeho, L.; Rhee, J. Application of Bluetooth Low Energy-Based Real-Time Location System for Indoor Environments. *2018 2nd International Conference on Big Data and Internet of Things*. October 24 - 26. Beijing, China: ACM Digital Library. [[Link]](https://doi.org/10.1145/3289430.3289470){:target="_blank"}<br/>
 6. Alfian, G.; Ijaz, M.F.; **Syafrudin, M.**; Jaeho, L.; Rhee, J. A Low Cost IoT-based Traceability System for Perishable Food Supply Chain. *The 2018 World Congress on Information Technology Applications and Services*. February 20-22. Jeju, Korea: KIPS. [[Link]](http://www.worlditcongress.org/2018/World-IT_2018_Programbook_v4.5.pdf){:target="_blank"}<br/>
 5. **Syafrudin, M.**; Lee, K.; Fitriyani, N.L.; Alfian, G.; Rhee, J. Real time monitoring system based on IoT sensor data for assembly line process in the automotive factory. *Korean Society of Manufacturing Technology Engineers Annual Autumn Conference 2017*. December 6-8. Jeju, Korea: KSMTE. [[Link]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07285510){:target="_blank"}<br/>
