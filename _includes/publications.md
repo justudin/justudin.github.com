@@ -1,5 +1,5 @@
 #### Journal articles:
-10. Fitriyani, N.L.; **Syafrudin, M.**; Alfian, G.; Rhee, J. Development of Disease Prediction Model Based on Ensemble Learning Approach for Diabetes and Hypertension. *IEEE Access* 2019 [[Link]](https://doi.org/10.1109/ACCESS.2019.2945129){:target="_blank"}<br/>
+10. Fitriyani, N.L.; **Syafrudin, M.**; Alfian, G.; Rhee, J. Development of Disease Prediction Model Based on Ensemble Learning Approach for Diabetes and Hypertension. *IEEE Access* 2019, 7, pp. 144777-144789. [[Link]](https://doi.org/10.1109/ACCESS.2019.2945129){:target="_blank"}<br/>
 9. Alfian, G.; **Syafrudin, M.**; Yoon, B.; Rhee, J. False Positive RFID Detection Using Classification Models. *Appl. Sci.* 2019, 9, 1154. [[Link]](https://doi.org/10.3390/app9061154){:target="_blank"}<br/>
 8. **Syafrudin, M.**; Fitriyani, N.L.; Alfian, G.; Rhee, J. An Affordable Fast Early Warning System for Edge Computing in Assembly Line. *Appl. Sci.* 2019, 9, 84. [[Link]](https://doi.org/10.3390/app9010084){:target="_blank"}<br/>
 7. Alfian, G.; Ijaz, M.F.; **Syafrudin, M.**; Syaekhoni, M.A.; Fitriyani, N.L.; Rhee, J. Customer Behavior Analysis using Real-time Data Processing: A Case Study of Digital Signage-based Online Stores. *Asia Pacific Journal of Marketing and Logistics* 2019, 31, 265–290. [[Link]](https://doi.org/10.1108/APJML-03-2018-0088){:target="_blank"}<br/>
