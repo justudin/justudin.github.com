@@ -11,5 +11,4 @@ Since 2014, he has been involved in several research and development (R&D) [proj
 In the spare time, he does [reviewing](https://publons.com/a/1501728/){:target="_blank"}, [coding](https://github.com/justudin){:target="_blank"}, and [blogging](/blog). <br/>
 Any comments, suggestions, collaborations, and discussions can be sent via [email](/contact).<br/>
 <br/>
-&bull; [CV](/cv) &bull;
 <br/>
