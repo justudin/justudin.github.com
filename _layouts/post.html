@@ -16,6 +16,7 @@ layout: default
   "articleBody": {{ page.content | strip_html | jsonify }},
   "datePublished": {{ page.date | jsonify }},
   "dateModified": {{ page.modified | default: page.date | jsonify }},
+  "isFamilyFriendly": "true",
   "author": {
     "@type": "Person",
     "name": {{ site.author.name | jsonify }},
@@ -30,6 +31,7 @@ layout: default
 		"https://www.scopus.com/authid/detail.uri?authorId=57197741727",
 		"https://publons.com/researcher/1501728/muhammad-syafrudin/",
 		"http://ise.dongguk.edu/bbs/board.php?bo_table=ise5_1&wr_id=36",
+		"https://engineer.dongguk.edu/en2_2_6/1",
 		"https://www.linkedin.com/in/justudin",
 		"https://sciprofiles.com/profile/212473",
 		"https://ieeexplore.ieee.org/author/37086107273",
@@ -41,6 +43,15 @@ layout: default
 		"http://gsl-archive.mit.edu/accounts/902/"
 	]
   },
+	"publisher": {
+		"@type": "Organization",
+		"name": site.author.name,
+		"url": "{{ site.url }}",
+		"logo": {
+			"@type": "ImageObject",
+			"url": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WLTzkOMAAAAJ&citpid=10"
+		}
+	},
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "{{ site.url }}{{ page.url }}"
