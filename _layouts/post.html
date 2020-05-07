@@ -18,10 +18,10 @@ layout: default
   "dateModified": {{ page.modified | default: page.date | jsonify }},
   "author": {
     "@type": "Person",
-    "name": {{ site.author_name | jsonify }},
-    "givenName": {{ site.author_firstname | jsonify }},
-    "familyName": {{ site.author_lastname | jsonify }},
-    "email": {{ site.author_email | jsonify }},
+    "name": {{ site.author.name | jsonify }},
+    "givenName": {{ site.author.firstname | jsonify }},
+    "familyName": {{ site.author.lastname | jsonify }},
+    "email": {{ site.author.email | jsonify }},
 	"sameAs" : [
 		"https://orcid.org/0000-0002-5640-4413",
 		"https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ&hl=en",
@@ -40,11 +40,6 @@ layout: default
 		"http://europepmc.org/authors/0000-0002-5640-4413",
 		"http://gsl-archive.mit.edu/accounts/902/"
 	]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": {{ site.title | jsonify }},
-    "url": "{{ site.url }}"
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
