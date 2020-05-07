@@ -1,1 +1,1 @@
-His research interests include data mining, IoT, information systems and big data.
+His research interests include Data Mining, IoT, Information systems, Big data, Industrial AI, and Edge computing.

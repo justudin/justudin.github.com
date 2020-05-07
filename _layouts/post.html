@@ -10,6 +10,7 @@ layout: default
   "@type": "BlogPosting",
   "url": "{{ site.url }}{{ page.url }}",
   "name": {{ page.title | jsonify }},
+  "image": "https://publons.com/media/thumbs/academic/photos/9b59e3ad-7560-4f1d-98d4-890050e90a71.jpg.200x200_q95_crop_detail_upscale.jpg",
   "headline": {{ page.title | truncate: 100 | jsonify }},
   "keywords": {{ page.tags | join: ',' | jsonify }},
   "description": {{ page.categories | join: ',' | strip_html | strip | jsonify }},
@@ -49,7 +50,7 @@ layout: default
 		"url": "{{ site.url }}",
 		"logo": {
 			"@type": "ImageObject",
-			"url": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WLTzkOMAAAAJ&citpid=10"
+			"url": "https://publons.com/media/thumbs/academic/photos/9b59e3ad-7560-4f1d-98d4-890050e90a71.jpg.200x200_q95_crop_detail_upscale.jpg"
 		}
 	},
   "mainEntityOfPage": {
