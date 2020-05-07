@@ -45,7 +45,7 @@ layout: default
   },
 	"publisher": {
 		"@type": "Organization",
-		"name": site.author.name,
+		"name": {{ site.author.name | jsonify }},
 		"url": "{{ site.url }}",
 		"logo": {
 			"@type": "ImageObject",
