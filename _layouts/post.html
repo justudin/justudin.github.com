@@ -10,7 +10,7 @@ layout: default
   "@type": "BlogPosting",
   "url": "{{ site.url }}{{ page.url }}",
   "name": {{ page.title | jsonify }},
-  "headline": {{ page.title | jsonify }},
+  "headline": {{ page.title | truncate: 100 | jsonify }},
   "keywords": {{ page.tags | join: ',' | jsonify }},
   "description": {{ page.categories | join: ',' | strip_html | strip | jsonify }},
   "articleBody": {{ page.content | strip_html | jsonify }},
