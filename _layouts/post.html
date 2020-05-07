@@ -4,6 +4,55 @@ layout: default
 
 {% include breadcrumbs.html %}
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "{{ site.url }}{{ page.url }}",
+  "name": {{ page.title | jsonify }},
+  "headline": {{ page.title | jsonify }},
+  "keywords": {{ page.tags | join: ',' | jsonify }},
+  "description": {{ page.categories | join: ',' | strip_html | strip | jsonify }},
+  "articleBody": {{ page.content | strip_html | jsonify }},
+  "datePublished": {{ page.date | jsonify }},
+  "dateModified": {{ page.modified | default: page.date | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": {{ site.author_name | jsonify }},
+    "givenName": {{ site.author_firstname | jsonify }},
+    "familyName": {{ site.author_lastname | jsonify }},
+    "email": {{ site.author_email | jsonify }},
+	"sameAs" : [
+		"https://orcid.org/0000-0002-5640-4413",
+		"https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ&hl=en",
+		"https://www.researchgate.net/profile/Muhammad_Syafrudin",
+		"https://www.mendeley.com/profiles/muhammad-syafrudin2/",
+		"https://www.scopus.com/authid/detail.uri?authorId=57197741727",
+		"https://publons.com/researcher/1501728/muhammad-syafrudin/",
+		"http://ise.dongguk.edu/bbs/board.php?bo_table=ise5_1&wr_id=36",
+		"https://www.linkedin.com/in/justudin",
+		"https://sciprofiles.com/profile/212473",
+		"https://ieeexplore.ieee.org/author/37086107273",
+		"https://dblp.org/pers/s/Syafrudin:Muhammad",
+		"https://profiles.impactstory.org/u/0000-0002-5640-4413",
+		"https://dl.acm.org/profile/99659326902",
+		"https://www.wikidata.org/wiki/Q61147698",
+		"http://europepmc.org/authors/0000-0002-5640-4413",
+		"http://gsl-archive.mit.edu/accounts/902/",
+	]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "url": "{{ site.url }}"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}"
+  }
+}
+</script>
+
 <div id="main" role="main">
   <article class="post" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
