@@ -12,8 +12,86 @@
       document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
     </script>	
 	{% include link_ldjson.html %}
+  <script type="application/ld+json">
+  {
+  "@context": "http://www.schema.org",
+  "@type": "Person",
+  "@id": "{{ site.url }}/#person",
+  "name": {{ site.author.name | jsonify }},
+  "givenName": {{ site.author.firstname | jsonify }},
+  "familyName": {{ site.author.lastname | jsonify }},
+  "email": {{ site.author.email | jsonify }},
+  "nationality": "Indonesian",
+  "affiliation": [
+    {
+      "@type": "Organization",
+      "name": "Department of Industrial and Systems Engineering, Dongguk University, Seoul, Korea",
+      "sameAs": [
+        "http://www.dongguk.edu/",
+        "https://www.linkedin.com/company/dongguk-university",
+        "https://www.facebook.com/dg.univ/",
+        "https://www.youtube.com/channel/UCcKfGOfFVeoYZnv2xL5d4cQ",
+        "http://ise.dongguk.edu/index.php"
+      ]
+      }
+  ],
+  "alumniOf": [
+    {
+     "@type": "CollegeOrUniversity",
+     "name": "Dongguk University, Seoul, Korea",
+     "sameAs": "http://www.dongguk.edu/"
+    },
+    {
+     "@type": "CollegeOrUniversity",
+     "name": "UIN Sunan Kalijaga Yogyakarta, Indonesia",
+     "sameAs": "http://uin-suka.ac.id/"
+    }
+  ],
+  "gender": "Male",
+  "Description": {{ site.description }},
+  "jobTitle": "Assistant Professor",
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "Dongguk University",
+      "sameAs": [
+        "http://www.dongguk.edu/",
+        "https://www.linkedin.com/company/dongguk-university",
+        "https://www.facebook.com/dg.univ/",
+        "https://www.youtube.com/channel/UCcKfGOfFVeoYZnv2xL5d4cQ"
+      ]
+    }
+  ],
+  "url": "{{ site.url }}",
+  "image": "https://publons.com/media/thumbs/academic/photos/9b59e3ad-7560-4f1d-98d4-890050e90a71.jpg.200x200_q95_crop_detail_upscale.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "30 Pildong-ro 1-gil, Jung-gu",
+    "addressRegion": "Seoul",
+    "addressCountry": "Korea"
+  },
+  "sameAs" : [
+    "https://orcid.org/0000-0002-5640-4413",
+    "https://scholar.google.co.kr/citations?user=WLTzkOMAAAAJ&hl=en",
+    "https://www.researchgate.net/profile/Muhammad_Syafrudin",
+    "https://www.mendeley.com/profiles/muhammad-syafrudin2/",
+    "https://www.scopus.com/authid/detail.uri?authorId=57197741727",
+    "https://publons.com/researcher/1501728/muhammad-syafrudin/",
+    "http://ise.dongguk.edu/bbs/board.php?bo_table=ise5_1&wr_id=36",
+    "https://engineer.dongguk.edu/en2_2_6/1",
+    "https://www.linkedin.com/in/justudin",
+    "https://sciprofiles.com/profile/212473",
+    "https://ieeexplore.ieee.org/author/37086107273",
+    "https://dblp.org/pers/s/Syafrudin:Muhammad",
+    "https://profiles.impactstory.org/u/0000-0002-5640-4413",
+    "https://dl.acm.org/profile/99659326902",
+    "https://www.wikidata.org/wiki/Q61147698",
+    "http://europepmc.org/authors/0000-0002-5640-4413",
+    "http://gsl-archive.mit.edu/accounts/902/"
+  ]
+  }
+  </script>
   </head>
-
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {{ content }}
     <div class="page__footer">
