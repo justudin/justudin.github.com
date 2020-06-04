@@ -17,5 +17,3 @@ Radio Frequency Identification (RFID) technology has significantly improved in t
 
 Published in: Food Control<br/>
 DOI: [10.1016/j.foodcont.2019.107016](https://doi.org/10.1016/j.foodcont.2019.107016){:target="_blank"}
-
-**Free Access** before January 23, 2020: [https://authors.elsevier.com/c/1aAYB_LmCuycxj](https://authors.elsevier.com/c/1aAYB_LmCuycxj){:target="_blank"}
