@@ -15,6 +15,8 @@
 
 #### Conference proceedings and abstracts:
 
+10. Alfian, G.; **Syafrudin, M.**; Rhee, J.; Anshari, M.; Mustakim, M.; Fahrurrozi, I. Blood Glucose Prediction Model for Type 1 Diabetes based on Extreme Gradient Boosting. *IOP Conference Series: Materials Science and Engineering* 2020, 803, 012012. [[Link]](https://doi.org/10.1088/1757-899x/803/1/012012){:target="_blank"}
+9. Alfian, G.; **Syafrudin, M.**; Rhee, J.; Stasa, P.; Mulyanto, A.; Fatwanto, A. In-store Customer Shopping Behavior Analysis by Utilizing RFID-enabled Shelf and Multilayer Perceptron Model. *IOP Conference Series: Materials Science and Engineering* 2020, 803, 012022. [[Link]](https://doi.org/10.1088/1757-899x/803/1/012022){:target="_blank"}
 8. Alfian, G.; **Syafrudin, M.**; Jaeho, L.; Rhee, J. Detecting Movement and Direction of Tags for RFID Gate. *2019 5th International Conference on Science and Technology (ICST)*. July 30–31. Yogyakarta, Indonesia<br/>
 7. **Syafrudin, M.**; Lee, K.; Alfian, G.; Jaeho, L.; Rhee, J. Application of Bluetooth Low Energy-Based Real-Time Location System for Indoor Environments. *2018 2nd International Conference on Big Data and Internet of Things*. October 24 - 26. Beijing, China: ACM Digital Library. [[Link]](https://doi.org/10.1145/3289430.3289470){:target="_blank"}<br/>
 6. Alfian, G.; Ijaz, M.F.; **Syafrudin, M.**; Jaeho, L.; Rhee, J. A Low Cost IoT-based Traceability System for Perishable Food Supply Chain. *The 2018 World Congress on Information Technology Applications and Services*. February 20-22. Jeju, Korea: KIPS. [[Link]](http://www.worlditcongress.org/2018/World-IT_2018_Programbook_v4.5.pdf){:target="_blank"}<br/>
