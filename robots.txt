@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://muhammadsyafrudin.com/sitemap.xml
+Host: https://muhammadsyafrudin.com
