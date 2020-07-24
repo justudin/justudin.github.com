@@ -1,56 +1,30 @@
----
-layout: null
-sitemap:
-  exclude: true
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for post in site.posts %}
-    {% unless post.published == false %}
-    <url>
-      <loc>{{ site.url }}{{ post.url }}</loc>
-      {% if post.sitemap.lastmod %}
-        <lastmod>{{ post.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-      {% elsif post.date %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-      {% endif %}
-      {% if post.sitemap.changefreq %}
-        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
-      {% else %}
-        <changefreq>monthly</changefreq>
-      {% endif %}
-      {% if post.sitemap.priority %}
-        <priority>{{ post.sitemap.priority }}</priority>
-      {% else %}
-        <priority>0.5</priority>
-      {% endif %}
-    </url>
-    {% endunless %}
-  {% endfor %}
-  {% for page in site.pages %}
-    {% unless page.sitemap.exclude %}
-    <url>
-      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-      {% if page.sitemap.lastmod %}
-        <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-      {% elsif page.date %}
-        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-      {% endif %}
-      {% if page.sitemap.changefreq %}
-        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-      {% else %}
-        <changefreq>monthly</changefreq>
-      {% endif %}
-      {% if page.sitemap.priority %}
-        <priority>{{ page.sitemap.priority }}</priority>
-      {% else %}
-        <priority>0.3</priority>
-      {% endif %}
-    </url>
-    {% endunless %}
-  {% endfor %}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://muhammadsyafrudin.com/blog/2020-07-20-HDPM-An-Effective-Heart-Disease-Prediction-Model-for-a-Clinical-Decision-Support-System/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2020-05-01-Blood Glucose Prediction Model for Type 1 Diabetes based on Extreme Gradient Boosting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2020-05-01-In-store-Customer-Shopping-Behavior-Analysis-by-Utilizing-RFID-enabled-Shelf-and-Multilayer-Perceptron-Model/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2019-11-28-Improving-Efficiency-of-RFID-based-Traceability-System-for-Perishable-Food-by-Utilizing-IoT-Sensors-and-Machine-Learning-Model/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2019-10-02-Development-of-Disease-Prediction-Model-Based-on-Ensemble-Learning-Approach-for-Diabetes-and-Hypertension/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2019-03-19-False-Positive-RFID-Detection-Using-Classification-Models/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2019-01-14-Customer-behavior-analysis-using-real-time-data-processing-A-case-study-of-digital-signage-based-online-stores/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2019-01-09-An-Affordable-Fast-Early-Warning-System-for-Edge-Computing-in-Assembly-Line/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2018-10-24-Application-of-Bluetooth-Low-Energy-Based-Real-Time-Location-System-for-Indoor-Environments/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2018-09-05-Performance-Analysis-of-IoT-Based-Sensor,-Big-Data-Processing,-and-Machine-Learning-Model-for-Real-Time-Monitoring-System-in-Automotive-Manufacturing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2018-08-08-Hybrid-Prediction-Model-for-Type-2-Diabetes-and-Hypertension-Using-DBSCAN-Based-Outlier-Detection-Synthetic-Minority-Over-Sampling-Technique-(SMOTE)-and-Random-Forest/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2018-07-06-A-Personalized-Healthcare-Monitoring-System-for-Diabetic-Patients-by-Utilizing-BLE-Based-Sensors-and-Real-Time-Data-Processing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2018-02-21-A-Low-Cost-IoT-based-Traceability-System-for-Perishable-Food-Supply-Chain/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2017-12-08-Real-time-monitoring-system-based-on-IoT-sensor-data-for-assembly-line-process-in-the-automotive-factory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2017-11-25-Development-of-Real-time-Prediction-System-Based-on-Random-Forest-Algorithm-in-Smart-Factory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2017-11-20-An-Open-Source-Based-Real-Time-Data-Processing-Architecture-Framework-for-Manufacturing-Sustainability/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2017-11-10-Real-Time-Monitoring-System-Using-Smartphone-Based-Sensors-and-NoSQL-Database-for-Perishable-Supply-Chain/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2017-06-09-Performance-Analysis-of-a-Forecasting-Relocation-Model-for-One-Way-Carsharing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2017-05-19-Development-of-Distributed-Processing-System-for-Real-time-Sensor-Data/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2016-10-14-Real-time-eye-state-detection-system-using-haar-cascade-classifier-and-circular-hough-transform/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/2016-06-25-A-Quality-Prediction-as-a-Service-for-Manufacturing-Small-and-Medium-sized-Enterprises-(SMEs)/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/publication/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://muhammadsyafrudin.com/resume/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
