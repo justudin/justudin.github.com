@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{"1GPU":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),c=n.n(a),l=n("Zttt"),r=n("wtQ5"),o=n("OKcn"),s=n("q5BQ");t.default=function(){return c.a.createElement(l.a,null,c.a.createElement(r.a,{title:"Blog"}),c.a.createElement(o.a,{section:!0},c.a.createElement(s.a,{subtitle:"Under-constructions",center:!0}),c.a.createElement("h2",{className:"mt-4 text-center w-full"},"We will update soon")))}}}]);
-//# sourceMappingURL=component---src-pages-blog-tsx-3fa0953e2b50aec52a29.js.map
