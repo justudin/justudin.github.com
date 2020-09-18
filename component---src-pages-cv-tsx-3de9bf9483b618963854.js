@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{PjBF:function(n,o,e){"use strict";function i(){return"undefined"!=typeof window&&(window.location="https://drive.google.com/file/d/1XX9x6O-U3CmNnJ0IGXFTVnCHbV-nQPD9/view"),null}e.r(o),e.d(o,"default",(function(){return i}))}}]);
+//# sourceMappingURL=component---src-pages-cv-tsx-3de9bf9483b618963854.js.map
